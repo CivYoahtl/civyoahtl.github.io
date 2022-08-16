@@ -231,3 +231,7 @@ Add the following sub-article to Article 2:
 ### 12th Amendment
 
 1. Add subsection to Article 2.4: `Laws passed by the Council may not override laws passed by the Ololtic.`
+
+### 13th Amendment
+
+1. To take effect when the next full council election occurs (September 2022): Changing Article 2 Section 7 from 'The Council is responsible for electing the Alcuahtl from among the Ololtic who are not currently serving as High Justice or other executive offices.' to 'The Council is responsible for electing the Alcuahtl to be "first among equals" from among their fellow Councillors.'
