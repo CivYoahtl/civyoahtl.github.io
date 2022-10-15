@@ -87,3 +87,5 @@
 
 ## Outcome
 > 14uu gives DevFTW access to improve the grinder, but retains ownership.
+
+#END OF TRANSCRIPT
