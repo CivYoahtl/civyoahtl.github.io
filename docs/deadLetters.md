@@ -10,3 +10,6 @@ A collection of links found within Yoahtl's Wiki on reddit that no longer contai
 - [Yoahtl Code of Legal Procedure (December 2018)](https://drive.google.com/file/d/1cYiYVHAeP6hj3DMdXAwflmoOcXhn4b2Z/view)
 
 sdfdfghgfhgh
+
+
+ahhhh HELP ME IM A BOOMER
