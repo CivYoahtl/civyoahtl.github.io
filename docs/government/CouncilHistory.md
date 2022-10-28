@@ -151,7 +151,7 @@
 
 **Alcuahtl:** Feathercrown
 
-**Deputy Alcuahtl:** <none>
+**Deputy Alcuahtl:** \<none>
 
  * gbrbgryn
  * MightyOddish
