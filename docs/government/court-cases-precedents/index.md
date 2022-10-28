@@ -258,4 +258,6 @@ Precedents:
 
 ## [Yoahtl v. Okx, Nov 2021](/government/court-cases-precedents/yoahtl_v_okx_nov_2021)
 
-## [Supremacy Clarification, Jan 2022](C:\Users\Bradl\OneDrive\Documents\GitHub\civyoahtl.github.io\docs\government\court-cases-precedents\supremacy_clarification_jan_2022.md)
+## [Supremacy Clarification, Jan 2022](C:\Users\Bradl\OneDrive\Documents\GitHub\civyoahtl.github.io\docs\government\court-cases-precedents\supremacy_clarification_jan_2022.md) heres the doc 
+
+test
