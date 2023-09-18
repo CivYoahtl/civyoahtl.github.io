@@ -17,22 +17,17 @@ const members = [
     links: []
   },
   {
-    avatar: "https://cdn.discordapp.com/avatars/280697770942136320/3a93e8d2c10469b5ac6d958f9e914e9d?size=1024",
-    name: "JessieJinx",
+    avatar: "https://cdn.discordapp.com/avatars/528230329454952478/a_fe45d0fd7bd63f2df1dc0ed01fdaa3d9?size=1024",
+    name: "Awesome_Daniel",
     title: 'Councillor',
   },
   {
-    avatar: "https://cdn.discordapp.com/avatars/565974620243755010/a9a4c48978afebf6a59750b44ab94003?size=1024",
-    name: "Matt4fun9",
-    title: "Councillor"
-  },
-  {
-    avatar: 'https://cdn.discordapp.com/avatars/547001895458177044/c68145cb724bce64de4e335a3e10f7ba?size=1024',
-    name: "VilyanZ",
+    avatar: 'https://cdn.discordapp.com/avatars/292506314075275274/7dacdaee62825da51927ea05740b091b?size=1024',
+    name: "Nukinmouse01",
     title: 'Councillor',
   },
   {
-    avatar: 'https://cdn.discordapp.com/avatars/270360642496626690/b9ceea18f88c471b449b6945f821863e?size=1024',
+    avatar: 'https://cdn.discordapp.com/avatars/270360642496626690/9b215e96c56bf570d12f0f004e70978a?size=1024',
     name: "x1025",
     title: 'Councillor',
   },

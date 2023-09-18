@@ -58,3 +58,5 @@ You can learn more about Git & Github on [Github's Git Guide](https://github.com
 > For advanced users only
 
 Optimize pdfs using: https://github.com/pts/pdfsizeopt
+
+Get Discord profile from id: https://toolscord.com/

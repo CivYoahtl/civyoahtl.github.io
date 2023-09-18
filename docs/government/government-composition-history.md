@@ -247,7 +247,7 @@ Husky was appointed High Justice on 3/31/2023
 
 _There was an emergency election due to war thus the early end date_
 
-### 5th July 2023 - ...
+### 5th July 2023 - 13th September 2023
 
 **Alcuahtl**: Arconis
 
@@ -255,5 +255,15 @@ _There was an emergency election due to war thus the early end date_
 - JessieJinx (Councillor)
 - Matt4fun9 (Councillor)
 - Vilyanz (Councillor)
+- x1025 (Councillor)
+- ArkenX (General)
+
+### 13th September 2023 - ...
+
+**Alcuahtl**: Arconis
+
+- Arconis (Councillor)
+- Awesome_Daniel (Councillor)
+- Nukinmouse01 (Councillor)
 - x1025 (Councillor)
 - ArkenX (General)
