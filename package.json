@@ -13,7 +13,7 @@
     "serve": "vitepress serve docs"
   },
   "devDependencies": {
-    "@vite-pwa/vitepress": "^0.2.0",
+    "@vite-pwa/vitepress": "^0.2.1",
     "esno": "^0.17.0",
     "flexsearch": "^0.7.31",
     "markdown-it": "^13.0.1",
