@@ -29,8 +29,8 @@ devDependencies:
     specifier: ^0.16.5
     version: 0.16.5(vite@4.4.9)(workbox-build@7.0.0)(workbox-window@7.0.0)
   vitepress:
-    specifier: ^1.0.0-rc.12
-    version: 1.0.0-rc.12(@algolia/client-search@4.19.1)(search-insights@2.8.0)
+    specifier: ^1.0.0-rc.14
+    version: 1.0.0-rc.14(@algolia/client-search@4.19.1)(search-insights@2.8.0)
   vue:
     specifier: ^3.3.4
     version: 3.3.4
@@ -3422,9 +3422,14 @@ packages:
     optionalDependencies:
       fsevents: 2.3.3
 
-  /vitepress@1.0.0-rc.12(@algolia/client-search@4.19.1)(search-insights@2.8.0):
-    resolution: {integrity: sha512-mZknN5l9lgbBjXwumwdOQQDM+gPivswFEykEQeenY0tv7eocS+bb801IpFZT3mFV6YRhSddmbutHlFgPPADjEg==}
+  /vitepress@1.0.0-rc.14(@algolia/client-search@4.19.1)(search-insights@2.8.0):
+    resolution: {integrity: sha512-yChIeXOAcNvVnSVjhziH1vte0uhKb00PuZf7KdIMfx3ixTMAz73Nn+6gREvCv0SdH+anteGUKz5eljv0ygcgGQ==}
     hasBin: true
+    peerDependencies:
+      markdown-it-mathjax3: ^4.3.2
+    peerDependenciesMeta:
+      markdown-it-mathjax3:
+        optional: true
     dependencies:
       '@docsearch/css': 3.5.2
       '@docsearch/js': 3.5.2(@algolia/client-search@4.19.1)(search-insights@2.8.0)
