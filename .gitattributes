@@ -4,3 +4,4 @@
 # Make git track files as binaries
 *.pdf binary
 *.png binary
+*.mp4 binary
