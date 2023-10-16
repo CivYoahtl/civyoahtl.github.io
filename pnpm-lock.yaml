@@ -14,8 +14,8 @@ dependencies:
 
 devDependencies:
   '@vite-pwa/vitepress':
-    specifier: ^0.2.1
-    version: 0.2.1(vite-plugin-pwa@0.16.5)
+    specifier: ^0.2.3
+    version: 0.2.3(vite-plugin-pwa@0.16.5)
   esno:
     specifier: ^0.17.0
     version: 0.17.0
@@ -1746,8 +1746,8 @@ packages:
     resolution: {integrity: sha512-4p9vcSmxAayx72yn70joFoL44c9MO/0+iVEBIQXe3v2h2SiAsEIo/G5v6ObFWvNKRFjbrVadNf9LqEEZeQPzdA==}
     dev: true
 
-  /@vite-pwa/vitepress@0.2.1(vite-plugin-pwa@0.16.5):
-    resolution: {integrity: sha512-57cEZSK86kWI8pTIHe5rochWOGaApPH6jrdjhQy0ufnkYHml7J4xUGV5rHQpJMSWbS4YppwHsKzzltvjNCbg0g==}
+  /@vite-pwa/vitepress@0.2.3(vite-plugin-pwa@0.16.5):
+    resolution: {integrity: sha512-6k9151CmILbSJQ88hLEMLL+MOQZDURKg2c4Wo5UcaEaOWU0jv7S+mo8nqyg86sM6ry8Jlnp6Zfv6AE0FqnfEyQ==}
     peerDependencies:
       vite-plugin-pwa: '>=0.16.5 <1'
     dependencies:
