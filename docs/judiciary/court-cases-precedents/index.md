@@ -273,3 +273,10 @@ Precedents:
 Precedents:
 
 - The court recognizes the charges of withholding payment and breach of contract as valid.
+
+## [Nukinmouse01 v. Torynado, Oct 2023](/judiciary/court-cases-precedents/nukinmouse01_v_torynado_oct_2023.md)
+
+Precedents:
+
+- The court values emotional and mental wellbeing over virtual assets.
+- Trails relating to the same incident should be consolidated where appropriate.

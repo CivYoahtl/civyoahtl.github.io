@@ -91,3 +91,9 @@ Yoahtl signed the [Treaty of Capitum](/storage/treaties/treaty-of-capitum.pdf) a
 Yoahtl signed the [Treaty of Exilus](/storage/treaties/treaty-exilus-incorperation.pdf) allowing Exilus to join as a homestead.
 
 - Signed 2nd May 2023
+
+## Rivia and Yoahtl Non-Aggression Pact
+
+Yoahtl signed the [Rivia and Yoahtl Non-Aggression Pact](/storage/treaties/RIV_YOH_Treaty.pdf) treaty, ensuring peace between our two nations. _([Google doc version](https://docs.google.com/document/d/1kGr_zJx1OKW-RT69HQYkic-WrLuPqLDFOR2W1vvzCc4/edit))_
+
+- Signed 9th August 2023
