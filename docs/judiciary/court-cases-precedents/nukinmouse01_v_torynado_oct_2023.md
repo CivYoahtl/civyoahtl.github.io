@@ -169,11 +169,11 @@ With Awesome_daniel presiding, on 3rd of October 2023, Nukinmouse01 charged Tory
 > 
 
 ![evidence_6_x1025.jpg](../../assets/judiciary/nukinmouse01_v_torynado_oct_2023/evidence_6_x1025.jpg)
-![evidence_5_x1025.PNG.jpg](../../assets/judiciary/nukinmouse01_v_torynado_oct_2023/evidence_5_x1025.PNG.jpg)
-![evidence_4_x1025.PNG](../../assets/judiciary/nukinmouse01_v_torynado_oct_2023/evidence_4_x1025.PNG)
-![evidence_3_x1025.PNG](../../assets/judiciary/nukinmouse01_v_torynado_oct_2023/evidence_3_x1025.PNG)
-![evidence_2_x1025.PNG](../../assets/judiciary/nukinmouse01_v_torynado_oct_2023/evidence_2_x1025.PNG)
-![evidence_1_x1025.PNG](../../assets/judiciary/nukinmouse01_v_torynado_oct_2023/evidence_1_x1025.PNG)
+![evidence_5_x1025.jpg](../../assets/judiciary/nukinmouse01_v_torynado_oct_2023/evidence_5_x1025.jpg)
+![evidence_4_x1025.png](../../assets/judiciary/nukinmouse01_v_torynado_oct_2023/evidence_4_x1025.png)
+![evidence_3_x1025.png](../../assets/judiciary/nukinmouse01_v_torynado_oct_2023/evidence_3_x1025.png)
+![evidence_2_x1025.png](../../assets/judiciary/nukinmouse01_v_torynado_oct_2023/evidence_2_x1025.png)
+![evidence_1_x1025.png](../../assets/judiciary/nukinmouse01_v_torynado_oct_2023/evidence_1_x1025.png)
 
 > 
 
