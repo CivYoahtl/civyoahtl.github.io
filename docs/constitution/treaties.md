@@ -97,3 +97,9 @@ Yoahtl signed the [Treaty of Exilus](/storage/treaties/treaty-exilus-incorperati
 Yoahtl signed the [Rivia and Yoahtl Non-Aggression Pact](/storage/treaties/RIV_YOH_Treaty.pdf) treaty, ensuring peace between our two nations. _([Google doc version](https://docs.google.com/document/d/1kGr_zJx1OKW-RT69HQYkic-WrLuPqLDFOR2W1vvzCc4/edit))_
 
 - Signed 9th August 2023
+
+## Yoahtl and Gang Shi Non-Aggression Pact
+
+Yoahtl signed the [Yoahtl and Gang Shi Non-Aggression Pact](/storage/treaties/Yoahtl-Gang-Shi-NAP.pdf) treaty, ensuring peace between our two nations. _([Google doc version](https://docs.google.com/document/d/1EMo9_HJOKTCKZNtb9t85htzn9-awVBSvmhMit9af3DQ/edit))_
+
+- Signed 22nd October 2023
