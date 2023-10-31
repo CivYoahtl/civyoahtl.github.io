@@ -1125,3 +1125,19 @@ _Notes: I'm not typing this shit, just read the google doc._
 [Google Doc](https://docs.google.com/document/d/1CIhRw8bhJImF7tuwub-_WZyEXvx6iB2pVn31VepoJvw/edit), [Archive](/storage/proposals/Homesteads-and-Towns-Act.pdf)
 
 **Proposal Failed:** 4 Ayes, 6 Nays, 4 Abstains
+
+## [Proposal] Torynado citizenship removal
+
+Proposer: Solitaire, Seconded by: Arconis, Date: October 14th, 2023
+
+> For avoiding the continuance of headache causing and due to lessons not being learnt from the recent trial against her. I would like to propose that Torynado's Ololtic membership is removed (not suspended) and that once her 21 day sentence is up her belongings are given to her and she is free to live outside of Yoahtl and will not be prosecuted further for her words given she leaves Yoahtl.
+
+**Proposal Failed:** 0 Ayes, 5 Nays, 7 Abstains
+
+## [Proposal] Torynado citizenship removal 2 Electricboogaloo
+
+Proposer: MechanicalRift, Seconded by: Arconis, Date: October 28th, 2023
+
+> Tory had leaked multiple things intenting to harm the community. In order to have legal exile instead of just in acting exile. I propose that she is removed from citizenship.
+
+**Proposal Passed:** 16 Ayes, 0 Nays, 2 Abstains
