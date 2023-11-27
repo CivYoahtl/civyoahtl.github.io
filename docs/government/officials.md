@@ -22,12 +22,12 @@ const members = [
     title: 'Councillor',
   },
   {
-    avatar: 'https://cdn.discordapp.com/avatars/292506314075275274/7dacdaee62825da51927ea05740b091b?size=1024',
-    name: "Nukinmouse01",
+    avatar: 'https://cdn.discordapp.com/avatars/280697770942136320/3a93e8d2c10469b5ac6d958f9e914e9d?size=1024',
+    name: "JessieJinx",
     title: 'Councillor',
   },
   {
-    avatar: 'https://cdn.discordapp.com/avatars/270360642496626690/9b215e96c56bf570d12f0f004e70978a?size=1024',
+    avatar: 'https://cdn.discordapp.com/avatars/270360642496626690/790b5bf064c869dfd12cc1985fc0a31f?size=1024',
     name: "x1025",
     title: 'Councillor',
   },

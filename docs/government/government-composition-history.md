@@ -258,12 +258,22 @@ _There was an emergency election due to war thus the early end date_
 - x1025 (Councillor)
 - ArkenX (General)
 
-### 13th September 2023 - ...
+### 13th September 2023 - 13th November 2023
 
 **Alcuahtl**: Arconis
 
 - Arconis (Councillor)
 - Awesome_Daniel (Councillor)
 - Nukinmouse01 (Councillor)
+- x1025 (Councillor)
+- ArkenX (General)
+
+### 13th November 2023 - ...
+
+**Alcuahtl**: Arconis
+
+- Arconis (Councillor)
+- Awesome_Daniel (Councillor)
+- JessieJinx (Councillor)
 - x1025 (Councillor)
 - ArkenX (General)
