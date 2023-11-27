@@ -9,22 +9,12 @@ const close = async () => {
   offlineReady.value = false
 }
 
-// update every hour
-const intervalMS = 60 * 60 * 1000
-
 onBeforeMount(async () => {
-
-  /** @type {import("pwa-register").registerSW} */
   const { registerSW } = await import('virtual:pwa-register')
   registerSW({
     immediate: true,
     onOfflineReady,
-    onRegistered(r) {
-
-      // manual update every hour
-      r && setInterval(() => {
-        r.update()
-      }, intervalMS)
+    onRegistered() {
 
       console.info('Service Worker registered')
     },
@@ -68,7 +58,7 @@ onBeforeMount(async () => {
         z-index: 100;
         text-align: left;
         box-shadow: 3px 4px 5px 0 #8885;
-        background-color: var(--vp-c-bg);
+        background-color: white;
     }
     .pwa-toast #pwa-message {
         margin-bottom: 8px;
