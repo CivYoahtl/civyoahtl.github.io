@@ -14,8 +14,8 @@ dependencies:
 
 devDependencies:
   '@vite-pwa/vitepress':
-    specifier: ^0.2.3
-    version: 0.2.3(vite-plugin-pwa@0.17.2)
+    specifier: ^0.3.1
+    version: 0.3.1(vite-plugin-pwa@0.17.2)
   esno:
     specifier: ^4.0.0
     version: 4.0.0
@@ -2027,10 +2027,10 @@ packages:
     resolution: {integrity: sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==}
     dev: true
 
-  /@vite-pwa/vitepress@0.2.3(vite-plugin-pwa@0.17.2):
-    resolution: {integrity: sha512-6k9151CmILbSJQ88hLEMLL+MOQZDURKg2c4Wo5UcaEaOWU0jv7S+mo8nqyg86sM6ry8Jlnp6Zfv6AE0FqnfEyQ==}
+  /@vite-pwa/vitepress@0.3.1(vite-plugin-pwa@0.17.2):
+    resolution: {integrity: sha512-krgiYQCWXUkpQCx+IHdsanFFpAzfH5pY86MARDa6as5ZNmG18mb/gC6MEahFV67V0xfMfTaNL4B8dQNzzcikLw==}
     peerDependencies:
-      vite-plugin-pwa: '>=0.16.5 <1'
+      vite-plugin-pwa: '>=0.17.2 <1'
     dependencies:
       vite-plugin-pwa: 0.17.2(vite@5.0.5)(workbox-build@7.0.0)(workbox-window@7.0.0)
     dev: true
