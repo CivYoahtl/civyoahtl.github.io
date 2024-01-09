@@ -20,8 +20,8 @@ devDependencies:
     specifier: ^4.0.0
     version: 4.0.0
   flexsearch:
-    specifier: ^0.7.31
-    version: 0.7.31
+    specifier: ^0.7.41
+    version: 0.7.41
   markdown-it:
     specifier: ^14.0.0
     version: 14.0.0
@@ -2656,8 +2656,8 @@ packages:
       to-regex-range: 5.0.1
     dev: true
 
-  /flexsearch@0.7.31:
-    resolution: {integrity: sha512-XGozTsMPYkm+6b5QL3Z9wQcJjNYxp0CYn3U1gO7dwD6PAqU1SVWZxI9CCg3z+ml3YfqdPnrBehaBrnH2AGKbNA==}
+  /flexsearch@0.7.41:
+    resolution: {integrity: sha512-nlSsN+cLeoOMEPivjjMuYdMN7WdCKaogCirVZNxQ8a34reoKZvxDxbAtIoAK1ewmkXd5dz8Pb2kwwYJ6b/07PQ==}
     dev: true
 
   /focus-trap@7.5.4:
