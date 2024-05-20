@@ -1252,3 +1252,11 @@ Proposer: MechanicalRift, Seconded by: Neotide, Date: February 16th, 2024
 > "After a period of discussion of a minimum of 24 hours during which the specifics of the law are discussed and revisions are suggested, a different member of the Ololtic can "second" the proposal. It enters a 48-hour period where it is voted on, during which discussion may continue." 
 
 **Proposal Failed:** 15 Aye, 1 Nay, No Abstains
+
+## [Proposal] Name the Vault
+
+Proposer: bgbba, Seconded by: Yergo, Date: April 18th, 2024
+
+> I cannot vote but I can propose. I propose that the newly renovated vault be renamed to ‘South of the Border’ in honor of the largest tourist attraction south of the Mason Dixon line. That is all.
+
+**Proposal Failed:** 3 Aye, 7 Nay, No Abstains
