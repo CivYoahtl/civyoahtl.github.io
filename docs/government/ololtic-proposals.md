@@ -1,6 +1,6 @@
-# Olotic Proposals
+# Ololtic Proposals
 
-_(Proposals that failed or were withdrawn are hidden by spoiler text; Proposals that passed but have been superceded are crossed out.)_
+_(Proposals that failed or were withdrawn are hidden by spoiler text. Proposals that passed but have been superceded are crossed out.)_
 
 [[toc]]
 
@@ -17,7 +17,7 @@ Proposer: bgbba, Seconded By: Spacevolcano, Date: 22nd July 2019
 >
 > ~~At the end of the proposal cycle, this channel will be cleared and its contents recorded for posterity so that it's not bogged down.~~
 
-**Proposal passed**: Votes unknown.
+**Proposal Passed**: Votes Unknown
 
 _(Amends [The Yoahtlan Charter](/constitution/charter))_
 
@@ -29,18 +29,23 @@ Proposer: bgbba, Seconded By: SpaceVolcano, Date: 25th July 2019
 > The current Article IV Section Two states that people are entitled to up to three votes, but this process has never been used and none of the institutions described for affording people their second or third votes have ever been created. In short, it's a dead part of the current charter that runs contrary to the working history and precedent that guides Yoahtlan institutions.
 > In addition, it is the opinion of the government that allowing institutions to privilege certain individuals with greater voting power opens the door to corruption and the presence of this clause within the charter constitutes a potential avenue for votes to be challenged in court over the legitimacy of the voter's ballot. It's overly complicated, we've never used it, and it's potentially dangerous.
 
-**Proposal passed**: Votes unknown.
+**Proposal Passed**: Votes Unknown
 
 _(Amends [The Yoahtlan Charter](/constitution/charter))_
 
 ## Proposal Three (Failed)
+
+<details>
+<summary>Details</summary>
 
 Proposer: Lukasmaps, Seconded By: WackyAki, Date: 25th July 2019
 
 > Currently, proposals are advanced by the citizenry, then voted on by the council. If the council rejects a proposal they provide a reason for its rejection and the citizenry can then override the veto with a 2/3’s majority.
 > Lukas proposal is to eliminate the Council’s review role and instead change the charter so that the High Justice reviews the proposal for constitutionality. In short, the idea is to replace executive review with judicial review.
 
-**Proposal failed**: No Ayes, 13 Nays, No Abstentions
+**Proposal Failed**: 0 Ayes, 13 Nays, 0 Abstentions
+
+</details>
 
 ## Proposal Four (Passed)
 
@@ -48,7 +53,7 @@ Proposer: GDAN12, Seconded By: bgbba, Date: 31st July 2019
 
 > Change the charter so that the high justice’s term length is indefinite (until resignation, impeachment, or quitting) instead of three months. In addition, lower the requirement for removing the High Justice from 67% Ayes from the Ololtic to 60%.
 
-**Proposal passed**: 16 Ayes, 1 Nay, No Abstentions
+**Proposal Passed**: 16 Ayes, 1 Nay, 0 Abstentions
 
 _(Amends [The Yoahtlan Charter](/constitution/charter))_
 
@@ -58,25 +63,35 @@ Proposer: bgbba, Seconded By: LukasMaps, Date: 24th August 2019
 
 > The current Charter states that the Alcuahtl is elected by the Council, to be 'first among equals' of their peers. However, the charter doesn't specify that the Alcuahtl has to be from the council. I believe that we should confirm that the Alcuahtl can be anybody and doesn't have to be an existing Councillor to be elected. This proposal would be to confirm this by changing Article II Section 7 from "The Council is responsible for electing the Alcuahtl to be “first among equals” from among their peers." to "The Council is responsible for electing the Alcuahtl from among the Ololtic who are not currently serving as High Justice or other created executive offices to be 'first among equals' from among their peers."
 
-**Proposal passed**: 16 Ayes, 2 Nays, No Abstentions
+**Proposal Passed**: 16 Ayes, 2 Nays, 0 Abstentions
 
 _(Amends [The Yoahtlan Charter](/constitution/charter))_
 
 ## Proposal Six (Failed)
 
+<details>
+<summary>Details</summary>
+
 Proposer: GDAN12, Seconded By: WackyAki, Date: 28th August 2019
 
 > Yoahtl's representatives for SATO can only consist of the Alcuahtl, Deputy Alcuahtl, High Justice, and current Councillors. There’s no sense in us restricting ourselves for no good reason, if SATO trusts somebody and we trust them there’s no reason that they shouldn’t be a representative in SATO. This is akin to requiring that America’s representatives at the UN consist of Senators, the President, or the justices of the SCOTUS. In addition, I believe that this violates the charter because the charter clearly states that the Alcuahtl can delegate their authority out to people as needed, so restricting them in this manner is either irrelevant or unconstitutional.
 
-**Proposal failed**: No Ayes, 10 Nays, 1 Abstention
+**Proposal Failed**: 0 Ayes, 10 Nays, 1 Abstention
+
+</details>
 
 ## Proposal Seven (Failed)
+
+<details>
+<summary>Details</summary>
 
 Proposer: LukasMaps, Seconded By: Orinnari, Date: 30th August 2019
 
 > Change the proposal voting system so that an abstention is counted as a reduction in the voter pool rather than as a de facto “nay” vote as it is now.
 
-**Proposal failed**: 13 Ayes, 1 Nay, 2 Abstentions
+**Proposal Failed**: 13 Ayes, 1 Nay, 2 Abstentions
+
+</details>
 
 ## Proposal Eight (Passed)
 
@@ -95,25 +110,35 @@ Proposer: GDAN12, Seconded By: Multiple citizens, Date: 31st August 2019
 >
 > > "rights to their land in the event of them going inactive" is removed for autonomous towns (with the exception of Resimere and Pacem). Instead, "All towns retain the rights to any developed settlements (excludes farms, roads and other minor infrastructure) in the case of inactivity."
 
-**Proposal passed**: 21 Ayes, No Nays, 1 Abstention
+**Proposal Passed**: 21 Ayes, 0 Nays, 1 Abstention
 
 _(Amends [Council Act 1.4](/government/council-acts#council-act-1-4))_
 
 ## Proposal Nine (Failed)
 
+<details>
+<summary>Details</summary>
+
 Proposer: Orinnari, Seconded By: bgbba, Date: 4th September 2019
 
 > Commercial ventures such as http://civmall.ml/ that are able to precisely track their income must pay import tax if the delivery drop chest is within Yoahtl's borders.
 
-**Proposal failed**: 8 Ayes, 10 Nays, No Abstentions
+**Proposal Failed**: 8 Ayes, 10 Nays, 0 Abstentions
+
+</details>
 
 ## Proposal Ten (Failed)
+
+<details>
+<summary>Details</summary>
 
 Proposer: Orinnari, Seconded By: bgbba, Date: 5th September 2019
 
 > The law should be changed so that citizens must register to vote to take part in Ololtic duties (ie: voting). It would by extension act as a form of citizens' census. This would require a physical place set up in game for citizens to register via screenshot, with certain details replaced daily or weekly to prevent registration fraud. Proposals will then only need 50% of those who bother to participate in our nations politics, rather than requiring people such as GDAN to ping people. One's voter registration lasts thirty days.
 
-**Proposal failed**: 2 Ayes, 8 Nays, No Abstentions
+**Proposal Failed**: 2 Ayes, 8 Nays, 0 Abstentions
+
+</details>
 
 ## Proposal Eleven (Passed)
 
@@ -121,26 +146,36 @@ Proposer: alzdadog, Seconded By: LukasMaps, Date: 9th September 2019
 
 > ~~Citizens who do not vote on a bill are no longer counted as Nay but are instead subtracted from the voter pool during the count. To ensure that everything remains fair though there shall be a 2/3 quorum (meaning unless 2/3 of citizens participate then the bill is automatically rejected.)~~
 
-Proposal passed: 19 Ayes, 1 Nay, No Abstentions
+**Proposal Passed**: 19 Ayes, 1 Nay, 0 Abstentions
 
 _(Amends [The Yoahtlan Charter](/constitution/charter))_
 
 ## Proposal Twelve (Failed)
 
+<details>
+<summary>Details</summary>
+
 Proposer: GDAN12, Seconded By: WackyAki, Date: 13th September 2019
 
 > Any Basements either created or extended after 14/09/2019 should not pass beyond the boundaries of ones plot.
 
-**Proposal failed**: 2 Ayes, 13 Nays, 3 Abstentions
+**Proposal Failed**: 2 Ayes, 13 Nays, 3 Abstentions
+
+</details>
 
 ## Proposal Thirteen (Failed)
+
+<details>
+<summary>Details</summary>
 
 Proposer: LukasMaps, Seconded By: Sventhar, Date: 14th September 2019
 
 > Formally name NYC as NYC and the island it's situated on as Nixotlan.
 > Background: Currently both the island and the city are formally named Nixotlan, but obviously nobody uses that name. In colloquial usage, the city is referred to as NYC and the island is nameless. This proposal would have the dual effect of solidifying the name people already call NYC by as it’s actual legal name and also making it easier to talk about the island NYC is on by being able to call it by one word (Nixotlan) instead of the much more clunky “The island NYC is on.”
 
-**Proposal failed**: 13 Ayes, 2 Nays, 2 Abstentions (Quorum not met)
+**Proposal Failed**: 13 Ayes, 2 Nays, 2 Abstentions (Quorum not met)
+
+</details>
 
 ## Proposal Fourteen (Passed)
 
@@ -150,33 +185,51 @@ Proposer: GDAN12, Seconded By: LukasMaps, Date: 25th September 2019
 > (Other direct agreements with the government such as treaties of autonomous towns do not have to follow such rules, however they must be agreed by a majority council vote.)
 > Reason for proposal: This clarifies the method of becoming a citizen, it means that at least it's documented somewhere so even if a new resident can't find it a citizen will probably be able to tell them how to become a citizen.
 
-**Proposal passed**: 14 Ayes, No Nays, No Abstentions
+**Proposal Passed**: 14 Ayes, 0 Nays, 0 Abstentions
 
 ## Proposal Fifteen (Withdrawn)
+
+<details>
+<summary>Details</summary>
 
 Proposer: bgbba, Seconded By: iOminous, Date: 25th September 2019
 
 > Eliminate #politics_irl and all other channels regarding politics or real life drama which causes internal drama or incites unneeded conflict between Yoahtlans, foreigners, or any other individuals who would otherwise exist in this discord unmolested and undisturbed.
 
-**Proposal withdrawn**: 2 Ayes, 9 Nays, 2 Abstentions
+**Proposal Withdrawn**: 2 Ayes, 9 Nays, 2 Abstentions
+
+</details>
 
 ## Proposal Sixteen (Failed)
+
+<details>
+<summary>Details</summary>
 
 Proposer: F1SH98, Seconded By: Sventhar, Date: 25th September 2019
 
 > Officially ban all mining within the claims of Yoahtl Proper, including but not limited to, Okashima and Odresh. Domestic mining creates abandoned shafts underneath cities that can potentially be used to launch an attack against the settlement, but more importantly, they drain our valuable domestic resources sooner, rather than later. All mining should be limited to foreign or unclaimed lands before we mine in our sovereign territory as a matter of strategic importance.
 
-**Proposal failed**: 2 Ayes, No Nays, No Abstentions (Ruled Unconstitutional)
+**Proposal Failed**: 2 Ayes, 0 Nays, 0 Abstentions (Ruled Unconstitutional)
+
+</details>
 
 ## Proposal Seventeen (Failed)
+
+<details>
+<summary>Details</summary>
 
 Proposer: Crusher, Seconded By: Klari, Date: 7th October 2019
 
 > Proposal to review election procedures to require an entirely secret ballot to prevent the swaying of the election based on public opinion should someone decide to vote publicly.
 
-**Proposal failed**: 3 Ayes, 13 Nays, No Abstentions
+**Proposal Failed**: 3 Ayes, 13 Nays, 0 Abstentions
+
+</details>
 
 ## Proposal Eighteen (Failed)
+
+<details>
+<summary>Details</summary>
 
 Proposer: Feathercrown, Seconded By: bgbba, Date: 11th October 2019
 
@@ -188,15 +241,22 @@ Proposer: Feathercrown, Seconded By: bgbba, Date: 11th October 2019
 >
 > > "Dual citizens who do not have primary residence in Yoahtl Proper or who hold office in any other nation unless said nation is made up of entirely primary residents of Yoahtl Proper are ineligible to run for Council."
 
-Proposal failed: 3 Ayes, 5 Nays, 3 Abstentions
+**Proposal Failed**: 3 Ayes, 5 Nays, 3 Abstentions
+
+</details>
 
 ## Proposal Nineteen (Failed)
+
+<details>
+<summary>Details</summary>
 
 Proposer: GDAN12, Seconded By: Orinnari, Date: 14th October 2019
 
 > I'd like to make a proposal that candidates cannot initiate PMs about the elections/candidacy/voting with non-candidates from the time that the candidacy announcement post has been made until the new council is in power.
 
-**Proposal failed**: 6 Ayes, 9 Nays, 1 Abstention
+**Proposal Failed**: 6 Ayes, 9 Nays, 1 Abstention
+
+</details>
 
 ## Proposal Twenty (Passed)
 
@@ -204,7 +264,7 @@ Proposer: Okx, Seconded By: Orinnari, Date: 17th October 2019
 
 > ~~Change the quorum to 50%~~
 
-Proposal passed: 15 Ayes, 1 Nay, 6 Abstentions
+**Proposal Passed**: 15 Ayes, 1 Nay, 6 Abstentions
 
 _(Amends [The Yoahtlan Charter](/constitution/charter))_
 
@@ -219,28 +279,41 @@ Proposer: The People of Okashima, Seconded By: TheAdvisor, Date: 17th October 20
 > We have gone directly to him with the changes we want, and the response was "It'll be a cold day in hell when you take my town from me". He is not satisfied with anything less than a permanent government position, believing himself above the citizens who toil under his rule. Since we have exhausted all other reasonable options, we haven now been forced to come to you, the people of Yoahtl, directly for help in our current efforts of democratization.
 > While we are rejecting our own internal rule, we do still wish to remain loyal to the great nation of Yoahtl. We thank you for allowing us to grow with you and we hope to further strengthen our bonds by redeveloping the way we are governed.
 
-**Proposal passed**: 16 Ayes, 2 Nays, 6 Abstentions
+**Proposal Passed**: 16 Ayes, 2 Nays, 6 Abstentions
 
 ## Proposal Twenty Two (Failed)
+
+<details>
+<summary>Details</summary>
 
 Proposer: iOminous, Seconded By: bgbba, Date: 16th December 2019
 
 > Councillor Candidate Tax
 > Allow for the government to set a poll tax on all candidates interested in running. The tax will go to the nations treasury and incumbent candidates will not be allowed use public funds (they’ll need to be privately funded). I think wealth is a good indication of a players activity and it seems reasonable.
 
-**Proposal failed**: 5 Ayes, 10 Nays, 1 Abstention
+**Proposal Failed**: 5 Ayes, 10 Nays, 1 Abstention
+
+</details>
 
 ## Proposal Twenty Three (Failed)
+
+<details>
+<summary>Details</summary>
 
 Proposer: SpaceVolcano, Seconded By: Charlieseeese, Date: 8th February 2020
 
 > https://docs.google.com/document/d/1azaUfuQrbdv7nD9D0EqHLaPR3CmZ9KnEpUltxH-8fA4/edit?usp=sharing
 
-Proposal failed: 3 Ayes, 3 Nays, No Abstentions
+**Proposal Failed**: 3 Ayes, 3 Nays, 0 Abstentions
 
 _([Archive of Google Doc](/storage/proposals/Proposal-Twenty-Three.pdf))_
 
+</details>
+
 ## Proposal Twenty Four (Failed)
+
+<details>
+<summary>Details</summary>
 
 Proposer: bgbba, Seconded By: Okx, Date: 14th February 2020
 
@@ -259,7 +332,9 @@ Proposer: bgbba, Seconded By: Okx, Date: 14th February 2020
 >
 > This proposal shall not affect the results of the February 2020 election.
 
-**Proposal failed**: 5 Ayes, 3 Nays, 1 Abstention (Failed to meet Quorum)
+**Proposal Failed**: 5 Ayes, 3 Nays, 1 Abstention (Failed to meet Quorum)
+
+</details>
 
 ## Proposal Twenty Five (Passed)
 
@@ -268,7 +343,7 @@ Proposer: MightyOddish, Seconded By: nico0078, Date: 17th February 2020
 > ~~Proposals as they currently are are rather troublesome. To fix this any person can suggest a proposal and then awaits a member of council to second the motion, then the proposal. is posted up as a proposal (as we currently do). Then the council vote on said proposal as a primary vote. if the vote passes with a 2/3rd majority it goes to the citizenry to vote on a second round. the citizenry can then vote on said proposal in or out. In which it will require only a 60% majority of people who have voted to be passed or rejected. If the council however vote the proposal and reject it. the second round of voting will still go through in which citizens will vote. If it is wanted 90% of votes would have to be an 'aye' for it to pass through the councils rejection, if the 90% ayes is not reached then he proposal is rejected. ( this is deliberately worded to only count people who have actively voted. all non votes are subsequently not counted in the percentiles.)~~
 > ~~This is a test of the new system. After a 3 week trial if this proposed system doesn't suit the needs or is disliked by the majority we will revert to our current system and look for another idea to fix voting issues.~~
 
-**Proposal passed**: 11 Ayes, 5 Nays, 2 Abstentions
+**Proposal Passed**: 11 Ayes, 5 Nays, 2 Abstentions
 
 _(Amends [The Yoahtlan Charter](/constitution/charter))_
 
@@ -278,9 +353,9 @@ Proposer: nico0078, Seconded By: iOminous, Date: 26th February 2020
 
 > ~~Change the requirement for the current trial proposal system so that in the second round of voting by citizens, it only requires a 75% aye vote from the citizens who vote to overturn a council vote of Nay in the first round of voting. This lowers the requirement since I know many believe the current 90% requirement to be too high.~~
 
-**Council Phase**: 3 Ayes, No Nays, No Abstentions
+**Council Phase**: 3 Ayes, 0 Nays, 0 Abstentions
 
-**Ololtic Phase**: 16 Ayes, 2 Nays, No Abstentions
+**Ololtic Phase**: 16 Ayes, 2 Nays, 0 Abstentions
 
 _(Amends [The Yoahtlan Charter](/constitution/charter))_
 
@@ -292,11 +367,14 @@ Proposer: nico0078, Seconded By: UNKOWN, Date: 3rd March 2020
 > Councillors can also pass legislation. Any council member may start a proposal, and it is passed and becomes law if 2/3 of the councillors approve the proposal by voting aye. However, if at least as many citizens as there are council members express their desire to revoke this law, the law is temporarily suspended and a proposal is created to veto the Council's law.
 > Laws passed by the Council may not override laws passed by the Ololtic. The Council may not re-propose a law vetoed by the Ololtic for a period of one month.
 
-**Proposal passed**: 16 Ayes, 1 Nay, Unknown Abstentions
+**Proposal Passed**: 16 Ayes, 1 Nay, Unknown Abstentions
 
 _(Amends [The Yoahtlan Charter](/constitution/charter))_
 
 ## Proposal Twenty Eight (Failed)
+
+<details>
+<summary>Details</summary>
 
 Proposer: MightyOddish, Seconded By: WackyAki, Date: 10th April 2020
 
@@ -310,7 +388,9 @@ Proposer: MightyOddish, Seconded By: WackyAki, Date: 10th April 2020
 >
 > Advertisements or posters will be presented to the board members and decided weather it needs adjusting or can be posted as planned. Decisions must come to a 2/3 agreement for posting to pass and be allowed to post.
 
-Proposal failed: 2 Ayes, 10 Nays, No Abstentions
+**Proposal Failed**: 2 Ayes, 10 Nays, 0 Abstentions
+
+</details>
 
 ## Proposal Twenty Nine (Passed)
 
@@ -325,7 +405,7 @@ Proposer: bgbba, Seconded By: ComradeRick, Date: 6th August 2020
 >
 > ~~This proposal requires the assent of a majority of Councillors, the Alcuahtl, and a majority of existing citizens.~~
 
-**Proposal passed**: 13 Ayes, No Nays, 1 Abstention
+**Proposal Passed**: 13 Ayes, 0 Nays, 1 Abstention
 
 _(Signed the [Treaty of Terestai](/constitution/treaties#treaty-of-terestai))_
 
@@ -344,17 +424,22 @@ Proposer: Orinnari, Seconded By: Mightyoddish, Date: 3rd October 2020
 >
 > > Allow recall elections to be advanced by petition of the Ololtic. If the petition receives more than 50% of the submitted votes from the pervious election, and the Chief Justice finds no evidence of collusion or bad faith, and that the given reason is valid, then a new election will be held. Such petitions ought not to be started by other government officials.
 
-**Proposal passed**: 5 Ayes, No Nays, 1 Abstention
+**Proposal Passed**: 5 Ayes, 0 Nays, 1 Abstention
 
 (Amends [Council Act 7.1](/government/council-acts#council-act-7-1))
 
 ## [Proposal] Ban Juuling and discussions of Juuling
 
+<details>
+<summary>Details</summary>
+
 Proposer: bgbba, Seconded By: SpaceVolcano, Date: 9th December 2020
 
 > A ban on people juuling or discussion of juuling, in particular in VC. Additionally, we shall draw a distinction between vaping and juuling.
 
-**Proposal failed**: 4 Ayes, 12 Nays, No Abstentions
+**Proposal Failed**: 4 Ayes, 12 Nays, 0 Abstentions
+
+</details>
 
 ## [Proposal] Keep plot non-residential
 
@@ -362,19 +447,27 @@ Proposer: NevermoreGrim, Seconded By: Sventhar, Date: 23rd December 2020
 
 > Requests the plot next to me to remain as an nonresident plot. https://cdn.discordapp.com/attachments/447528416422658058/791361808312303669/2020-12-23_10.58.12.png
 
-**Proposal status**: UNKNOWN
+**Proposal Status**: Unknown
 
 _([Archive of Photo](/storage/proposals/Keep-plot-non-residential.png))_
 
 ## [Proposal] Recategorise the Council as the legislature
 
+<details>
+<summary>Details</summary>
+
 Proposer: Aki, Seconded By: Oddish and XC, Date: 7th April 2021
 
 > I propose changing the definition of a councillor to a legislative office rather than an executive office. This change affects all elements of the charter and law referring to the council as an executive office, and all powers allotted to the council remain
 
-**Proposal failed**: No Ayes, 17 Nays, No Abstentions
+**Proposal Failed**: 0 Ayes, 17 Nays, 0 Abstentions
+
+</details>
 
 ## [Proposal] Make non-Council executive positions ineligible for Alcuahtlship
+
+<details>
+<summary>Details</summary>
 
 Proposer: Aki, Seconded By: Okx, Date: 7th April 2021
 
@@ -386,23 +479,35 @@ Proposer: Aki, Seconded By: Okx, Date: 7th April 2021
 >
 > > The Council is responsible for electing the Alcuahtl from among the Ololtic who are not currently serving as High Justice or other executive offices excluding Council
 
-**Proposal failed**: 5 Ayes, 3 Nays, No Abstentions
+**Proposal Failed**: 5 Ayes, 3 Nays, 0 Abstentions
+
+</details>
 
 ## [Proposal] Make GMT the official timezone
+
+<details>
+<summary>Details</summary>
 
 Proposer: Okx, Seconded By: Orinnari, Date: 6th June 2021
 
 > Make GMT the default and official timezone of Yoahtl
 
-**Proposal failed**: 3 Ayes, 6 Nays, 1 Abstention
+**Proposal Failed**: 3 Ayes, 6 Nays, 1 Abstention
+
+</details>
 
 ## [Proposal] Require meeting times to be in EST, CST, and GMT
+
+<details>
+<summary>Details</summary>
 
 Proposer: bgbba, Seconded By: SpaceVolcano, Date: 6th June 2021
 
 > Require all official Yoahtlan meeting times, deadlines, and notices to be in EST, CST, GMT, to eliminate confusion, adopting all three as the standard time in Yoahtl to better accommodate all players within the town
 
-**Proposal failed**: 6 Ayes, 1 Nay, 1 Abstention
+**Proposal Failed**: 6 Ayes, 1 Nay, 1 Abstention
+
+</details>
 
 ## [Proposal] Protect palm tree
 
@@ -410,25 +515,35 @@ Proposer: GDAN, Seconded By: SpaceVolcano, Date: 12th June 2021
 
 > Give this tree protected status as one of the last natural palm trees on the server https://cdn.discordapp.com/attachments/447528416422658058/853393304682496000/unknown.png
 
-**Proposal status**: UNKNOWN
+**Proposal Status**: Unknown
 
 _([Archive of Photo](/storage/proposals/Protect-palm-tree.png))_
 
 ## [Proposal] Allow unrestricted NYC renting
 
+<details>
+<summary>Details</summary>
+
 Proposer: iOminous, Seconded By: SpaceVolcano, Date: 3rd July 2021
 
 > Allow plot owners to rent apartments, within their plot boundaries, without restrictions.
 
-**Proposal failed**: 4 Ayes, 6 Nays, No Abstentions
+**Proposal Failed**: 4 Ayes, 6 Nays, 0 Abstentions
+
+</details>
 
 ## [Proposal] Reduce High Justice term to 6 months
+
+<details>
+<summary>Details</summary>
 
 Proposer: SpaceVolcano, Seconded By: Okx, Date: 4th July 2021
 
 > Make the high justice position a 6 month term instead of a lifetime appointment.
 
-**Proposal failed**: 5 Ayes, 3 Nays, 1 Abstention
+**Proposal Failed**: 5 Ayes, 3 Nays, 1 Abstention
+
+</details>
 
 ## [Proposal] Allow NYC renting to approved players
 
@@ -436,33 +551,51 @@ Proposer: iOminous, Seconded By: SpaceVolcano, Date: 14th July 2021
 
 > Allow plot owners to rent apartments on their plot in NYC to those who have already been given access to the city.
 
-**Proposal passed**: 9 Ayes, 8 Nays, 1 Abstention
+**Proposal Passed**: 9 Ayes, 8 Nays, 1 Abstention
 
 ## [Proposal] Allow for Hotel Rooms
+
+<details>
+<summary>Details</summary>
 
 Proposer: Yergo, Seconded By: SpaceVolcano, Date: 15th July 2021
 
 > Allow the establishment of temporary apartments (thusly referred to as Hotel Rooms limited to a specific stay time by which afterwards the tenant will be evicted and their possessions placed in storage until reclamation by the tenant. These Hotel Rooms will be reserved for nonresidents and will be strictly provided in the same manner as normal apartments, AND to reserve the Basement floor room number 101 of sandstone tower for the purposes of standing as a Hotel Room. The time limit for stays will be at the discretion of the government but should ideally be limited to a month or less of real time.
 
-**Proposal failed**: 3 Ayes, 7 Nays, 1 Abstention
+**Proposal Failed**: 3 Ayes, 7 Nays, 1 Abstention
+
+</details>
 
 ## [Proposal] Approve "Yoahtl Centre" skyscraper
+
+<details>
+<summary>Details</summary>
 
 Proposer: SpaceVolcano, Seconded By: Yergo, Date: 18th July 2021
 
 > Officially approve the construction of ~THE YOAHTL CENTER~ designed by XC. Design can be found here: https://m.imgur.com/a/nWFpF It shall be built where it fits best in the city, and be funded by SpaceVolcano so the citizens aren't responsible for costs, and built to XC's specifications as head architect of the project. It will provide ample space for guests, residents, and citizens alike!
 
-**Proposal failed**: 3 Ayes, 10 Nays, No Abstentions
+**Proposal Failed**: 3 Ayes, 10 Nays, 0 Abstentions
+
+</details>
 
 ## [Proposal] Affirm High Justice as a governmental position
+
+<details>
+<summary>Details</summary>
 
 Proposer: bgbba, Seconded By: SpaceVolcano, Date: 26th July 2021
 
 > Define the High Justice as a governmental position, affirming the previous view of the Council and Ololtic as to the nature of the High Justice. With this definition, the High Justice shall be entitled to access to the Council Chambers and other levels of discord channel permissions or citadel group permissions as if they were a councilor. This shall not mean to constitute that the High Justice shall be added to a new channel, but to have their permissions in discord and ingame raised to that of a councilor, so they might best advise the Yoahtlan state in matters of the judiciary and foreign legal affairs.
 
-**Proposal failed**: 2 Ayes, 13 Nays, No Abstentions
+**Proposal Failed**: 2 Ayes, 13 Nays, 0 Abstentions
+
+</details>
 
 ## [Proposal] Have you got a licence for that Homestead?
+
+<details>
+<summary>Details</summary>
 
 Proposer: bgbba, Seconded By: Yergo, Date: 7th August 2021
 
@@ -484,7 +617,9 @@ Proposer: bgbba, Seconded By: Yergo, Date: 7th August 2021
 >
 > Land Rules: a majority vote of the council shall be able to waive land rules such as contiguous claims if there is a clearly stated reason that is succinct and comprehensible
 
-**Proposal failed**: 1 Aye, 14 Nays, No Abstentions
+**Proposal Failed**: 1 Aye, 14 Nays, 0 Abstentions
+
+</details>
 
 ## [Proposal] Make "Pigeons" the national animal
 
@@ -492,17 +627,25 @@ Proposer: MechanicalRift, Seconded By: Yergo, Date: 10th August 2021
 
 > Make the NYC Pigeons the Official animals of Yoahtl.
 
-**Proposal passed**: 18 Ayes, 3 Nays, 1 Abstention
+**Proposal Passed**: 18 Ayes, 3 Nays, 1 Abstention
 
 ## [Proposal] Remove 3-vote limit in elections
+
+<details>
+<summary>Details</summary>
 
 Proposer: Okx, Seconded By: Humanbeing, Date: 11th August 2021
 
 > Proposal allow people to vote for as many people as they like in council elections
 
-**Proposal failed**: 2 Ayes, 13 Nays, No Abstentions
+**Proposal Failed**: 2 Ayes, 13 Nays, 0 Abstentions
+
+</details>
 
 ## [Proposal] Create committee to study potential West Point style military city
+
+<details>
+<summary>Details</summary>
 
 Proposer: XC, Seconded By: Humanbeing, Date: 26th August 2021
 
@@ -514,15 +657,22 @@ Proposer: XC, Seconded By: Humanbeing, Date: 26th August 2021
 >
 > Likewise, this city would simultaneously be a focused and discrete effort at creating another Yoahtlan city for citizens old and new that serves as another hub of commerce and allows us to project our power outward in a yet to be determined location. A "clean slate" allows for proper planning and logistics of a city, so to speak.
 
-**Proposal status**: WITHDRAWN
+**Proposal Withdrawn**: Votes Unknown
+
+</details>
 
 ## [Proposal] Say "oldhead" instead of "oldfriend"
+
+<details>
+<summary>Details</summary>
 
 Proposer: Yergo, Seconded By: Mokotowskie, Date: 4th September 2021
 
 > Call them oldheads instead of oldfriends
 
-**Proposal failed**: 3 Ayes, 10 Nays, No Abstentions
+**Proposal Failed**: 3 Ayes, 10 Nays, 0 Abstentions
+
+</details>
 
 ## [Proposal] Designate 10th September as NeoTide remembrance day
 
@@ -530,23 +680,33 @@ Proposer: SpaceVolcano, Seconded By: Mokotowskie, Date: 10th September 2021
 
 > Create a new national day of remberance, September 10 the Martyrdom of Neotide. The day he sacrificed himself to a pearl, recognizing all the wonders and miracles he has performed in both war and peace. And to permanently bestow the title of Saint Neo.
 
-**Proposal passed**: 14 Ayes, 3 Nays, No Abstentions
+**Proposal Passed**: 14 Ayes, 3 Nays, 0 Abstentions
 
 ## [Proposal] Make proposals about abstentions punishable by perma
+
+<details>
+<summary>Details</summary>
 
 Proposer: Humanbeing, Seconded By: bgbba, Date: 30th September 2021
 
 > Make proposals about changing abstainment a crime punishable by perma
 
-**Proposal failed**: 4 Ayes, 13 Nays, No Abstentions
+**Proposal Failed**: 4 Ayes, 13 Nays, 0 Abstentions
+
+</details>
 
 ## [Proposal] Allow government members to hold lesser-positions in foreign governments
+
+<details>
+<summary>Details</summary>
 
 Proposer: Yergo, Seconded By: bgbba, Date: 15th October 2021
 
 > Allow for Yoahtlan councillors to hold positions of lesser importance within another nation's judicial system (i;e a Judge of MtS or the Tribune of the Plebes in Jolington)
 
-**Proposal failed**: 1 Aye, 12 Nays, No Abstentions
+**Proposal Failed**: 1 Aye, 12 Nays, 0 Abstentions
+
+</details>
 
 ## [Proposal] The Sedition Act
 
@@ -568,7 +728,7 @@ Proposer: bgbba, Seconded By: Aki, Date: 20th October 2021
 >
 > Anyone being actively pursued of any of these three crimes, especially in combination, is eligible to be removed from the Ololtic temporarily, and deprived of their citizenship along will all rights and privilege- via a majority vote of the council (with the alcuahtl calling the vote in case of a tie)- until such a time that their innocence is proven, or the Ololtic votes to reinstate their citizenship via the traditional method.
 
-**Proposal passed**: 18 Ayes, No Nays, No Abstentions
+**Proposal Passed**: 18 Ayes, 0 Nays, 0 Abstentions
 
 ## [Proposal] Create ceremonial title of King
 
@@ -576,7 +736,7 @@ Proposer: Aki, Seconded By: bgbba, Date: 4th November 2021
 
 > Add the ceremonial title of King alongside alcuahtl. This does not confer any power to the alcuahtl
 
-**Proposal passed**: 9 Ayes, 6 Nays, 1 Abstention
+**Proposal Passed**: 9 Ayes, 6 Nays, 1 Abstention
 
 ## [Proposal] The Spruce Protection Act
 
@@ -601,7 +761,7 @@ Proposer: Princess Bow, Seconded By: Yergo, Date: 5th December 2021
 > >
 > > December 2021
 
-**Proposal passed**: 13 Aye, 1 Nay, No Abstentions
+**Proposal Passed**: 13 Aye, 1 Nay, 0 Abstentions
 
 ## [Proposal] The House of Winterbourne Act
 
@@ -621,7 +781,7 @@ Proposer: Princess Bow, Seconded By: Yergo, Date: 12th December 2021
 >
 > Princess Bow of House Winterbourne
 
-**Proposal passed**: 15 Ayes, No Nays, No Abstentions
+**Proposal Passed**: 15 Ayes, 0 Nays, 0 Abstentions
 
 ## [Proposal] Designate 18th December a national holiday
 
@@ -629,17 +789,25 @@ Proposer: Yergo, Seconded By: Princess Bow, Date: 19th December 2021
 
 > CivClassics Day Designate [18th December] a national holiday in Yoahtl
 
-**Proposal passed**: 13 Ayes, No Nays, No Abstentions
+**Proposal Passed**: 13 Ayes, 0 Nays, 0 Abstentions
 
 ## [Proposal] Name city on new iteration Neo Yoahtl City
+
+<details>
+<summary>Details</summary>
 
 Proposer: Aivius, Seconded By: icyski, Date: 9th January 2022
 
 > On the next map iteration we are apart of, that we shall name New Yoahtl City to Neo Yoahtl City. Not only does it mean the same thing but it shall commemorate NeoTide for all of his service he has put forth to Yoahtl.
 
-**Proposal failed**: 6 Ayes, 8 Nays, No Abstentions
+**Proposal Failed**: 6 Ayes, 8 Nays, 0 Abstentions
+
+</details>
 
 ## [Proposal] Clarify the legislative powers of the Council
+
+<details>
+<summary>Details</summary>
 
 Proposer: Orinnari, Seconded By: bgbba, Date: 20th January 2022
 
@@ -650,7 +818,9 @@ Proposer: Orinnari, Seconded By: bgbba, Date: 20th January 2022
 > 1. Omit Article 2.9
 > 1. Add the following as a subsection to Article 2.4: "Executive decisions that regard matters of law must be publicly announced before taking effect."
 
-**Proposal failed**: 12 Ayes, No Nays, No Abstentions
+**Proposal Failed**: 12 Ayes, 0 Nays, 0 Abstentions
+
+</details>
 
 ## [Proposal] The Purgatory Period
 
@@ -658,7 +828,7 @@ Proposer: Aki, Seconded By: Orinnari, Date: 25th January 2022
 
 > Under the charter, the council is elected every 2 months and the alcuahtl essentially undergoes a vote of confidence. However, with the server being down and Yoahtl is hibernating waiting for the next server, I propose that THIS SPECIFIC council remain in term past their “due” re-election time and remain as councilors until the next OFFICIAL civ server is released, with the next elections being 2 months after Yoahtl officially moved to the next server. This law shall not be re-enacted, but may be replicated for other server transitions where the main server dies. Other functions of government, such as our legal system and impeachment’s (except dereliction of duty related to being in game) shall stay in place as normal
 
-**Proposal passed**: 9 Ayes, 3 Nays, No Abstentions
+**Proposal Passed**: 9 Ayes, 3 Nays, 0 Abstentions
 
 ## [Proposal] Clarify the legislative powers of the Council (Reattempt)
 
@@ -671,7 +841,7 @@ Proposer: Orinnari, Seconded By: Aki, Date: 27th January 2022
 > 1. Omit Article 2.9
 > 1. Add the following as a subsection to Article 2.4: "Executive decisions that regard matters of law must be publicly announced before taking effect."
 
-**Proposal passed**: 17 Ayes, No Nays, 1 Abstention
+**Proposal Passed**: 17 Ayes, 0 Nays, 1 Abstention
 
 ## [Proposal] Fix the language in and clarify several parts of the Charter
 
@@ -691,9 +861,12 @@ Proposer: Feathercrown, Seconded By: NevermoreGrim, Date: 9th April 2022
 > - Add to II-5b: ", who will serve until the end of the current Council term."
 > - Add a subsection to V: "The High Justice may not also hold executive office."
 
-**Proposal passed**: 17 Ayes, No Nays, No Abstentions
+**Proposal Passed**: 17 Ayes, 0 Nays, 0 Abstentions
 
 ## [Proposal] Amend the Purgatory Period
+
+<details>
+<summary>Details</summary>
 
 Proposer: GDAN, Seconded By: Yergo, Date: 14th April 2022
 
@@ -705,15 +878,22 @@ Proposer: GDAN, Seconded By: Yergo, Date: 14th April 2022
 >
 > Therefore I'd like to propose that "The current council continues to remain in place until the next civ server that Yoahtl officially moves to. With the next election cycle beginning at least 3 weeks after server launch AND beginning on the first, of the month, that occurs soonest after this period of time. Other functions of government, such as our legal system and impeachment’s (except dereliction of duty related to being in game) shall stay in place as normal". This would give sufficient time for us to get settled while also ensuring the number of councillors reflects activity level and means that individuals are not overworked
 
-**Proposal failed**: 4 Ayes, 12 Nays, 2 Abstentions
+**Proposal Failed**: 4 Ayes, 12 Nays, 2 Abstentions
+
+</details>
 
 ## [Proposal] Re-add Ololtic-Law Supremacy
+
+<details>
+<summary>Details</summary>
 
 Proposer: GDAN, Seconded By: Orinnari, Date: 14th April 2022
 
 > Re-add "Laws passed by the Council may not override laws passed by the Ololtic." to the chater as Article 2.4.c. It was accidentally removed in an earlier amendment as it had not been added to the charter text. This overrides the Supremacy Clarification, Jan 2022 made by the high justice.
 
-**Proposal failed**: 17 Ayes, 2 Nays, No Abstentions (26 Citizens, 18 Ayes needed)
+**Proposal Failed**: 17 Ayes, 2 Nays, 0 Abstentions (26 Citizens, 18 Ayes needed)
+
+</details>
 
 ## [Proposal] Re-add Ololtic-Law Supremacy (Reattempt)
 
@@ -721,9 +901,12 @@ Proposer: GDAN, Seconded By: JoeyWheeler, Date: 17th April 2022
 
 > Re-add "Laws passed by the Council may not override laws passed by the Ololtic." to the charter as Article 2.4.c. It was accidentally removed in an earlier amendment as it had not been added to the charter text. This overrides the Supremacy Clarification, Jan 2022 made by the high justice.
 
-**Proposal passed**: 19 Ayes, No Nays, No Abstentions (26 Citizens, 18 Ayes needed)
+**Proposal Passed**: 19 Ayes, 0 Nays, 0 Abstentions (26 Citizens, 18 Ayes needed)
 
 ## [Proposal] Inactive Citizenship Revocation
+
+<details>
+<summary>Details</summary>
 
 Proposer: GDAN, Seconded By: Mokotowskie, Date: 26th April 2022
 
@@ -735,7 +918,9 @@ Proposer: GDAN, Seconded By: Mokotowskie, Date: 26th April 2022
 >
 > > Citizenship may be revoked on the grounds of inactivity.
 
-**Proposal failed**: 5 Ayes, 12 Nays, 1 Abstention
+**Proposal Failed**: 5 Ayes, 12 Nays, 1 Abstention
+
+</details>
 
 ## [Proposal] Suspended Citizenship Restoration Procedure
 
@@ -753,7 +938,7 @@ Proposer: GDAN, Seconded By: Mokotowskie, Date: 26th April 2022
 >
 > For context precedentially activity has been defined as activity within/for Yoahtl. And to be considered active you usually need to have played for at least a few days to a week. So it would probably be expected that someone would need to meet these requirements by precedent to be considered active again.
 
-**Proposal passed**: 16 Ayes, No Nays, 2 Abstentions
+**Proposal Passed**: 16 Ayes, 0 Nays, 2 Abstentions
 
 ## [Proposal] Codifying Citizen Votes
 
@@ -771,7 +956,7 @@ Proser: Solitaire, Seconded By: Aki, Date: May 5th, 2022
 
 > Context: The proposal updated the charter on how people were being added to the Ololtic
 
-**Proposal passed**: 18 Ayes, No Nays, No Abstains
+**Proposal Passed**: 18 Ayes, 0 Nays, 0 Abstentions
 
 ## [Proposal] Amendment to Council Acts 5.1 & 5.2
 
@@ -791,9 +976,12 @@ Propser: Solitaire, Seconded By: Aki, Date: May 6th, 2022
 
 > Construction on government owned land requires approval of the government, whether ownership of the land is being transferred or not.
 
-**Proposal Passed**: 16 Ayes, 1 Nays, 1 Abstain
+**Proposal Passed**: 16 Ayes, 1 Nay, 1 Abstention
 
 ## [Proposal] Chieftan Discord Ownership
+
+<details>
+<summary>Details</summary>
 
 Proposer: Aki, Seconded By: Mechanical, Date: June 8th 2022
 
@@ -801,9 +989,14 @@ Proposer: Aki, Seconded By: Mechanical, Date: June 8th 2022
 
 > Pursuant to the chieftains job as the curator, guide and representative of the ololtic, I believe the discord should be under the ownership of the chieftan. Currently it’s owned by the office of the alcuahtl, but the role of chieftan better fits the responsibilities of discord ownership
 
-**Proposal failed**: 9 Ayes, 7 Nays, 0 Abstains
+**Proposal Failed**: 9 Ayes, 7 Nays, 0 Abstentions
+
+</details>
 
 ## [Proposal] High Justice Discord Ownership
+
+<details>
+<summary>Details</summary>
 
 Proposer: Solitaire, Seconded By: Mechanical, Date: June 10th, 2022
 
@@ -811,9 +1004,14 @@ Proposer: Solitaire, Seconded By: Mechanical, Date: June 10th, 2022
 
 > pass discord ownership to the High justice. It is an elected position that is also long term. Therefore there is both stability and accountability in the high justice being the owner of the discord.
 
-**Proposal failed**: 3 Ayes 8 Nays 1 Abstians
+**Proposal Failed**: 3 Ayes, 8 Nays, 1 Abstians
+
+</details>
 
 ## [Proposal] Ranked Choice voting in Interm Elections
+
+<details>
+<summary>Details</summary>
 
 Proposer: Tigen, Seconded By: Bgbba, Date: June 13th, 2022
 
@@ -823,9 +1021,14 @@ Proposer: Tigen, Seconded By: Bgbba, Date: June 13th, 2022
 
 > Note that, as it is already ongoing, this will not affect the current election one way or the other.
 
-**Proposal failed**: 5 Ayes, 9 Nays, 0 Abstains
+**Proposal Failed**: 5 Ayes, 9 Nays, 0 Abstentions
+
+</details>
 
 ## [Proposal] Repeal the House of Winterbourne Act
+
+<details>
+<summary>Details</summary>
 
 Proposer: Mechanical, Seconded by: Soltaire, Date: June 15th, 2022
 
@@ -833,7 +1036,9 @@ Proposer: Mechanical, Seconded by: Soltaire, Date: June 15th, 2022
 
 > Repeal the House of Winterbourne Act from 12.12.2021
 
-**Proposal failed**: 7 Ayes, 16 nays, 3 Abstians
+**Proposal Failed**: 7 Ayes, 16 Nays, 3 Abstentions
+
+</details>
 
 ## [Proposal] Move First "Full" Election to the 1st of July
 
@@ -843,9 +1048,12 @@ Proposer: Solitaire, Seconded By: Mocha, Date: June 16th, 2022
 
 > Move the first "full" election to the first of July from the date it is currently set to by the Purgatory period proposal. Subsequent elections will occur every 2 months after this one.
 
-**Proposal Passed**: 29 Ayes, 1 Nay, 3 Abstains
+**Proposal Passed**: 29 Ayes, 1 Nay, 3 Abstentions
 
 ## [Proposal] Ban Hotmic'ing
+
+<details>
+<summary>Details</summary>
 
 Proposer: Orin, Seconded by Bgbba, Date: June 24th, 2022
 
@@ -853,9 +1061,14 @@ Proposer: Orin, Seconded by Bgbba, Date: June 24th, 2022
 
 > Disable the "Use Voice Activity" permission for @everyone on all non-government voice chats. Enough is enough. It's time we stop voice chats from being continually disrupted by typing, background noise (TVs, music, sirens, chatter), coughing, wind, vaping, snorting, eating, etc. Hot-micing is an ongoing issue and the worst offenders are refusing to self-moderate in any capacity.
 
-**Proposal failed**: 3 Ayes, 18 Nays, 3 Abstains
+**Proposal Failed**: 3 Ayes, 18 Nays, 3 Abstentions
+
+</details>
 
 ## [Proposal] Judicial Bench Creation
+
+<details>
+<summary>Details</summary>
 
 Proposer: Orin, Seconded by: Bgbba, Date: June 28th, 2022
 
@@ -863,9 +1076,14 @@ Proposer: Orin, Seconded by: Bgbba, Date: June 28th, 2022
 
 > Create a Judicial Bench. Justices will be appointed to the bench by the Council from among the citizenry. The High Justice shall then select a Justice from the bench when cases arise that would not otherwise be presided by the High Justice. If there are no Justices to select, the High Justice can default to the previous system and select from the Council.
 
-**Proposal failed**: 4 Ayes, 10 Nays, 8 Abstains
+**Proposal Failed**: 4 Ayes, 10 Nays, 8 Abstentions
+
+</details>
 
 ## [Proposal] Altepetl Farming Ban
+
+<details>
+<summary>Details</summary>
 
 Proposer: Mechanical, Seconded by: Aki, Date: July 3rd, 2022
 
@@ -873,7 +1091,9 @@ Proposer: Mechanical, Seconded by: Aki, Date: July 3rd, 2022
 
 > Ban non-government approved farms within the city. Any farms that are currently in the city that have not been already approved will be required to be approved, moved, or slaughtered. The council may approve a farm with a simple majority vote.
 
-**Proposal failed**: Withdrawn
+**Proposal Withdrawn**: Votes Unknown
+
+</details>
 
 ## [Proposal] Altepetl Farming Restrictions
 
@@ -883,9 +1103,12 @@ Proposer: Mehcanical, Seconded by Bgbba, Date: July 7th, 2022
 
 > If there is a farm within Altepetl that is deemed too laggy for clients to play reliably by a Councillor. A Councillor may ask the owner of the farm to move the farm. If it is not moved after a set time by the Councillor who initiated it of at least 48 hours but no more than 504 hours (3 weeks), the Yoahtlan Government may be allowed to remove the farm. Once upon complete removal the farm, the items and/or mobs will be returned to the owner. But if the owner does not request the items and/or mobs back 2 months after the set time, the items and/or mobs will be owned by the government.
 
-**Proposal Passed**: 20 Ayes, 5 Nays, 0 Abstains
+**Proposal Passed**: 20 Ayes, 5 Nays, 0 Abstentions
 
 ## [Proposal] DiscordTimerBot is required
+
+<details>
+<summary>Details</summary>
 
 Proposer: Orin, Seconded by: Solitaire, Date: July 7th, 2022
 
@@ -893,9 +1116,14 @@ Proposer: Orin, Seconded by: Solitaire, Date: July 7th, 2022
 
 > Require the addition (or creation) of a Discord bot with a timer feature so the government can create a proposal thread, do /remind 48h and be pinged once that proposal has expired. This way we avoid issues of late votes being counted, or proposal going uncounted.
 
-**Proposal failed**: 7 Ayes, 15 Nays
+**Proposal Failed**: 7 Ayes, 15 Nays
+
+</details>
 
 ## [Proposal] Tie Breaking Powers
+
+<details>
+<summary>Details</summary>
 
 Proposer Aki, Seconded by: Mocha, Date: July 10th, 2022
 
@@ -903,9 +1131,14 @@ Proposer Aki, Seconded by: Mocha, Date: July 10th, 2022
 
 > Change the charter so that the Alcuahtl is the tiebreaker vote for a council decision rather than the High justice
 
-**Proposal Failed**: 12 Ayes, 9 Nays, 4 Abstains
+**Proposal Failed**: 12 Ayes, 9 Nays, 4 Abstentions
+
+</details>
 
 ## [Proposal] Amend Article 2.5.B
+
+<details>
+<summary>Details</summary>
 
 Proposer: Orin, Seconded by: Space, Date: July 20th, 2022
 
@@ -917,15 +1150,20 @@ Proposer: Orin, Seconded by: Space, Date: July 20th, 2022
 
 > Councillors may resign at any time, for any reason, but are expected to appoint a deputy from among the Ololtic to serve in their stead. Following a resignation, a by-election will be held within seven days to determine their official replacement. Should the resigning Councillor not appoint a deputy, the Alcuahtl shall, on the advice of the Chieftain, appoint a deputy on their behalf.
 
-**Proposal failed**: Withdrawn (New submission of the proposal)
+**Proposal Withdrawn**: New submission of the proposal
 
 **Amendment Version 2**:
 
 > the appointment power would not be given to the Chieftain, but to the Alcuahtl who would appoint on the Chieftain's advice. This keeps the Chieftain separate from the political machinery of the Government while also ensuring that the spiritual leader of the community has a say. The timer on this proposal has been reset.
 
-**Proposal failed**: 18 Ayes 1 Nay. Failed to recieve the required 26 votes to pass.
+**Proposal Failed**: 18 Ayes, 1 Nay, 0 Abstentions. Failed to recieve the required 26 votes to pass.
+
+</details>
 
 ## [Proposal] Vote Against Candidates
+
+<details>
+<summary>Details</summary>
 
 Proposer: Orin, Seconded by: Space, Date: July 26th, 2022
 
@@ -939,9 +1177,14 @@ Proposer: Orin, Seconded by: Space, Date: July 26th, 2022
 >
 > > This is NOT a Charter Amendment. I hold that this change is within the reasonable interpretation of Article 2.5 of the Charter.
 
-**Proposal failed**: 2 Ayes, 18 Nays, 2 Abstains
+**Proposal Failed**: 2 Ayes, 18 Nays, 2 Abstentions
+
+</details>
 
 ## [Proposal] Orinnari Sainthood
+
+<details>
+<summary>Details</summary>
 
 Proposer: Space, Seconded by: Bgbba, Date: July 26th, 2022
 
@@ -949,7 +1192,9 @@ Proposer: Space, Seconded by: Bgbba, Date: July 26th, 2022
 
 > Give Orinarri the Title of Saint of Proposals
 
-**Proposal failed**: 4 Ayes, 14 Nays, 4 Abstains
+**Proposal Failed**: 4 Ayes, 14 Nays, 4 Abstentions
+
+</details>
 
 ## [Proposal] Amend Article 2 Section 7
 
@@ -965,7 +1210,7 @@ Proposer: Solitaire, Seconded by: Space, Date: August 4th, 2022
 
 > The Council is responsible for electing the Alcuahtl to be "first among equals" from among their fellow councillors.
 
-**Proposal Passed**: 25 Ayes, 1 Nays, 4 Abstains
+**Proposal Passed**: 25 Ayes, 1 Nay, 4 Abstentions
 
 ## [Proposal] Yoahtl Waterway Protection Act
 
@@ -991,6 +1236,9 @@ Proposer: Tigers, Seconded by: Mocha, Date: August 9th, 2022
 
 ## [Proposal] An Act to Increase Transparency and Improve Communication
 
+<details>
+<summary>Details</summary>
+
 Proposer: Bgbba, Seconded by: Space, Date: September 12th, 2022
 
 **Bgbba**:
@@ -1003,9 +1251,14 @@ Proposer: Bgbba, Seconded by: Space, Date: September 12th, 2022
 
 > - any restoration of restrictions on the subreddit will require a repeal of this law in its entirety
 
-**Proposal failed**: 4 Ayes, 4 Nays, 8 Abstains
+**Proposal Failed**: 4 Ayes, 4 Nays, 8 Abstentions
+
+</details>
 
 ## [Proposal] Charter Amendment: Public Spaces for Dialogue and Community
+
+<details>
+<summary>Details</summary>
 
 Proposer: Bgbba, Seconded by: Space, Date: September 12th, 2022
 
@@ -1017,7 +1270,9 @@ Proposer: Bgbba, Seconded by: Space, Date: September 12th, 2022
 
 > 3.  An executive decision stated to be explicitly temporary for a specific purpose, monitored and affirmed as continuing to be necessary by the High Justice and the courts
 
-**Proposal failed**: 3 Ayes, 12 Nays
+**Proposal Failed**: 3 Ayes, 12 Nays
+
+</details>
 
 ## [Proposal] Elders day/Melonian Rememberance Day
 
@@ -1027,7 +1282,7 @@ Proposer: Mechanical, Seconded by: Space and Vilyanz, Date: September 19th, 2022
 
 > Establish a National Holiday called Elders Day to celebrate the Melonians those that arrived to Yoahtl and also those that had arrived before Melonia, who are still with us today. The date will be February 9th, this marks the date that Yoahtl had left Melonia for CivCraft 2.0.
 
-**Proposal Passed**: 13 Ayes, 2 Abstains
+**Proposal Passed**: 13 Ayes, 2 Abstentions
 
 ## [Proposal] Altepetl ban on Glowing Signs
 
@@ -1041,6 +1296,9 @@ Proposer: Mocha, Seconded by: Yergo, Date: October 10th, 2022
 
 ## [Proposal] Government Monopoly
 
+<details>
+<summary>Details</summary>
+
 Proposer: Solitaire, Seconded by: Space, Date: October 11th, 2022
 
 **Solitaire**:
@@ -1049,9 +1307,14 @@ Proposer: Solitaire, Seconded by: Space, Date: October 11th, 2022
 
 > If the government fails to keep shops doing any of the above competitive with the wider server, and/or fails to keep them stocked for a period longer than 5 working days (working day to be classified as monday through friday) then they are open to be sued by anyone effected and will be liable to compensate for any projects delayed as well as being liable to possibly lose their monopoly over the product in question at the time if the courts decide as such.
 
-**Proposal Failed**: Withdrawn
+**Proposal Withdrawn**: Votes Unknown
+
+</details>
 
 ## [Proposal] Spruce Protection Act II
+
+<details>
+<summary>Details</summary>
 
 Proposer: Princess\_\_Bow, Seconded by: Bgbba, Date: October 14th, 2022
 
@@ -1059,9 +1322,14 @@ Proposer: Princess\_\_Bow, Seconded by: Bgbba, Date: October 14th, 2022
 
 > No spruce tree shall be fell in Winterbourne without the prior permission of Her Majesty the Princess Bow of Winterbourne
 
-**Proposal Failed** 4 Ayes, 8 Nays
+**Proposal Failed**: 4 Ayes, 8 Nays
+
+</details>
 
 ## [Proposal] Ensuring of Yoahtlan Rights and Freedoms
+
+<details>
+<summary>Details</summary>
 
 Proposer: Bgbba, Seconded by: Mocha, Date: October 20th, 2022
 
@@ -1069,7 +1337,9 @@ Proposer: Bgbba, Seconded by: Mocha, Date: October 20th, 2022
 
 > The Executive bodies of Yoahtl cannot create laws nor enforce a law without history or custom within Yoahtl. Nor may they take action in or out of Yoahtl which is beyond the scope of their responsibilities are allowed within the Charter. Nor may an executive body without legislative authority and judicidial approval restrict the time honored and traditional rights and freedoms of Yoahtlans to act as they choose within the limits of reasonable behavior and within the limits of ongoing tradition. This amendment shall not be construed as revoking or removing any current powers of the government but rather limiting future expansion beyond the limits of the charter and legislation by the Ololtic.
 
-**Proposal Failed**: 2 Ayes, 7 Nays, 5 Abstains
+**Proposal Failed**: 2 Ayes, 7 Nays, 5 Abstentions
+
+</details>
 
 ## [Proposal] Anti-unrecorded Proposals
 
@@ -1079,7 +1349,7 @@ Proposer: Mechanical, Seconded by: Mocha, Date: November 6th, 2022
 
 > Unrecorded proposals will take affect after the proposal is passed. If not publicly recorded within a week on on whatever the official platform for public recording Yoahtlan law is at the time of ratification: the law can be ignored by players without fear of being affected, as long as that does not actively harm other Yoahtlans via lag or direct PVP.
 
-**Proposal Passed**: 20 Ayes, 1 Nays, 0 Abstians
+**Proposal Passed**: 20 Ayes, 1 Nay, 0 Abstians
 
 ## [Proposal] Charter Amendment: Citizenship Suspencions Article 4 Section 1
 
@@ -1096,7 +1366,7 @@ Proposer: Space, Seconded by: Solitaire, Date: November 6th, 2022
 >    - b. Citizenship rights shall be restored to a member of the Ololtic as established under this Charter by request if suspended
 >    - c. Any previous citizen of Yoahtl not voted into the Ololtic as established by this charter shall regain citizenship rights by Ololtic vote.
 
-**Proposal Passed**: 22 Ayes, 0 Nays, 0 Abstains
+**Proposal Passed**: 22 Ayes, 0 Nays, 0 Abstentions
 
 ## [Proposal] Dereliction Laws 2: Electric Boogaloo
 
@@ -1114,9 +1384,12 @@ Proposer: Solitaire, Seconded by: Flora_Borealis, Date: April 20th, 2023
 
 > Materials and stored goods from plot derelictions are to be placed in government storage until reclaimed by the owner. The Ololtic may authorize a nationalization of any raw goods (i.e. iron, diamonds, xp etc...) after a period of inactivity nine (9) months or longer. This does not apply to non-raw goods such as banners, welcome books, map art, player heads etc...
 
-**Proposal Passed**: 10 Ayes, 5 Nays, 2 Abstains
+**Proposal Passed**: 10 Ayes, 5 Nays, 2 Abstentions
 
 ## [Proposal] Homesteads and Towns Act
+
+<details>
+<summary>Details</summary>
 
 Proposer: Solitaire, Seconded by: Flora_Borealis, Date: July 1st, 2023
 
@@ -1124,9 +1397,14 @@ _Notes: I'm not typing this shit, just read the google doc._
 
 [Google Doc](https://docs.google.com/document/d/1CIhRw8bhJImF7tuwub-_WZyEXvx6iB2pVn31VepoJvw/edit), [Archive](/storage/proposals/Homesteads-and-Towns-Act.pdf)
 
-**Proposal Failed:** 4 Ayes, 6 Nays, 4 Abstains
+**Proposal Failed:** 4 Ayes, 6 Nays, 4 Abstentions
+
+</details>
 
 ## [Proposal] Restricted Areas Act
+
+<details>
+<summary>Details</summary>
 
 Proposer: Husky, Seconded by: Arconis, Date: September 26th, 2023
 
@@ -1160,15 +1438,22 @@ Proposer: Husky, Seconded by: Arconis, Date: September 26th, 2023
 
 >         3.2.1 Only those with permission (See 2.2) are to be exempt from such pearlings
 
-**Proposal Withdrawn:** 10 Ayes, 2 Nays, 1 Abstain
+**Proposal Withdrawn**: 10 Ayes, 2 Nays, 1 Abstention
+
+</details>
 
 ## [Proposal] Torynado citizenship removal
+
+<details>
+<summary>Details</summary>
 
 Proposer: Solitaire, Seconded by: Arconis, Date: October 14th, 2023
 
 > For avoiding the continuance of headache causing and due to lessons not being learnt from the recent trial against her. I would like to propose that Torynado's Ololtic membership is removed (not suspended) and that once her 21 day sentence is up her belongings are given to her and she is free to live outside of Yoahtl and will not be prosecuted further for her words given she leaves Yoahtl.
 
-**Proposal Failed:** 0 Ayes, 5 Nays, 7 Abstains
+**Proposal Failed:** 0 Ayes, 5 Nays, 7 Abstentions
+
+</details>
 
 ## [Proposal] Torynado citizenship removal 2 Electricboogaloo
 
@@ -1176,9 +1461,12 @@ Proposer: MechanicalRift, Seconded by: Arconis, Date: October 28th, 2023
 
 > Tory had leaked multiple things intenting to harm the community. In order to have legal exile instead of just in acting exile. I propose that she is removed from citizenship.
 
-**Proposal Passed:** 16 Ayes, 0 Nays, 2 Abstains
+**Proposal Passed:** 16 Ayes, 0 Nays, 2 Abstentions
 
 ## [Proposal] Gov monopoly on xp~
+
+<details>
+<summary>Details</summary>
 
 Proposer: Solitaire, Seconded by: bgbba, Date: January 13th, 2024
 
@@ -1190,7 +1478,9 @@ Proposer: Solitaire, Seconded by: bgbba, Date: January 13th, 2024
 
 > Crops produced via farms within Yoahtl should not go toward production of xp/emeralds outside of Yoahtl without explicit permission from the government.
 
-**Proposal Withdrawn:** 1 Aye, 0 Nays, 2 Abstains
+**Proposal Withdrawn**: 1 Aye, 0 Nays, 2 Abstentions
+
+</details>
 
 ## [Proposal] Outlaw Jump boost on beacons in Altepetl
 
@@ -1198,9 +1488,12 @@ Proposer: Solitaire, Seconded by: bgbba, Date: January 15th, 2024
 
 > Very simple proposal. Jump boost beacons are annoying af. Outlaw them in Altepetl :yoahtlchad:
 
-**Proposal Passed:** 13 Ayes, 1 Nay, 0 Abstains
+**Proposal Passed:** 13 Ayes, 1 Nay, 0 Abstentions
 
 ## [Proposal] The Universal Approval Proposal
+
+<details>
+<summary>Details</summary>
 
 Proposer: MechanicalRift, Seconded by: HiddenShantu, Date: January 15th, 2024
 
@@ -1214,33 +1507,43 @@ Proposer: MechanicalRift, Seconded by: HiddenShantu, Date: January 15th, 2024
 
 > A government member then begins the voting process during which current members of the ololtic have 48 hours to vote on the request. **If 100% of the Ololtic participate and vote aye or abstain on the request, while a majority of the votes are aye, the vote is ended early and passes.**
 
-**Proposal Failed:** 10 Ayes, 0 Nays, 0 Abstains
+**Proposal Failed:** 10 Ayes, 0 Nays, 0 Abstentions
+
+</details>
 
 ## [Proposal] The Expulsion Act
 
-Proposer: bgbba, Seconded by: Quauhtli, Date: February 15th, 2024 
+<details>
+<summary>Details</summary>
 
-> This is a follow up to the sedition act and shall be construed as reinforcing the terms contained therein. The following shall be enacted to define enemies of Yoahtl under the sedition act as follows in addition to enemies in wartime: 
-> 
+Proposer: bgbba, Seconded by: Quauhtli, Date: February 15th, 2024
+
+> This is a follow up to the sedition act and shall be construed as reinforcing the terms contained therein. The following shall be enacted to define enemies of Yoahtl under the sedition act as follows in addition to enemies in wartime:
+>
 > * all players banned from civ for doxxing, harassment, or out of game threatening behavior
-> 
+>
 > * all players who continue to deny the validity of the admins bans for doxxing, harassment, or out of game threatening behavior or deny entirely the claims of doxxing or harassment in the face of clear evidence when presented to them
-> 
-> Any player who is banned for the aforementioned reasons is to be considered an enemy of Yoahtl. This shall not be construed as to prevent debate or discussion internally, but only to define those with valid bans and evidence against them as enemies of Yoahtl under the sedition act explicitly. 
+>
+> Any player who is banned for the aforementioned reasons is to be considered an enemy of Yoahtl. This shall not be construed as to prevent debate or discussion internally, but only to define those with valid bans and evidence against them as enemies of Yoahtl under the sedition act explicitly.
 
-> Secondly, rendering material aid to enemies under the sedition act shall include the following: 
-> 
+> Secondly, rendering material aid to enemies under the sedition act shall include the following:
+>
 > * owning or moderating a discord where banned players are active participants
-> 
+>
 > * any players banned for doxxing, harassment, or threatening behavior must be immediately expelled from the Yoahtl discord or any metagame services owned, managed or operated by the Yoahtlan government. Any government official who refuses to take meaningful action against banned players of this nature is liable under the sedition act for providing material and comfort to an enemy of Yoahtl
-> 
+>
 > * offering residency or safe harbor within a political entity of which you are a governing authority including allowing banned players a meaningful platform to continue to interact with the civ community
-> 
+>
 > Exceptions may be granted under the terms of the Expulsion Act for people participating in good faith discussions or discussions which do not threaten the irl health and safety of Yoahtlans in violation of their charter rights.
 
-**Proposal Failed:** 4 Aye, 9 Nays, 4 Abstains
+**Proposal Failed:** 4 Aye, 9 Nays, 4 Abstentions
+
+</details>
 
 ## [Proposal] Required Discussion Time
+
+<details>
+<summary>Details</summary>
 
 Proposer: MechanicalRift, Seconded by: Neotide, Date: February 16th, 2024
 
@@ -1249,19 +1552,29 @@ Proposer: MechanicalRift, Seconded by: Neotide, Date: February 16th, 2024
 
 > Change to:
 
-> "After a period of discussion of a minimum of 24 hours during which the specifics of the law are discussed and revisions are suggested, a different member of the Ololtic can "second" the proposal. It enters a 48-hour period where it is voted on, during which discussion may continue." 
+> "After a period of discussion of a minimum of 24 hours during which the specifics of the law are discussed and revisions are suggested, a different member of the Ololtic can "second" the proposal. It enters a 48-hour period where it is voted on, during which discussion may continue."
 
-**Proposal Failed:** 15 Aye, 1 Nay, No Abstains
+**Proposal Failed:** 15 Aye, 1 Nay, 0 Abstentions
+
+</details>
 
 ## [Proposal] Name the Vault
+
+<details>
+<summary>Details</summary>
 
 Proposer: bgbba, Seconded by: Yergo, Date: April 18th, 2024
 
 > I cannot vote but I can propose. I propose that the newly renovated vault be renamed to ‘South of the Border’ in honor of the largest tourist attraction south of the Mason Dixon line. That is all.
 
-**Proposal Failed:** 3 Aye, 7 Nay, No Abstains
+**Proposal Failed:** 3 Aye, 7 Nay, 0 Abstentions
+
+</details>
 
 ## [Proposal] Increase the minimum number of councillors from 3 to 4
+
+<details>
+<summary>Details</summary>
 
 Proposer: Solitaire, Seconded by: VilyanZ, Date: May 12th, 2024
 
@@ -1275,4 +1588,6 @@ Proposer: Solitaire, Seconded by: VilyanZ, Date: May 12th, 2024
 > I would propose that it is amended to read:
 > > The council shall be composed of 4 members minimum, with additional seats added for every 6 citizens beyond 14.
 
-**Proposal Failed:** 14 Aye, 3 Nay, No Abstains
+**Proposal Failed:** 14 Aye, 3 Nay, 0 Abstentions
+
+</details>
