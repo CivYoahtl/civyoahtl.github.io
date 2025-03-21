@@ -361,7 +361,7 @@ _(Amends [The Yoahtlan Charter](/constitution/charter))_
 
 ## Proposal Twenty Seven (Passed)
 
-Proposer: nico0078, Seconded By: UNKOWN, Date: 3rd March 2020
+Proposer: nico0078, Seconded By: Unknown, Date: 3rd March 2020
 
 > Any citizen can start a proposal, and it must be seconded by a different citizen after a period of discussion of any length during which the specifics of the law are discussed and revisions suggested. Once seconded, voting opens for the next 48 hours, during which additional discussion may occur. If the proposer wishes to include revisions from this additional discussion, they may update their proposal, at which point the voting period and votes both reset. Once voting closes, the proposal passes if there are more aye votes than nay votes and at least 1/3 of the citizenry has voted aye (or 2/3rds in the case of charter amendments).
 > Councillors can also pass legislation. Any council member may start a proposal, and it is passed and becomes law if 2/3 of the councillors approve the proposal by voting aye. However, if at least as many citizens as there are council members express their desire to revoke this law, the law is temporarily suspended and a proposal is created to veto the Council's law.
@@ -761,7 +761,7 @@ Proposer: Princess Bow, Seconded By: Yergo, Date: 5th December 2021
 > >
 > > December 2021
 
-**Proposal Passed**: 13 Aye, 1 Nay, 0 Abstentions
+**Proposal Passed**: 13 Ayes, 1 Nay, 0 Abstentions
 
 ## [Proposal] The House of Winterbourne Act
 
@@ -843,6 +843,8 @@ Proposer: Orinnari, Seconded By: Aki, Date: 27th January 2022
 
 **Proposal Passed**: 17 Ayes, 0 Nays, 1 Abstention
 
+_(Amends [The Yoahtlan Charter](/constitution/charter))_
+
 ## [Proposal] Fix the language in and clarify several parts of the Charter
 
 Proposer: Feathercrown, Seconded By: NevermoreGrim, Date: 9th April 2022
@@ -862,6 +864,8 @@ Proposer: Feathercrown, Seconded By: NevermoreGrim, Date: 9th April 2022
 > - Add a subsection to V: "The High Justice may not also hold executive office."
 
 **Proposal Passed**: 17 Ayes, 0 Nays, 0 Abstentions
+
+_(Amends [The Yoahtlan Charter](/constitution/charter))_
 
 ## [Proposal] Amend the Purgatory Period
 
@@ -903,6 +907,8 @@ Proposer: GDAN, Seconded By: JoeyWheeler, Date: 17th April 2022
 
 **Proposal Passed**: 19 Ayes, 0 Nays, 0 Abstentions (26 Citizens, 18 Ayes needed)
 
+_(Amends [The Yoahtlan Charter](/constitution/charter))_
+
 ## [Proposal] Inactive Citizenship Revocation
 
 <details>
@@ -940,6 +946,8 @@ Proposer: GDAN, Seconded By: Mokotowskie, Date: 26th April 2022
 
 **Proposal Passed**: 16 Ayes, 0 Nays, 2 Abstentions
 
+(Amends [Council Act 6.7](/government/council-acts#council-act-6-7))
+
 ## [Proposal] Codifying Citizen Votes
 
 Proser: Solitaire, Seconded By: Aki, Date: May 5th, 2022
@@ -957,6 +965,8 @@ Proser: Solitaire, Seconded By: Aki, Date: May 5th, 2022
 > Context: The proposal updated the charter on how people were being added to the Ololtic
 
 **Proposal Passed**: 18 Ayes, 0 Nays, 0 Abstentions
+
+_(Amends [The Yoahtlan Charter](/constitution/charter))_
 
 ## [Proposal] Amendment to Council Acts 5.1 & 5.2
 
@@ -977,6 +987,8 @@ Propser: Solitaire, Seconded By: Aki, Date: May 6th, 2022
 > Construction on government owned land requires approval of the government, whether ownership of the land is being transferred or not.
 
 **Proposal Passed**: 16 Ayes, 1 Nay, 1 Abstention
+
+(Amends [Council Act 5.1](/government/council-acts#council-act-5-1) and [Council Act 5.2](/government/council-acts#council-act-5-2))
 
 ## [Proposal] Chieftan Discord Ownership
 
@@ -1212,6 +1224,8 @@ Proposer: Solitaire, Seconded by: Space, Date: August 4th, 2022
 
 **Proposal Passed**: 25 Ayes, 1 Nay, 4 Abstentions
 
+_(Amends [The Yoahtlan Charter](/constitution/charter))_
+
 ## [Proposal] Yoahtl Waterway Protection Act
 
 Proposer: Tigers, Seconded by: Mocha, Date: August 9th, 2022
@@ -1232,7 +1246,7 @@ Proposer: Tigers, Seconded by: Mocha, Date: August 9th, 2022
 
 > Remedies: Violations of this act which are not corrected within a week of notification shall result in removal of ownership for the portions of private plots which overlap with waterways. Damages to waterways or waterside flora shall be repaired by the violator until a fitting re-creation is deemed complete.
 
-**Proposal Passed** 15 Ayes, 1 Nay
+**Proposal Passed** 15 Ayes, 1 Nay, 0 Abstentions
 
 ## [Proposal] An Act to Increase Transparency and Improve Communication
 
@@ -1349,7 +1363,7 @@ Proposer: Mechanical, Seconded by: Mocha, Date: November 6th, 2022
 
 > Unrecorded proposals will take affect after the proposal is passed. If not publicly recorded within a week on on whatever the official platform for public recording Yoahtlan law is at the time of ratification: the law can be ignored by players without fear of being affected, as long as that does not actively harm other Yoahtlans via lag or direct PVP.
 
-**Proposal Passed**: 20 Ayes, 1 Nay, 0 Abstians
+**Proposal Passed**: 20 Ayes, 1 Nay, 0 Abstentions
 
 ## [Proposal] Charter Amendment: Citizenship Suspencions Article 4 Section 1
 
@@ -1367,6 +1381,8 @@ Proposer: Space, Seconded by: Solitaire, Date: November 6th, 2022
 >    - c. Any previous citizen of Yoahtl not voted into the Ololtic as established by this charter shall regain citizenship rights by Ololtic vote.
 
 **Proposal Passed**: 22 Ayes, 0 Nays, 0 Abstentions
+
+_(Amends [The Yoahtlan Charter](/constitution/charter))_
 
 ## [Proposal] Dereliction Laws 2: Electric Boogaloo
 
@@ -1536,7 +1552,7 @@ Proposer: bgbba, Seconded by: Quauhtli, Date: February 15th, 2024
 >
 > Exceptions may be granted under the terms of the Expulsion Act for people participating in good faith discussions or discussions which do not threaten the irl health and safety of Yoahtlans in violation of their charter rights.
 
-**Proposal Failed:** 4 Aye, 9 Nays, 4 Abstentions
+**Proposal Failed:** 4 Ayes, 9 Nays, 4 Abstentions
 
 </details>
 
@@ -1554,7 +1570,7 @@ Proposer: MechanicalRift, Seconded by: Neotide, Date: February 16th, 2024
 
 > "After a period of discussion of a minimum of 24 hours during which the specifics of the law are discussed and revisions are suggested, a different member of the Ololtic can "second" the proposal. It enters a 48-hour period where it is voted on, during which discussion may continue."
 
-**Proposal Failed:** 15 Aye, 1 Nay, 0 Abstentions
+**Proposal Failed:** 15 Ayes, 1 Nay, 0 Abstentions
 
 </details>
 
@@ -1567,7 +1583,7 @@ Proposer: bgbba, Seconded by: Yergo, Date: April 18th, 2024
 
 > I cannot vote but I can propose. I propose that the newly renovated vault be renamed to ‘South of the Border’ in honor of the largest tourist attraction south of the Mason Dixon line. That is all.
 
-**Proposal Failed:** 3 Aye, 7 Nay, 0 Abstentions
+**Proposal Failed:** 3 Ayes, 7 Nays, 0 Abstentions
 
 </details>
 
@@ -1703,8 +1719,8 @@ Proposer: Enzo, Seconded by: Klasikrok, Date: January 18th, 2025
 
 > Please let me know if there are any additional questions I can answer during the discussion phase of this proposal.
 
-Thank you,
-Enzo (Krombopul)
+> Thank you,
+> Enzo (Krombopul)
 
 **Proposal Withdrawn:** 0 Ayes, 8 Nays, 1 Abstention
 

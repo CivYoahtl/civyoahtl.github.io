@@ -162,7 +162,7 @@ Amend Article 4.2 to read: "All citizens are afforded one voluntary vote when vo
 
 Amend Article 5.1 to state that the High Justice serves indefinitely (until resignation, impeachment, or quitting) instead of three months.
 
-Amend Article 5.1.a to lower the vote requirement to remove the High Justice from a 67% to 60%.
+Amend Article 5.1.a to lower the vote requirement to remove the High Justice from 67% to 60%.
 
 ### 4th Amendment
 
