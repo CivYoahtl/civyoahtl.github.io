@@ -99,11 +99,11 @@ As time goes on, it becomes necessary for a nation to establish for itself a bod
    - d. Should the proposal receive more Ayes than Nays and those Ayes represent at least ⅓ of the Ololtic, it then becomes official. (ie: is enacted / ratified / confirmed / etc)
 
 1. Affirming new citizens to the ololtic will abide by the following procedure:
-   
+
    - a. Residents of Yoahtl proper may submit a request to become a member of the ololtic at any time.
-   
+
    - b. A government member then begins the voting process during which current members of the ololtic have 48 hours to vote on the request.
-   
+
    - c. Once the 48 hour period has passed if the request has received ayes from greater than half the ololtic then it passes.
 
 ## Article V - Court System
@@ -246,4 +246,4 @@ Add the following sub-article to Article 2:
 
 ### 14th Amendment
 
-1. Add Article 4 Section 4 from the Olotic Proposal [Codifying Citizen Votes](/government/ololtic-proposals.html#proposal-codifying-citizen-votes)
+1. Add Article 4 Section 4 from the Ololtic Proposal [Codifying Citizen Votes](/government/ololtic-proposals.html#proposal-codifying-citizen-votes)
