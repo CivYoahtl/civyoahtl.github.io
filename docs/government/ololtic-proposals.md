@@ -1588,6 +1588,166 @@ Proposer: Solitaire, Seconded by: VilyanZ, Date: May 12th, 2024
 > I would propose that it is amended to read:
 > > The council shall be composed of 4 members minimum, with additional seats added for every 6 citizens beyond 14.
 
-**Proposal Failed:** 14 Aye, 3 Nay, 0 Abstentions
+**Proposal Failed:** 14 Ayes, 3 Nays, 0 Abstentions
 
 </details>
+
+## [Proposal] Increase the minimum number of councillors from 3 to 4 (Reproposed)
+
+Proposer: Solitaire, Seconded by: VilyanZ, Date: May 20th, 2024
+
+> Recently I've been thinking that currently the council has the largest amount of responsibilities/duties/work that it has ever probably seen throughout Yoahtl's lifetime. This isn't a bad thing, and is just a natural result of Yoahtl becoming a more established and capable nation over time. Compared to when the first iteration of the current governmental structure was implemented and it was decided that the minimum number would be 3 councillors.
+
+> Alongside this increase in the minimum number of councillors I'd add a very slight increase to the number of voters needed to then get to a council of 5 people:
+
+> Article II Section 5.a. currently reads:
+> > The council shall be composed of 3 members minimum, with additional seats added for every 6 citizens beyond 12.
+>
+> I would propose that it is amended to read:
+> > The council shall be composed of 4 members minimum, with additional seats added for every 6 citizens beyond 14.
+
+**Proposal Passed:** 12 Ayes, 3 Nays, 0 Abstentions
+
+_(Amends [The Yoahtlan Charter](/constitution/charter))_
+
+## [Proposal] Nationalising Currency Exchanges
+
+Proposer: Solitaire, Seconded by: x1025, Date: June 2nd, 2024
+
+> Only the government can create/own/run exchanges that effectively convert between any of the following "currencies",
+> - emeralds (or xp)
+> - diamonds
+> - iron
+> - netherite (or debris)
+> - essence
+
+**Proposal Passes:** 8 Ayes, 3 Nays, 1 Abstention
+
+## [Proposal] Minimum discussion length for proposals (Reproposed)
+
+Proposer: Solitaire, Seconded by: MechanicalRift, Date: June 7th, 2024
+
+> I'm reproposing this proposal from a little bit ago as I believe it'd be a good change to make. As it means that there has to be at least 24 hours for discussion before seconding and voting begins. Whereas atm someone can just second a proposal immediately and begin voting before any discussion occurs.
+Last time it was voted on it failed due to being 1 vote short of the 2/3rd ayes needed for a charter amendment.
+
+> Amending Article 4 Section 3a
+> "Should, after a period of discussion of any length during which the specifics of the law are discussed and revisions suggested, a different citizen "second" the proposal, it enters a 48-hour period where it is voted on, during which discussion may continue."
+
+> Change to:
+
+> "After a period of discussion of a minimum of 24 hours during which the specifics of the law are discussed and revisions are suggested, a different member of the Ololtic can "second" the proposal. It enters a 48-hour period where it is voted on, during which discussion may continue."
+
+**Proposal Passes:** 13 Ayes, 1 Nay, 0 Abstentions
+
+_(Amends [The Yoahtlan Charter](/constitution/charter))_
+
+## [Proposal] Draw and quarter whoever made the slime farm
+
+Proposer: Enzo, Seconded by: NukinMouse, Date: July 18th, 2024
+
+> The slime farm has been an utter nightmare. I do not believe it meets the standards a true yoahtlan should hold themselves too. I propose that the creator of the slime farm be executed in front of the Pigeon in Altepetl. Thank you for your time.
+
+**Proposal Passes:** 9 Ayes, 8 Nays, 0 Abstentions
+
+## [Proposal] VILYANZ MUST DIE
+
+Proposer: NukinMouse, Seconded by: wandrum, Date: November 6th, 2024
+
+> I PROPOSE WE KILL VILYANZ RIGHT NOW FOR  NOT STOCKING NORDCO AND NOT HELPING WITH FARM edit: this will be a one time kill whenever time is acceptable
+
+**Proposal Passes:** 12 Ayes, 1 Nay, 0 Abstentions
+
+## [Proposal] Voting Reform Act
+
+Proposer: Aki, Seconded by: NukinMouse, Date: November 18th, 2024
+
+> Based on some conversations had in the VC over the last few days, I want to propose the Voting Reform Act (the VRA)
+
+> When a member of the Ololtic casts a ballot for a elected position, that ballot cannot be changed later. The exceptions to this rule are if the candidate for the position is exiled, sentenced to a crime like treason in the Yoahtlan Courts, drops out of the race, or if they quit the game, in which case the members of the Ololtic can change that one candidate to another.
+
+> Any coercion, manipulation, blackmail or payment for votes for an elected official are highly illegal
+
+> When someone declares their intention to run for office, and they later drop out before the election ends, they cannot then reenter the race. Dropping out is an irreversable decision.
+
+> These seem to address all points mentioned in VCs and would elevate respected practice and trial law into the highest law in the land.
+
+**Proposal Passes:** 9 Ayes, 4 Nays, 3 Abstentions
+
+## [Proposal] High Justice Counts the Votes Act
+
+<details>
+<summary>Details</summary>
+
+Proposer: x1025, Seconded by: Husky, Date: November 17th, 2024
+
+> As the only Ololtic ineligible to hold a council position, the High Justice should be the one who counts votes and for proposals and council elections, as well as count the votes for proposals.
+
+**Proposal Fails:** 12 Ayes, 1 Nay, 4 Abstentions
+
+</details>
+
+## [Proposal] Pardon for Krombopul
+
+<details>
+<summary>Details</summary>
+
+Proposer: Enzo, Seconded by: Klasikrok, Date: January 18th, 2025
+
+> I am writing this  with deep regret and humility to address an incident for which I am entirety responsible. As many of you know I committed an act of theft against a resident of Altepetl. I take full responsibility for my actions and sincerely apologize for the harm caused to any member of the Ololtic.
+
+> I allowed poor judgment to cloud my actions. While this is no excuse, I want to assure you that I deeply regret my behavior and the breach of trust it represents.
+
+> In the trial I expressed my sincere sentiment in his case against me and mine against him. I understand my crime was wrong and have expressed such sentiment throughout the trial. I am now left destitute and with immense debt. I hold no blame against anyone. The fault is mine and mine alone. I have learned a valuable lesson from this experience and am taking steps to earn back trust.
+
+> I am seeking amnesty from the public for the crimes I have committed. I assure you that I am and have always been committed to personal growth. My mind now is only focused on contributing exciting new builds to Yoahtl. A lot of my recent time has been used in creative designing builds to implement. I wish to resume my role as a productive member of Yoahtl peacefully and look forward to the future. Thank you for considering my request. I hope to gain your understanding and forgiveness.
+
+> Please let me know if there are any additional questions I can answer during the discussion phase of this proposal.
+
+Thank you,
+Enzo (Krombopul)
+
+**Proposal Withdrawn:** 0 Ayes, 8 Nays, 1 Abstention
+
+</details>
+
+## [Proposal] Purple Pearl Medal Act
+
+Proposer: Yergo, Seconded by: VilyanZ, Date: January 7th, 2025
+
+> I propose an act in which the Yoahtlan government will issue purple pearl medals to any Yoahtlan who has spent time in a pearl due to their action in Yoahtlan military operations. The government will be provided with a non-copy protected version of the mapart, and must provide a free copy of the medal which is copy-protected to any Yoahtlan who meets the requirements of the medal.
+
+**Proposal Passes:** 16 Ayes, 0 Nays, 0 Abstentions
+
+## [Proposal] Reduce the minimum number of councilors from 4 to 3
+
+<details>
+<summary>Details</summary>
+
+Proposer: Aki, Seconded by: Maz, Date: January 30th, 2025
+
+> The minimum number of councilors should go back down to 3.  No other changes.
+
+**Proposal Fails:** 12 Ayes, 5 Nays, 1 Abstention
+
+</details>
+
+## [Proposal] Kill Oozora_PD
+
+<details>
+<summary>Details</summary>
+
+Proposer: NukinMouse, Seconded by: VilyanZ, Date: February 7th, 2025
+
+> We should kill Oozora_PD Aka Wackyaki in public display at the pigeon fountain i think itd be mad funny
+
+**Proposal Fails:** 6 Ayes, 4 Nays, 1 Abstention
+
+</details>
+
+## [Proposal] Eoahtl Day
+
+Proposer: MechanicalRift, Seconded by: VilyanZ, Date: February 16th, 2025
+
+> To celebrate the date of the founding of the Community, I propose that we host it annually on August 11th. This upcoming August 11th is the 15th anniversary of Yoahtl.
+
+**Proposal Passes:** 13 Ayes, 0 Nays, 0 Abstentions
