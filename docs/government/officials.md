@@ -13,7 +13,7 @@ const members = [
   {
     avatar: 'https://cdn.discordapp.com/avatars/270360642496626690/f1fbb74aae06664f9f26e015bfbbbe68?size=1024',
     name: 'x1025',
-    title: 'Alcuahtl, Chieftain',
+    title: 'Alcuahtl, Chieftain, Councillor',
     links: []
   },
   {
