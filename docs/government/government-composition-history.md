@@ -422,7 +422,7 @@ There was an emergency election due to war, thus the early end date
 
 ## Thirty-Fourth Council (3/13/2024 - 5/13/2024)
 
-**Alcuahtl**: x1025
+**Alcuahtl**: Yergo
 
 - x1025
 - Solitaire
@@ -488,4 +488,4 @@ There was an emergency election due to war, thus the early end date
 - x1025
 - NeoTide
 - WackyAki
-- VilyanZ
+- VilyanZ (Resigned 4/6/2025), Matt4fun9 (from 4/8/2025)
