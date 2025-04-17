@@ -19,7 +19,7 @@ Proposer: bgbba, Seconded By: Spacevolcano, Date: 22nd July 2019
 
 **Proposal Passed**: Votes Unknown
 
-_(Amends [The Yoahtlan Charter](/constitution/charter))_
+_(Amends [The Yoahtlan Charter](/constitution/charter#_1st-amendment))_
 
 ## Proposal Two (Passed)
 
@@ -31,7 +31,7 @@ Proposer: bgbba, Seconded By: SpaceVolcano, Date: 25th July 2019
 
 **Proposal Passed**: Votes Unknown
 
-_(Amends [The Yoahtlan Charter](/constitution/charter))_
+_(Amends [The Yoahtlan Charter](/constitution/charter#_2nd-amendment))_
 
 ## Proposal Three (Failed)
 
@@ -55,7 +55,7 @@ Proposer: GDAN12, Seconded By: bgbba, Date: 31st July 2019
 
 **Proposal Passed**: 16 Ayes, 1 Nay, 0 Abstentions
 
-_(Amends [The Yoahtlan Charter](/constitution/charter))_
+_(Amends [The Yoahtlan Charter](/constitution/charter#_3rd-amendment))_
 
 ## Proposal Five (Passed)
 
@@ -65,7 +65,9 @@ Proposer: bgbba, Seconded By: LukasMaps, Date: 24th August 2019
 
 **Proposal Passed**: 16 Ayes, 2 Nays, 0 Abstentions
 
-_(Amends [The Yoahtlan Charter](/constitution/charter))_
+_(Amends [The Yoahtlan Charter](/constitution/charter#_4th-amendment))_
+
+_Note: The ending of this clause ("to be 'first among equals' from among their peers") was accidentally omitted from the recording of this amendment. This has since been rendered moot by [[Proposal] Amend Article 2 Section 7](/government/ololtic-proposals#proposal-amend-article-2-section-7)._
 
 ## Proposal Six (Failed)
 
@@ -148,7 +150,7 @@ Proposer: alzdadog, Seconded By: LukasMaps, Date: 9th September 2019
 
 **Proposal Passed**: 19 Ayes, 1 Nay, 0 Abstentions
 
-_(Amends [The Yoahtlan Charter](/constitution/charter))_
+_(Amends [The Yoahtlan Charter](/constitution/charter#_5th-amendment))_
 
 ## Proposal Twelve (Failed)
 
@@ -266,7 +268,7 @@ Proposer: Okx, Seconded By: Orinnari, Date: 17th October 2019
 
 **Proposal Passed**: 15 Ayes, 1 Nay, 6 Abstentions
 
-_(Amends [The Yoahtlan Charter](/constitution/charter))_
+_(Amends [The Yoahtlan Charter](/constitution/charter#_6th-amendment))_
 
 ## Proposal Twenty One (Passed)
 
@@ -345,7 +347,7 @@ Proposer: MightyOddish, Seconded By: nico0078, Date: 17th February 2020
 
 **Proposal Passed**: 11 Ayes, 5 Nays, 2 Abstentions
 
-_(Amends [The Yoahtlan Charter](/constitution/charter))_
+_(Amends [The Yoahtlan Charter](/constitution/charter#_7th-amendment))_
 
 ## Proposal Twenty Six (Passed)
 
@@ -357,7 +359,7 @@ Proposer: nico0078, Seconded By: iOminous, Date: 26th February 2020
 
 **Ololtic Phase**: 16 Ayes, 2 Nays, 0 Abstentions
 
-_(Amends [The Yoahtlan Charter](/constitution/charter))_
+_(Amends [The Yoahtlan Charter](/constitution/charter#_8th-amendment))_
 
 ## Proposal Twenty Seven (Passed)
 
@@ -369,7 +371,9 @@ Proposer: nico0078, Seconded By: Unknown, Date: 3rd March 2020
 
 **Proposal Passed**: 16 Ayes, 1 Nay, Unknown Abstentions
 
-_(Amends [The Yoahtlan Charter](/constitution/charter))_
+_(Amends [The Yoahtlan Charter](/constitution/charter#_9th-amendment))_
+
+_Note: The clause "Laws passed by the Council may not override laws passed by the Ololtic." was accidentally omitted from the recording of this amendment, and was later overwritten by [[Proposal] Clarify the legislative powers of the Council (Reattempt)](/government/ololtic-proposals#proposal-clarify-the-legislative-powers-of-the-council-reattempt). It has since been restored by [[Proposal] Re-add Ololtic-Law Supremacy (Reattempt)](/government/ololtic-proposals#proposal-re-add-ololtic-law-supremacy-reattempt)._
 
 ## Proposal Twenty Eight (Failed)
 
@@ -843,7 +847,7 @@ Proposer: Orinnari, Seconded By: Aki, Date: 27th January 2022
 
 **Proposal Passed**: 17 Ayes, 0 Nays, 1 Abstention
 
-_(Amends [The Yoahtlan Charter](/constitution/charter))_
+_(Amends [The Yoahtlan Charter](/constitution/charter#_10th-amendment))_
 
 ## [Proposal] Fix the language in and clarify several parts of the Charter
 
@@ -865,7 +869,7 @@ Proposer: Feathercrown, Seconded By: NevermoreGrim, Date: 9th April 2022
 
 **Proposal Passed**: 17 Ayes, 0 Nays, 0 Abstentions
 
-_(Amends [The Yoahtlan Charter](/constitution/charter))_
+_(Amends [The Yoahtlan Charter](/constitution/charter#_11th-amendment))_
 
 ## [Proposal] Amend the Purgatory Period
 
@@ -907,7 +911,7 @@ Proposer: GDAN, Seconded By: JoeyWheeler, Date: 17th April 2022
 
 **Proposal Passed**: 19 Ayes, 0 Nays, 0 Abstentions (26 Citizens, 18 Ayes needed)
 
-_(Amends [The Yoahtlan Charter](/constitution/charter))_
+_(Amends [The Yoahtlan Charter](/constitution/charter#_12th-amendment))_
 
 ## [Proposal] Inactive Citizenship Revocation
 
@@ -966,7 +970,7 @@ Proser: Solitaire, Seconded By: Aki, Date: May 5th, 2022
 
 **Proposal Passed**: 18 Ayes, 0 Nays, 0 Abstentions
 
-_(Amends [The Yoahtlan Charter](/constitution/charter))_
+_(Amends [The Yoahtlan Charter](/constitution/charter#_13th-amendment))_
 
 ## [Proposal] Amendment to Council Acts 5.1 & 5.2
 
@@ -1224,7 +1228,7 @@ Proposer: Solitaire, Seconded by: Space, Date: August 4th, 2022
 
 **Proposal Passed**: 25 Ayes, 1 Nay, 4 Abstentions
 
-_(Amends [The Yoahtlan Charter](/constitution/charter))_
+_(Amends [The Yoahtlan Charter](/constitution/charter#_14th-amendment))_
 
 ## [Proposal] Yoahtl Waterway Protection Act
 
@@ -1382,7 +1386,7 @@ Proposer: Space, Seconded by: Solitaire, Date: November 6th, 2022
 
 **Proposal Passed**: 22 Ayes, 0 Nays, 0 Abstentions
 
-_(Amends [The Yoahtlan Charter](/constitution/charter))_
+_(Amends [The Yoahtlan Charter](/constitution/charter#_15th-amendment))_
 
 ## [Proposal] Dereliction Laws 2: Electric Boogaloo
 
@@ -1624,7 +1628,7 @@ Proposer: Solitaire, Seconded by: VilyanZ, Date: May 20th, 2024
 
 **Proposal Passed:** 12 Ayes, 3 Nays, 0 Abstentions
 
-_(Amends [The Yoahtlan Charter](/constitution/charter))_
+_(Amends [The Yoahtlan Charter](/constitution/charter#_16th-amendment))_
 
 ## [Proposal] Nationalising Currency Exchanges
 
@@ -1655,7 +1659,7 @@ Last time it was voted on it failed due to being 1 vote short of the 2/3rd ayes 
 
 **Proposal Passes:** 13 Ayes, 1 Nay, 0 Abstentions
 
-_(Amends [The Yoahtlan Charter](/constitution/charter))_
+_(Amends [The Yoahtlan Charter](/constitution/charter#_17th-amendment))_
 
 ## [Proposal] Draw and quarter whoever made the slime farm
 
