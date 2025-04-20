@@ -40,7 +40,7 @@ As time goes on, it becomes necessary for a nation to establish for itself a bod
 
 1. Councillors will be elected to a term of 2 months by a popular vote. Citizens may pick up to 3 candidates to cast their ballots for, and the candidates with the 3 highest vote totals will comprise the council for that term.
 
-   - a. The council shall be composed of 3 members minimum, with additional seats added for every 6 citizens beyond 12.
+   - a. The council shall be composed of 4 members minimum, with additional seats added for every 6 citizens beyond 14.
 
    - b. Councillors may resign at any time, for any reason, so long as they appoint a deputy to fill in for them if needed before an official replacement is elected. An interim election should be held within one week of a resignation to choose an official replacement, who will serve until the end of the current Council term.
 
@@ -84,7 +84,13 @@ As time goes on, it becomes necessary for a nation to establish for itself a bod
 
 ## Article IV - The Ololtic
 
-1. The Ololtic denotes the abstract legislative body that consists of all voting-eligible members of Yoahtl.
+1. The Ololtic denotes the abstract legislative body that consists of all voting-eligible members of Yoahtl. It shall comprise of members voted in by other members of the Ololtic as designated by this Charter.
+
+   - a. The Council shall have the ability to suspend citizenship rights based upon activity and precedent.
+
+   - b. Citizenship rights shall be restored to a member of the Ololtic as established under this Charter by request if suspended.
+
+   - c. Any previous citizen of Yoahtl not voted into the Ololtic as established by this charter shall regain citizenship rights by Ololtic vote.
 
 1. All citizens are afforded one voluntary vote when voting on proposals, confirming nominees to public office, or affirming new citizens to the Ololtic.
 
@@ -92,7 +98,7 @@ As time goes on, it becomes necessary for a nation to establish for itself a bod
 
    - a. Citizens may submit proposals at any time regarding any legal, constitutional, or other enactment based issue.
 
-   - b. Should, after a period of discussion of any length during which the specifics of the law are discussed and revisions suggested, a different citizen "second" the proposal, it enters a 48-hour period where it is voted on, during which discussion may continue.
+   - b. After a period of discussion of a minimum of 24 hours during which the specifics of the law are discussed and revisions are suggested, a different member of the Ololtic can "second" the proposal. It enters a 48-hour period where it is voted on, during which discussion may continue.
 
    - c. If the proposer wishes to include revisions from additional discussions, they may update their proposal, at which point both the voting period and votes reset.
 
@@ -142,6 +148,8 @@ As time goes on, it becomes necessary for a nation to establish for itself a bod
 
 ### ~~1st Amendment~~
 
+~~Amend Article 4.3 to read:~~
+
 ~~The way that proposals, charter changes, and the like will be handled from now on is this:~~
 
 1. ~~Somebody makes a proposal.~~
@@ -154,9 +162,13 @@ As time goes on, it becomes necessary for a nation to establish for itself a bod
 
 ~~At the end of the proposal cycle, this channel will be cleared and its contents recorded for posterity so that it's not bogged down.~~
 
+_(Proposed as [Proposal One](/government/ololtic-proposals#proposal-one-passed))_
+
 ### 2nd Amendment
 
 Amend Article 4.2 to read: "All citizens are afforded one voluntary vote when voting on proposals, confirming nominees to public office, or affirming new citizens to the Ololtic."
+
+_(Proposed as [Proposal Two](/government/ololtic-proposals#proposal-two-passed))_
 
 ### 3rd Amendment
 
@@ -164,17 +176,25 @@ Amend Article 5.1 to state that the High Justice serves indefinitely (until resi
 
 Amend Article 5.1.a to lower the vote requirement to remove the High Justice from 67% to 60%.
 
-### 4th Amendment
+_(Proposed as [Proposal Four](/government/ololtic-proposals#proposal-four-passed))_
 
-Amend Article 2.7 to read: "The Council is responsible for electing the Alcuahtl from among the Ololtic who are not currently serving as High Justice or other created executive offices."
+### ~~4th Amendment~~
+
+~~Amend Article 2.7 to read: "The Council is responsible for electing the Alcuahtl from among the Ololtic who are not currently serving as High Justice or other created executive offices."~~
+
+_(Proposed as [Proposal Five](/government/ololtic-proposals#proposal-five-passed))_
 
 ### ~~5th Amendment~~
 
 ~~Amend Article 4.3.d to subtract absent voters from the voter pool during the count and to require a two third's quorum of the Ololtic otherwise the proposal automatically fails.~~
 
+_(Proposed as [Proposal Eleven](/government/ololtic-proposals#proposal-eleven-passed))_
+
 ### ~~6th Amendment~~
 
 ~~Amend Article 4.3.d to reduce the quorum to 50%.~~
+
+_(Proposed as [Proposal Twenty](/government/ololtic-proposals#proposal-twenty-passed))_
 
 ### ~~7th Amendment~~
 
@@ -188,9 +208,13 @@ Amend Article 2.7 to read: "The Council is responsible for electing the Alcuahtl
 
 - ~~d. If the proposal does not receive a two third's majority in favour from the Council, it requires a 90% vote in favour from the Ololtic.~~
 
+_(Proposed as [Proposal Twenty Five](/government/ololtic-proposals#proposal-twenty-five-passed))_
+
 ### ~~8th Amendment~~
 
 ~~Amend Article 4.3.d to reduce the 90% requirement to 75%.~~
+
+_(Proposed as [Proposal Twenty Six](/government/ololtic-proposals#proposal-twenty-six-passed))_
 
 ### 9th Amendment
 
@@ -206,15 +230,19 @@ Proposals, charter changes, and other enactments will be handled by:
 
 - d. Should the proposal receive more Ayes than Nays and those Ayes represent at least ⅓ of the Ololtic, it then becomes official. (ie: is enacted / ratified / confirmed / etc)
 
-Add the following sub-article to Article 2:
+~~Add sub-article 2.9 to Article 2:~~
 
-- The Council may pass legislation via an internal proposal and passes with ⅔ approval of the council. If at least as many citizens as there are councillors express their desire to revoke this law, the law is temporarily suspended and a proposal is created to veto the law. Council Laws may not override laws passed by the Ololtic. The Council may not re-propose a law vetoed by the Ololtic for a period of one month.
+- ~~The Council may pass legislation via an internal proposal and passes with ⅔ approval of the council. If at least as many citizens as there are councillors express their desire to revoke this law, the law is temporarily suspended and a proposal is created to veto the law. Council Laws may not override laws passed by the Ololtic. The Council may not re-propose a law vetoed by the Ololtic for a period of one month.~~
+
+_(Proposed as [Proposal Twenty Seven](/government/ololtic-proposals#proposal-twenty-seven-passed))_
 
 ### 10th Amendment
 
 1. Omit Article 2.9
 
-1. Add the following as a subsection to Article 2.4: "Executive decisions that regard matters of law must be publicly announced before taking effect."
+1. Add subsection to Article 2.4: "Executive decisions that regard matters of law must be publicly announced before taking effect."
+
+_(Proposed as [[Proposal] Clarify the legislative powers of the Council (Reattempt)](/government/ololtic-proposals#proposal-clarify-the-legislative-powers-of-the-council-reattempt))_
 
 ### 11th Amendment
 
@@ -236,14 +264,71 @@ Add the following sub-article to Article 2:
 
 1. Add subsection to Article 5: `The High Justice may not also hold executive office.`
 
+_(Proposed as [[Proposal] Fix the language in and clarify several parts of the Charter](/government/ololtic-proposals#proposal-fix-the-language-in-and-clarify-several-parts-of-the-charter))_
+
 ### 12th Amendment
 
-1. Add subsection to Article 2.4: `Laws passed by the Council may not override laws passed by the Ololtic.`
+Add subsection to Article 2.4: "Laws passed by the Council may not override laws passed by the Ololtic."
+
+_(Proposed as [[Proposal] Re-add Ololtic-Law Supremacy (Reattempt)](/government/ololtic-proposals#proposal-re-add-ololtic-law-supremacy-reattempt))_
 
 ### 13th Amendment
 
-1. To take effect when the next full council election occurs (September 2022): Changing Article 2 Section 7 from 'The Council is responsible for electing the Alcuahtl from among the Ololtic who are not currently serving as High Justice or other executive offices.' to 'The Council is responsible for electing the Alcuahtl to be "first among equals" from among their fellow Councillors.'
+Add subsection to Article 4:
+
+> 4. Affirming new citizens to the ololtic will abide by the following procedure:
+
+> a. Residents of Yoahtl proper may submit a request to become a member of the ololtic at any time.
+
+> b. A government member then begins the voting process during which current members of the ololtic have 48 hours to vote on the request.
+
+> c. Once the 48 hour period has passed if the request has received ayes from greater than half the ololtic then it passes.
+
+_(Proposed as [[Proposal] Codifying Citizen Votes](/government/ololtic-proposals#proposal-codifying-citizen-votes))_
 
 ### 14th Amendment
 
-1. Add Article 4 Section 4 from the Ololtic Proposal [Codifying Citizen Votes](/government/ololtic-proposals.html#proposal-codifying-citizen-votes)
+To take effect when the next full council election occurs (September 2022): Change Article 2 Section 7 from "The Council is responsible for electing the Alcuahtl from among the Ololtic who are not currently serving as High Justice or other executive offices." to "The Council is responsible for electing the Alcuahtl to be "first among equals" from among their fellow Councillors."
+
+_(Proposed as [[Proposal] Amend Article 2 Section 7](/government/ololtic-proposals#proposal-amend-article-2-section-7))_
+
+### 15th Amendment
+
+Amend Article 4.1 from:
+
+> 1.  The Ololtic denotes the abstract legislative body that consists of all voting-eligible members of Yoahtl.
+
+to:
+
+> 1. The Ololtic denotes the abstract legislative body that consists of all voting-eligible members of Yoahtl. It shall comprise of members voted in by other members of the Ololtic as designated by this Charter.
+>    - a. The Council shall have the ability to suspend citizenship rights based upon activity and precedent.
+>    - b. Citizenship rights shall be restored to a member of the Ololtic as established under this Charter by request if suspended.
+>    - c. Any previous citizen of Yoahtl not voted into the Ololtic as established by this charter shall regain citizenship rights by Ololtic vote.
+
+_(Proposed as [[Proposal] Charter Amendment: Citizenship Suspencions Article 4 Section 1](/government/ololtic-proposals#proposal-charter-amendment-citizenship-suspencions-article-4-section-1))_
+
+
+### 16th Amendment
+
+Amend Article 2.5.a from:
+
+> The council shall be composed of 3 members minimum, with additional seats added for every 6 citizens beyond 12.
+
+to:
+
+> The council shall be composed of 4 members minimum, with additional seats added for every 6 citizens beyond 14.
+
+_(Proposed as [[Proposal] Increase the minimum number of councillors from 3 to 4 (Reproposed)](/government/ololtic-proposals#proposal-increase-the-minimum-number-of-councillors-from-3-to-4-reproposed))_
+
+
+### 17th Amendment
+
+Amend Article 4.3.b from:
+
+> Should, after a period of discussion of any length during which the specifics of the law are discussed and revisions suggested, a different citizen "second" the proposal, it enters a 48-hour period where it is voted on, during which discussion may continue.
+
+to:
+
+> After a period of discussion of a minimum of 24 hours during which the specifics of the law are discussed and revisions are suggested, a different member of the Ololtic can "second" the proposal. It enters a 48-hour period where it is voted on, during which discussion may continue.
+
+_(Proposed as [[Proposal] Minimum discussion length for proposals (Reproposed)](/government/ololtic-proposals#proposal-minimum-discussion-length-for-proposals-reproposed))_
