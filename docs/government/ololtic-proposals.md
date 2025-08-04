@@ -1282,6 +1282,8 @@ Proposer: Bgbba, Seconded by: Space, Date: September 12th, 2022
 
 **Bgbba**:
 
+> In the interest of public discourse between the citizenry and interested foreign parties who have positive intentions such as trade or recruitment, any future restrictions of public discussion forums which include foreigners shall only be made private subject to one of the following conditions:
+
 > 1.  A formal declaration of war that requires restriction for public safety
 
 > 2.  A referendum passed by a majority of the Ololtic affirming that a public forum should be made private
