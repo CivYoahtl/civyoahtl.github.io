@@ -11,6 +11,12 @@ Yoahtl signed the [Ascension of Southshire](/storage/treaties/southshire-ascensi
 - Signed 14th January 2018
 - Voided 25th August 2018
 
+## ~~Ascension of Koenigsberg~~
+
+Yoahtl signed the [Ascension of Koenigsberg](/storage/treaties/ascension-of-konigsberg.pdf) treaty allowing Koenigsberg to join as an autonomous town.
+
+- Signed ?? (treaty document created 21st January, 2018)
+
 ## ~~Charter for the Southern Area Treaty Organisation~~
 
 Yoahtl agreed to the terms of the [Charter for the Southern Area Treaty Organisation](/storage/treaties/southern-area-treaty-organisation.pdf).
@@ -61,12 +67,6 @@ Yoahtl signed the [Treaty of Terestai](/storage/treaties/ashelor-ascension.pdf) 
 
 - Signed 7th August 2020
 - Voided 12th October 2020
-
-## Ascension of Koenigsberg
-
-Yoahtl signed the [Ascension of Koenigsberg](/storage/treaties/koenigsberg-of-ascension.pdf) treaty allowing Koenigsberg to join as an autonomous town.
-
-- Signed ??
 
 ## Regional Welfare, Development and Safety Treaty
 
