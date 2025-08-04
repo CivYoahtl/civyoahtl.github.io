@@ -1771,3 +1771,19 @@ Proposer: MechanicalRift, Seconded by: VilyanZ, Date: February 16th, 2025
 > To celebrate the date of the founding of the Community, I propose that we host it annually on August 11th. This upcoming August 11th is the 15th anniversary of Yoahtl.
 
 **Proposal Passes:** 13 Ayes, 0 Nays, 0 Abstentions
+
+## [Proposal] Permanent Removal of Mayor Role
+
+Proposer: BunnyInRed, Seconded by: Yergo, Date: May 3rd, 2025
+
+> This proposal reaffirms our stance that mayoralship does not legally exist, and thus does not have legal power. This will also remove the role from the discord. This does not prevent someone from being mayor, it just won't exist in the eyes of Yoahtlan law. This may require some form of contract agreement for each town to better resolve ownership disputes in the future.
+
+**Proposal Passes:** 11 Ayes, 0 Nays, 4 Abstentions
+
+## [Proposal] Ritual Blood Sacrifice
+
+Proposer: BunnyInRed, Seconded by: Stashman1780, Date: June 26th, 2025
+
+> I propose that every two months, opposite election cycle, a randomly chosen member of the Ololtic is sacrificed before the pigeon statue, using an unenchanted bow and arrows, to ensure that we have bountiful harvests. If the person randomly selected is unavailable for an extended period of time, a new person will be selected. No, this is not a joke proposal.
+
+**Proposal Passes:** 10 Ayes, 2 Nays, 0 Abstentions

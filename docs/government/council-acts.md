@@ -657,3 +657,7 @@ Schedule 3: Recount [[Proposal] Clarify the legislative powers of the Council (R
 ### Council Act 25.1
 
 > Secede Exilus from Yoahtl, with the information that Arconis has waived his right to vote, and the people of Exilus have consented to secession.
+
+### Council Act 26.1
+
+> If an unfinished build in the city has not been worked on for 2 months it shall be derelicted.
