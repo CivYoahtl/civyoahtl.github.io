@@ -481,7 +481,7 @@ There was an emergency election due to war, thus the early end date
 
 3/14/2025: Feathercrown elected as High Justice
 
-## Fortieth Council (3/13/2025 - Now)
+## Fortieth Council (3/13/2025 - 5/12/2025)
 
 **Alcuahtl**: x1025
 
@@ -489,3 +489,26 @@ There was an emergency election due to war, thus the early end date
 - NeoTide
 - WackyAki
 - VilyanZ (Resigned 4/6/2025), Matt4fun9 (from 4/8/2025)
+
+
+## Forty-First Council (5/12/2025 - 7/16/2025)
+
+**Alcuahtl**: WackyAki
+
+- x1025
+- WackyAki
+- Yergo
+- Maz
+- Matt4fun9
+
+6/19/2025: MechanicalRift no longer general, made "Master of Emeralds" (from 5/28/2025)
+
+
+## Forty-First Council (7/16/2025 - Now)
+
+**Alcuahtl**: WackyAki
+
+- x1025
+- WackyAki
+- Yergo
+- MechanicalRift
