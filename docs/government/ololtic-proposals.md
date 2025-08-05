@@ -1774,6 +1774,33 @@ Proposer: MechanicalRift, Seconded by: VilyanZ, Date: February 16th, 2025
 
 **Proposal Passes:** 13 Ayes, 0 Nays, 0 Abstentions
 
+## [Proposal] Removal of Citizenship Status from Da_duck_tv
+
+Proposer: NeoTide, Seconded by: MechanicalRift, Date: April 13th, 2025
+
+Da_duck_tv is a member of the ololtic and was a mayor of the town Kobylinski. I am requesting that the ololtic vote Duck out of his ololtic status, which is a requirement for it being removed legally. Duck is a controversial figure in Yoahtl for many reasons that I will go into throughout this proposal.
+
+Duck is a confrontational individual to many in text chats and in vc, taking on a persona which has made myself and a couple of my friends uncomfortable. He has been part of a campaign to defame and depose a group of Yoahtlans who have been loyal to the nation for many years, a group you probably know as "Faunamart" or "Ceres". I'm sure you all are tired of this pseudo-faction war that's been happening for the past couple months, but this proposal is an easy way to say no to the drama. Attempts were made to come to an long-term understanding with Duck by Ceres members, and despite the apparent positive engagements, the gains were disregarded the next day when Duck threatened to secede.
+
+Duck is part of the group consisting of some Kobylinski members who left the nation to form Cocoa Beach, in which he is the leader and is supported by Exyria/LOTUS. He maintains farms and miliary infrastructure in Yoahtl, which I personally viewed as a threat which we recently tried to negate. His association with LOTUS nations goes further, for example his aspirations to secede Kobylinski from Yoahtl into an independent nation, with the explicitly support/defense of LOTUS as he himself admitted. The mere discussion of a LOTUS aligned coup of land 300m from our main vault is an insane proposition for a true Yoahtlan to make. Every action afterwards from him has been divisive and inconsistent with values that every Ololtic member should have.
+
+Should this proposal pass, I give my word that I will do my best to remedy any loss of access to farms owned by Duck through limited access allowance.
+
+**Proposal Passes:** 13 Ayes, 0 Nays, 1 Abstention
+
+
+## [Proposal] Removal of Citizenship Status from Wandrumdum
+
+Proposer: NeoTide, Seconded by: MechanicalRift, Date: April 13th, 2025
+
+Wandrumdum (referred to as Wandrum onward) is a member of the ololtic and a resident of Kobylinski. I am requesting that the ololtic vote Wandrum out of her ololtic status, which is a requirement for it being removed legally. Wandrum should be removed for the reasons listed below:
+
+In the schism that resulted from pushback on council acts that were made in Wandrum's time as councilor, a lot of mistrust and malice grew between Wandrum and members of Yoahtl, primarily for myself and other members of Ceres/Faunamart. This has resulted in a large amount of discord-specific arguments and fights that are making people tired. This proposal would give a quick end to the drama.
+
+Wandrum joined Exyria after her council term ended and displayed her dissatisfaction with Yoahtl in a way that was insulting to myself. This is fine in itself, but it isn't exemplary of a citizen of Yoahtl who impacts our democracy. Wandrum directly inflicted damages onto Yoahtl when she refused to assist in the dereliction of a building which she was in charge of removing, and admitted to doing it for the purpose of being petty. This lead to many hours of Yergo acid blocking the building, and no amount of pleading made her any more sympathetic to our cause. Wandrum also took her skills which she gained in Yoahtl running the XP exchange and made a competing exchange in Exilus City. This is fine in itself, but again it isn't exemplary of a member of the ololtic. Members of Yoahtl who are specifically sources of conflict for Wandrum have been refused any amount of reconciliation. She will not be satisfied until Yoahtl is divided and less powerful.
+
+**Proposal Passes:** 12 Ayes, 1 Nay, 1 Abstention
+
 ## [Proposal] Permanent Removal of Mayor Role
 
 Proposer: BunnyInRed, Seconded by: Yergo, Date: May 3rd, 2025
