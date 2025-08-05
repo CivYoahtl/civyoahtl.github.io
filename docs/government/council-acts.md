@@ -28,7 +28,7 @@ _(Repealed via [Council Act 6.1](#council-act-6-1))_
 
 > Any group of players wishing to form a town may submit papers of incorporation to the Council of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to vote for the Council and choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code and can vote for the Council. They also cannot form foreign relations. All towns retain the rights to any developed settlements (excludes farms, roads and other minor infrastructure) in the case of inactivity. Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion. Resimere and Pacem retain the rights to all their land in the case of inactivity as per their agreements upon joining Yoahtl.
 
-_(Amended via [Council Act 6.1](#council-act-6.1); Amended via [Council Act 6.4](#council-act-6-4); Amended via [Council Act 9.6](#council-act-9.6); Amended via [Council Act 13.3](#council-act-13.3); Amended via [Council Act 15.2](#council-act-15.2); Amended via [Ololtic Proposal 8](/government/ololtic-proposals#proposal-eight-passed))_
+_(Amended via [Council Act 6.1](#council-act-6-1); Amended via [Council Act 6.4](#council-act-6-4); Amended via [Council Act 9.6](#council-act-9-6); Amended via [Council Act 13.3](#council-act-13-3); Amended via [Council Act 15.2](#council-act-15-2); Amended via [Ololtic Proposal 8](/government/ololtic-proposals#proposal-eight-passed))_
 
 ### Council Act 1.5
 
@@ -204,7 +204,7 @@ _(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 
 
 > Amend the Charter to state that Council seats are allocated based on the number of voters as defined by the number of players who voted in the election rather than active citizens as is currently stated.
 
-_(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 13.8](#council-act-13.8))_
+_(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 13.8](#council-act-13-8))_
 
 ### Council Act 8.2
 
@@ -270,7 +270,7 @@ _(Repealed via [Council Act 13.3](#council-act-13-3))_
 
 > Citizens choosing to run for Councillor must announce candidacy on the Yoahtl subreddit.
 
-_(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 13.8](#council-act-13.8))_
+_(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 13.8](#council-act-13-8))_
 
 ### Council Act 10.3
 
@@ -287,7 +287,7 @@ _(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 
 > Citizenship may be granted at the Alcuahtl or Deputy's discretion on the basis of trust and significant contributions. **Residency may be granted at any Government member's discretion on the basis of residing partly or wholly in Yoahtl and trust.**
 > :::
 
-_(Superceded via [Council Act 13.8](#council-act-13.8))_
+_(Superceded via [Council Act 13.8](#council-act-13-8))_
 
 ## Decisions of the Fifth Council - April 14th, 2018 to June 14th, 2018
 
