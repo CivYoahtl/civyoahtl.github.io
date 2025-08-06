@@ -1,6 +1,6 @@
 # Acts of the Council
 
-_(Amendments are hidden by spoiler text by default to avoid confusion; Acts which have been repealed, or parts of Acts which have been superceded, are crossed out.)_
+_(Amendments are hidden by spoiler text by default to avoid confusion; Acts (or parts of Acts) which have been repealed or superceded are crossed out)_
 
 [[toc]]
 
@@ -131,6 +131,8 @@ After Council Act 13.8:
 
 > ~~Citizenship may be granted at the Alcuahtl or Deputy's discretion on the basis of trust and significant contributions.~~ Residency may be granted at any Government member's discretion on the basis of residing partly or wholly in Yoahtl and trust.
 
+Restored via Council Act 13.8.
+
 Repealed via Council Act 13.3.
 
 After Council Act 10.5:
@@ -179,11 +181,13 @@ _(Amended via [Council Act 15.8](#council-act-15-8))_
 <details>
 <summary>Version History</summary>
 
+After Council Act 15.8:
+
+> Construction outside the city walls requires pre-approval from a Government member. **This rule does not apply to non-autonomous towns.**
+
 Original Text:
 
 > Construction outside the city walls requires pre-approval from a Government member.
-
-TODO: Entries like this should just have "Original Text" in the summary?
 
 </details>
 
@@ -245,8 +249,6 @@ _(Repealed via [Council Act 6.2](#council-act-6-2))_
 > :::
 
 _(Partly superceded via [Council Act 6.4](#council-act-6-4))_
-
-TODO: Update all superceded text properly
 
 ### Council Act 6.2
 
@@ -345,8 +347,6 @@ _(Superceded via [Council Act 10.5](#council-act-10-5))_
 > Allow recall elections to be advanced by petition of the Ololtic. If the petition receives more than 50% of the submitted votes from the pervious election, and the Chief Justice finds no evidence of collusion or bad faith, and that the given reason is valid, then a new election will be held. Such petitions ought not to be started by other government officials.
 
 _(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 13.8](#council-act-13-8); Amended via [Ololtic Proposal 30](/government/ololtic-proposals#proposal-thirty-passed))_
-
-TODO: Is this actually restored? Sort out conflation with 9.1-- was 13.8 supposed to keep 9.1 repealed instead of 7.1?
 
 <details>
 <summary>Version History</summary>
@@ -471,8 +471,6 @@ Original Text:
 
 > During an election or referendum, no vote counts will be announced until the end of the voting period.
 
-TODO: Notify government of legal update!
-
 _(Amended via [Council Act 13.3](#council-act-13-3))_
 
 <details>
@@ -504,7 +502,7 @@ _(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 
 
 ### Council Act 10.5
 
-> Amend [Council Act 4.1](#council-act-4-1):
+> ~~Amend [Council Act 4.1](#council-act-4-1):~~
 > ::: details
 > Citizenship may be granted at the Alcuahtl or Deputy's discretion on the basis of trust and significant contributions. **Residency may be granted at any Government member's discretion on the basis of residing partly or wholly in Yoahtl and trust.**
 > :::
@@ -575,8 +573,6 @@ _(Repealed via [Council Act 24.3](#council-act-24-3))_
 > :::
 
 _(Superceded via [Council Act 13.8](#council-act-13-8); Superceded via [Council Act 15.2](#council-act-15-2))_
-
-TODO: Make a note of the 7.1 vs 9.1 issue?
 
 <details>
 <summary>Version History</summary>
@@ -691,13 +687,13 @@ _(Partly superceded via [Council Act 15.6](#council-act-15-6))_
 
 ### Council Act 15.2
 
-> Nullify [Council Act 13.3](#council-act-13-3)'s amendments of [Council Act 1.4](#council-act-1-4).
+> ~~Nullify [Council Act 13.3](#council-act-13-3)'s amendments of [Council Act 1.4](#council-act-1-4).~~
 
 _(Superceded via [Ololtic Proposal 8](/government/ololtic-proposals#proposal-eight-passed))_
 
 ### Council Act 15.3
 
-> [Proposal 1](/government/ololtic-proposals#proposal-one-passed)
+> ~~[Proposal 1](/government/ololtic-proposals#proposal-one-passed)~~
 
 _(Superceded via [Ololtic Proposal 25](/government/ololtic-proposals#proposal-twenty-five-passed))_
 
@@ -724,7 +720,7 @@ _(Partly superceded via [Council Act 24.4](#council-act-24-4))_
 
 ### Council Act 15.7
 
-> Amend [Council Act 8.2](#council-act-8-2):
+> ~~Amend [Council Act 8.2](#council-act-8-2):~~
 > ::: details
 > Authorize the construction of **~~Project [Redacted]~~ the Yoahtl Vault**.
 > :::
@@ -773,7 +769,7 @@ _(Partly superceded via [Council Act 24.5](#council-act-24-5))_
 
 ### Council Act 16.3
 
-> Approved the [Merger with Vinland](/constitution/treaties#merger-with-vinland) treaty with protections for Nro'Meargh transferring from Vinland to Yoahtl.
+> ~~Approved the [Merger with Vinland](/constitution/treaties#merger-with-vinland) treaty with protections for Nro'Meargh transferring from Vinland to Yoahtl.~~
 
 _(Repealed via Article 2.9 of [Merger with Vinland](/constitution/treaties#merger-with-vinland))_
 
@@ -829,7 +825,7 @@ _(Superceded via [Ololtic Proposal 27](/government/ololtic-proposals#proposal-tw
 
 ### Council Act 19.1
 
-> [Proposal 25](/government/ololtic-proposals#proposal-twenty-five-passed)
+> ~~[Proposal 25](/government/ololtic-proposals#proposal-twenty-five-passed)~~
 
 _(Superceded via [Ololtic Proposal 27](/government/ololtic-proposals#proposal-twenty-seven-passed))_
 
@@ -843,7 +839,7 @@ _(Superceded via [Ololtic Proposal 27](/government/ololtic-proposals#proposal-tw
 
 ### Council Act 19.4
 
-> [Proposal 26](/government/ololtic-proposals#proposal-twenty-six-passed)
+> ~~[Proposal 26](/government/ololtic-proposals#proposal-twenty-six-passed)~~
 
 _(Superceded via [Ololtic Proposal 27](/government/ololtic-proposals#proposal-twenty-seven-passed))_
 
@@ -852,10 +848,6 @@ _(Superceded via [Ololtic Proposal 27](/government/ololtic-proposals#proposal-tw
 ### Council Act 20.1
 
 > [Proposal 29](/government/ololtic-proposals#proposal-twenty-nine-passed)
-
-## Decisions of the Fifteenth Council - August 21st, 2020 to October 21st, 2020
-
-_(No Acts passed)_
 
 ## Decisions of the First Council of the New Era - June 12th, 2021 to August 11th, 2021
 
@@ -867,6 +859,10 @@ _(Amended via [Council Act 21.3](#council-act-21-3))_
 
 <details>
 <summary>Version History</summary>
+
+After Council Act 21.3:
+
+> Reaffirm that the High Justice does not have the same access and powers of government as the council, as listed in the charter. ~~Expressing this, #council-chambers, is made private to government. Future conversations between the high justice and government occur in #judge-chambers.~~
 
 Original Text:
 
@@ -886,11 +882,9 @@ Original Text:
 > Reaffirm that the High Justice does not have the same access and powers of government as the council, as listed in the charter. ~~Expressing this, #council-chambers, is made private to government. Future conversations between the high justice and government occur in #judge-chambers.~~
 > :::
 
-TODO: Amended?
-
 ### Council Act 21.4
 
-> Give the following land: [https://imgur.com/a/a0Dy8Gc](https://imgur.com/a/a0Dy8Gc) to Nro'Meagh in exchange for the land of New Israel: [https://imgur.com/a/lLUOeJe](https://imgur.com/a/lLUOeJe)
+> ~~Give the following land: [https://imgur.com/a/a0Dy8Gc](https://imgur.com/a/a0Dy8Gc) to Nro'Meagh in exchange for the land of New Israel: [https://imgur.com/a/lLUOeJe](https://imgur.com/a/lLUOeJe)~~
 
 _(Retired via [Council Act 24.2](#council-act-24-2))_
 
@@ -906,11 +900,9 @@ _(Retired via [Council Act 24.2](#council-act-24-2))_
 
 ### Council Act 22.3
 
-> Belgravia granted land as a non-autonomous town. Yergo appointed as the main government liaison with Belgravia, and is to be their chief adviser/supervisor.
+> ~~Belgravia granted land as a non-autonomous town. Yergo appointed as the main government liaison with Belgravia, and is to be their chief adviser/supervisor.~~
 
 _(Retired via [Council Act 24.2](#council-act-24-2))_
-
-TODO: Retired laws should be strikethroughed?
 
 ## Decisions of the Third Council of the New Era - October 12th, 2021 to December 13th, 2021
 
@@ -951,8 +943,6 @@ Schedule 3: Recount [[Proposal] Clarify the legislative powers of the Council (R
 > Repeal [Council Act 13.2](#council-act-13-2).
 > It's the law that ratified the "Yoahtl Crimes Act (October 2018)", however the link is broken and nobody seems to have a backup. Since it cannot be found it should not be considered valid law.
 
-TODO: Isn't there also a law ratifying the "YCA (**December** 2018)"?
-
 ### Council Act 24.4
 
 > Amend [Council Act 9.2](#council-act-9-2):
@@ -964,10 +954,6 @@ TODO: Isn't there also a law ratifying the "YCA (**December** 2018)"?
 
 > Allow leave for the High Justice to preside over cases when either the Government is being sued; or when the Government is suing others.
 
-TODO: Redo council numbering
-
-_NOTE: Routine Council duties (eg. confirming new Alcuahtls, territory changes, treaties, military duties, trade deals, derelictions, censuses, and other non-Act decisions) should not be recorded here in the future. Only Acts, or "Executive decisions that regard matters of law", should be recorded here. Treaties are recorded [insert link here] here._ (TODO) (Should they be recorded elsewhere?)
-
 ### Council Act 25.1
 
 > Secede Exilus from Yoahtl, with the information that Arconis has waived his right to vote, and the people of Exilus have consented to secession.
@@ -975,3 +961,19 @@ _NOTE: Routine Council duties (eg. confirming new Alcuahtls, territory changes, 
 ### Council Act 26.1
 
 > If an unfinished build in the city has not been worked on for 2 months it shall be derelicted.
+
+---
+
+TODO: Version histories with only one entry should just have "Original Text" in the summary?
+
+TODO: Notify government of legal update to 10.1 (+make a note?)!
+
+TODO: 7.1 vs 9.1 (+make a note?)
+
+TODO: Is 7.1 actually restored? Sort out conflation with 9.1-- was 13.8 supposed to keep 9.1 repealed instead of 7.1?
+
+TODO: Redo council numbering
+
+_NOTE: Routine Council duties (eg. confirming new Alcuahtls, territory changes, treaties, military duties, trade deals, derelictions, censuses, and other non-Act decisions) should not be recorded here in the future. Only Acts, or "Executive decisions that regard matters of law", should be recorded here. Treaties are recorded [insert link here] here._ (TODO) (Should they be recorded elsewhere?)
+
+TODO: Why does the Council declare mistrials? The HJ should be able to as well per 15.12!
