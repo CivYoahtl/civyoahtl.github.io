@@ -1,6 +1,6 @@
 # Acts of the Council
 
-_(Amendments are hidden by spoiler text by default to avoid confusion; Acts (or parts of Acts) which have been repealed or superceded are crossed out)_
+_(Amendments are hidden by spoiler text by default to avoid confusion; Acts which have been repealed, or parts of Acts which have been superceded, are crossed out.)_
 
 [[toc]]
 
@@ -29,6 +29,39 @@ _(Repealed via [Council Act 6.1](#council-act-6-1))_
 > Any group of players wishing to form a town may submit papers of incorporation to the Council of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to vote for the Council and choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code and can vote for the Council. They also cannot form foreign relations. All towns retain the rights to any developed settlements (excludes farms, roads and other minor infrastructure) in the case of inactivity. Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion. Resimere and Pacem retain the rights to all their land in the case of inactivity as per their agreements upon joining Yoahtl.
 
 _(Amended via [Council Act 6.1](#council-act-6-1); Amended via [Council Act 6.4](#council-act-6-4); Amended via [Council Act 9.6](#council-act-9-6); Amended via [Council Act 13.3](#council-act-13-3); Amended via [Council Act 15.2](#council-act-15-2); Amended via [Ololtic Proposal 8](/government/ololtic-proposals#proposal-eight-passed))_
+
+<details>
+<summary>Version History</summary>
+
+After Ololtic Proposal 8:
+
+> Any group of players wishing to form a town may submit papers of incorporation to the Council of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure~~, rights to their land in the event of them going inactive,~~ and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to vote for the Council and choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code and can vote for the Council. They also cannot form foreign relations. **All towns retain the rights to any developed settlements (excludes farms, roads and other minor infrastructure) in the case of inactivity.** Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion. **Resimere and Pacem retain the rights to all their land in the case of inactivity as per their agreements upon joining Yoahtl.**
+
+After Council Act 15.2:
+
+> Any group of players wishing to form a town may submit papers of incorporation to the ~~Ololtic~~ **Council** of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure, rights to their land in the event of them going inactive, and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to **vote for the Council and** choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code **and can vote for the Council**. They also cannot form foreign relations. Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion.
+
+After Council Act 13.3:
+
+> Any group of players wishing to form a town may submit papers of incorporation to the ~~Council~~ **Ololtic** of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure, rights to their land in the event of them going inactive, and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to ~~vote for the Council and~~ choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code ~~and can vote for the Council~~. They also cannot form foreign relations. Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion.
+
+After Council Act 9.6:
+
+> Any group of players wishing to form a town may submit papers of incorporation to the Council of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure, rights to their land in the event of them going inactive, and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to vote for the Council and choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code and can vote for the Council. They also cannot form foreign relations. Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion.
+
+After Council Act 6.4:
+
+> A protectorate is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Citizens of protectorates are considered Yoahtlan residends and ineligible to run for council or vote. A protectorate is required to hold regular elections to elect a Governor to act as the representative of the Yoahtlan State. A governor is considered to be a citizen of Yoahtl and may cast votes on behalf of one-third of the protectorate’s citizens. Protectorates are required to contribute men and materiel during war-time. **The Alcuahtl may appoint a governor to administer the protectorate at their discretion.** A vassal is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Vassals retain their own governing and legal structure, exempting them from article Article V of the Charter. They must submit to Yoahtlan law in cases involving Yoahtlan citizens, and must adhere to Yoahtlan foreign policy. Vassals are required to contribute men and materiel during war-time.
+
+After Council Act 6.1:
+
+> A protectorate is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Citizens of protectorates are considered Yoahtlan residends and ineligible to run for council or vote. A protectorate is required to hold regular elections to elect a Governor to act as the representative of the Yoahtlan State. A governor is considered to be a citizen of Yoahtl and may cast votes on behalf of one-third of the protectorate’s citizens. Protectorates are required to contribute men and materiel during war-time. A vassal is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Vassals retain their own governing and legal structure, exempting them from article Article V of the Charter. They must submit to Yoahtlan law in cases involving Yoahtlan citizens, and must adhere to Yoahtlan foreign policy. Vassals are required to contribute men and materiel during war-time.
+
+Original Text:
+
+> A protectorate is a city under the protection of Yoahtl; an attack on it is an attack on the Empire of Yoahtl itself. However, the city is not required to submit a charter for council approval, does not have a senator, and citizens of protectorates are ineligible to run for council or vote.
+
+</details>
 
 ### Council Act 1.5
 
@@ -60,7 +93,30 @@ _(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 
 
 > Repeal Council Acts [1.1](#council-act-1-1), [1.2](#council-act-1-2), and [1.5](#council-act-1-5).
 
-_(Amended via [Council Act 5.7](#council-act-5-7); Amended via [Council Act 13.6](#council-act-13-6); Amended via [Council Act 13.8](#council-act-13-8))_
+_(Amended via [Council Act 13.6](#council-act-13-6); Amended via [Council Act 13.8](#council-act-13-8))_
+
+<details>
+<summary>Version History</summary>
+
+After Council Act 13.8:
+
+> **Approve the Third Charter.**
+
+> Repeal Council Acts [1.1](#council-act-1-1), [1.2](#council-act-1-2), and [1.5](#council-act-1-5).
+
+After Council Act 13.6:
+
+> ~~Approve the First Charter.~~
+
+> Repeal Council Acts [1.1](#council-act-1-1), [1.2](#council-act-1-2), and [1.5](#council-act-1-5).
+
+Original Text:
+
+> Approve the First Charter.
+
+> Repeal Council Acts [1.1](#council-act-1-1), [1.2](#council-act-1-2), and [1.5](#council-act-1-5).
+
+</details>
 
 ### Council Act 4.1
 
@@ -68,17 +124,68 @@ _(Amended via [Council Act 5.7](#council-act-5-7); Amended via [Council Act 13.6
 
 _(Amended via [Council Act 6.3](#council-act-6-3); Amended via [Council Act 6.8](#council-act-6-8); Amended via [Council Act 10.5](#council-act-10-5); Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 13.8](#council-act-13-8); Amended via [Council Act 13.8](#council-act-13-8))_
 
+<details>
+<summary>Version History</summary>
+
+After Council Act 13.8:
+
+> ~~Citizenship may be granted at the Alcuahtl or Deputy's discretion on the basis of trust and significant contributions.~~ Residency may be granted at any Government member's discretion on the basis of residing partly or wholly in Yoahtl and trust.
+
+Repealed via Council Act 13.3.
+
+After Council Act 10.5:
+
+> Citizenship may be granted at the Alcuahtl or Deputy's discretion on the basis of trust and significant contributions. **Residency may be granted at any Government member's discretion on the basis of residing partly or wholly in Yoahtl and trust.**
+
+After Council Act 6.8:
+
+> ~~Citizenship in Yoahtl is determined by residency in a Yoahtlan town or on Yoahtlan territory.~~ Citizenship may be granted at the Alcuahtl or Deputy's discretion on the basis of trust and significant contributions.
+
+After Council Act 6.3:
+
+> Citizenship in Yoahtl is determined by residency in a Yoahtlan town or on Yoahtlan territory. **Citizenship may be granted at the Alcuahtl or Deputy's discretion on the basis of trust and significant contributions.**
+
+Original Text:
+
+> Citizenship in Yoahtl is determined by residency in a Yoahtlan town or on Yoahtlan territory.
+
+</details>
+
 ### Council Act 5.1
 
 > All undeveloped and derelict property is owned by the Government. Plots/land are to be distributed solely by Government members, for free or a fee as deemed necessary. Property transactions between private parties must have prior approval from the Government.
 
 _(Amended via [Council Act 9.4](#council-act-9-4))_
 
+<details>
+<summary>Version History</summary>
+
+After Council Act 9.4:
+
+> All undeveloped and derelict property is owned by the Government. Plots/land are to be distributed solely by Government members, for free or a fee as deemed necessary. Property transactions between private parties must have prior approval from the Government.
+
+Original Text:
+
+> Property is usage-based, on a first-come, first-served basis - you own what you have built on.
+
+</details>
+
 ### Council Act 5.2
 
 > Construction outside the city walls requires pre-approval from a Government member. This rule does not apply to non-autonomous towns.
 
 _(Amended via [Council Act 15.8](#council-act-15-8))_
+
+<details>
+<summary>Version History</summary>
+
+Original Text:
+
+> Construction outside the city walls requires pre-approval from a Government member.
+
+TODO: Entries like this should just have "Original Text" in the summary?
+
+</details>
 
 ### Council Act 5.3
 
@@ -90,19 +197,19 @@ _(Amended via [Council Act 15.8](#council-act-15-8))_
 
 ### Council Act 5.5
 
-> ~~**Executive** Create a new district to the North of the settlement for newfriends with: roads suggesting plots, but not defining them; a board where we can post jobs for newfriends to carry out; and apartment buildings for newfriends to stay at with factory rooms.~~
+> ~~_Executive_ Create a new district to the North of the settlement for newfriends with: roads suggesting plots, but not defining them; a board where we can post jobs for newfriends to carry out; and apartment buildings for newfriends to stay at with factory rooms.~~
 
 _(Retired via [Council Act 24.2](#council-act-24-2))_
 
 ### Council Act 5.6
 
-> ~~**Executive** Claim mushroom island at -2233, 5731.~~
+> ~~_Executive_ Claim mushroom island at -2233, 5731.~~
 
 _(Retired via [Council Act 24.2](#council-act-24-2))_
 
 ### Council Act 5.7
 
-> **Executive** Officially adopt new group structure.
+> _Executive_ Officially adopt new group structure.
 
 > Repeal [Council Act 1.6](#council-act-1-6).
 
@@ -114,7 +221,7 @@ _(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 
 
 ### Council Act 5.9
 
-> **Executive** Revoke Wacky_Aki's directorship of Akiharambe District.
+> _Executive_ Revoke Wacky_Aki's directorship of Akiharambe District.
 
 ### Council Act 5.10
 
@@ -132,12 +239,14 @@ _(Repealed via [Council Act 6.2](#council-act-6-2))_
 
 > Repeal [Council Act 1.3](#council-act-1-3).
 
-> Amend [Council Act 1.4](#council-act-1-4):
+> ~~Amend [Council Act 1.4](#council-act-1-4):~~
 > ::: details
 > A protectorate is a city **or region designated by the Council and** under the protection of ~~Yoahtl; an~~ **Yoahtl. An** attack on it is an attack on the Empire of ~~Yoahtl itself. However, the city is not required to submit a charter for council approval, does not have a senator, and citizens of protectorates are ineligible to run for council or vote.~~ **Yoahtl. Citizens of protectorates are considered Yoahtlan residends and ineligible to run for council or vote. A protectorate is required to hold regular elections to elect a Governor to act as the representative of the Yoahtlan State. A governor is considered to be a citizen of Yoahtl and may cast votes on behalf of one-third of the protectorate’s citizens. Protectorates are required to contribute men and materiel during war-time. A vassal is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Vassals retain their own governing and legal structure, exempting them from article Article V of the Charter. They must submit to Yoahtlan law in cases involving Yoahtlan citizens, and must adhere to Yoahtlan foreign policy. Vassals are required to contribute men and materiel during war-time.**
 > :::
 
 _(Partly superceded via [Council Act 6.4](#council-act-6-4))_
+
+TODO: Update all superceded text properly
 
 ### Council Act 6.2
 
@@ -146,6 +255,27 @@ _(Partly superceded via [Council Act 6.4](#council-act-6-4))_
 > Repeal [Council Act 5.10](#council-act-5-10).
 
 _(Amended via [Council Act 13.3](#council-act-13-3); Amended via [Council Act 13.8](#council-act-13-8); Amended via [Council Act 15.6](#council-act-15-6))_
+
+<details>
+<summary>Version History</summary>
+
+After Council Act 15.6:
+
+> The Alcuahtl assigns dereliction duty to an individual councillor. This duty cannot be delegated. The longest-inactive players are the first available for eviction and dereliction. The Derelictor and Alcuahtl have discretion over the need to derelict, but ~~but~~ cannot abuse the power. The ~~other two councillors~~ **Council** may force the Alcuahtl to reconsider their choice of derelictor, but may not force a resignation without proof of wrongdoing.
+
+After Council Act 13.8:
+
+> The Alcuahtl assigns dereliction duty to an individual councillor. This duty cannot be delegated. The longest-inactive players are the first available for eviction and dereliction. The Derelictor and Alcuahtl have discretion over the need to derelict, but but cannot abuse the power. The other two councillors may force the Alcuahtl to reconsider their choice of derelictor, but may not force a resignation without proof of wrongdoing.
+
+After Council Act 13.3:
+
+> The Head of State may assign an Ololtic the Dereliction portfolio. This duty cannot be delegated. The longest-inactive players are the first available for eviction and dereliction. The Dereliction Officer has discretion over the need to derelict, but but cannot abuse the power. The Alcuahtl or Ololtic may overrule the Dereliction Officer in extreme cases.
+
+Original Text:
+
+> The Alcuahtl assigns dereliction duty to an individual councillor. This duty cannot be delegated. The longest-inactive players are the first available for eviction and dereliction. The Derelictor and Alcuahtl have discretion over the need to derelict, but but cannot abuse the power. The other two councillors may force the Alcuahtl to reconsider their choice of derelictor, but may not force a resignation without proof of wrongdoing.
+
+</details>
 
 ### Council Act 6.3
 
@@ -185,6 +315,22 @@ _(Repealed via [Council Act 9.7](#council-act-9-7))_
 
 _(Amended via [[Proposal] Suspended Citizenship Restoration Procedure](/government/ololtic-proposals#proposal-suspended-citizenship-restoration-procedure))_
 
+
+<details>
+<summary>Version History</summary>
+
+After \[Proposal\] Suspended Citizenship Restoration Procedure:
+
+> Citizenship may be suspended on the grounds of inactivity.
+
+> **If a person, whose citizenship is suspended, has become active again and has shown the intent to continue to be active then they may request that their citizenship is unsuspended. This request will then be granted by the alcuahtl or a councillor.**
+
+Original Text:
+
+> Citizenship may be suspended on the grounds of inactivity.
+
+</details>
+
 ### Council Act 6.8
 
 > ~~Amend [Council Act 4.1](#council-act-4-1):~~
@@ -200,6 +346,25 @@ _(Superceded via [Council Act 10.5](#council-act-10-5))_
 
 _(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 13.8](#council-act-13-8); Amended via [Ololtic Proposal 30](/government/ololtic-proposals#proposal-thirty-passed))_
 
+TODO: Is this actually restored? Sort out conflation with 9.1-- was 13.8 supposed to keep 9.1 repealed instead of 7.1?
+
+<details>
+<summary>Version History</summary>
+
+After Ololtic Proposal 30:
+
+> Allow recall elections to be advanced by petition of the Ololtic. If the petition receives more than 50% of the submitted votes from the pervious election, and the Chief Justice finds no evidence of collusion or bad faith, and that the given reason is valid, then a new election will be held. Such petitions ought not to be started by other government officials.
+
+Restored via Council Act 13.8.
+
+Repealed via Council Act 13.3.
+
+Original Text:
+
+> Allow recall elections to be advanced by petition of the citizenry. If more than half the total of the previous voters submit a petition for a new election for a council seat and the council finds no evidence of collusion or bad faith then a new election will be held. All petitions must have a reason for recalling the elected official and cannot be initiated or signed by the Alcuahtl, his deputy, or other councillors.
+
+</details>
+
 ### Council Act 8.1
 
 > Amend the Charter to state that Council seats are allocated based on the number of voters as defined by the number of players who voted in the election rather than active citizens as is currently stated.
@@ -211,6 +376,21 @@ _(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 
 > ~~Authorize the construction of the Yoahtl Vault.~~
 
 _(Amended via [Council Act 15.7](#council-act-15-7); Retired via [Council Act 24.2](#council-act-24-2))_
+
+<details>
+<summary>Version History</summary>
+
+Retired via Council Act 24.2.
+
+After Council Act 15.7:
+
+> Authorize the construction of the Yoahtl Vault.
+
+Original Text:
+
+> Authorize the construction of Project [Redacted].
+
+</details>
 
 ### Council Act 8.3
 
@@ -232,13 +412,38 @@ _(Repealed via [Council Act 13.3](#council-act-13-3))_
 
 (Amended via [Council Act 13.3](#council-act-13-3); Amended via [Council Act 13.8](#council-act-13-8); Amended via [Council Act 15.6](#council-act-15-6); Amended via [Council Act 24.4](#council-act-24-4))
 
+<details>
+<summary>Version History</summary>
+
+After Council Act 24.4:
+
+> The Alcuahtl assigns the role of Auditor-General to an individual ~~Councillor~~ **Citizen**. This duty cannot be delegated. The Auditor-General is responsible for monitoring the supply of government resources (primarily liquid assets and XP). They must account for all transactions within reason, and follow-up and report on any discrepancies. The Auditor-General must ideally not be a ~~Councillor~~ **Citizen** heavily involved in production or expenditure (I.e XP production or defense). The Council may force the Alcuahtl to reconsider their choice of Auditor-General, but may not force a resignation without proof of wrongdoing.
+
+After Council Act 15.6:
+
+> The Alcuahtl assigns the role of Auditor-General to an individual Councillor. This duty cannot be delegated. The Auditor-General is responsible for monitoring the supply of government resources (primarily liquid assets and XP). They must account for all transactions within reason, and follow-up and report on any discrepancies. The Auditor-General must ideally not be a Councillor heavily involved in production or expenditure (I.e XP production or defense). The ~~other Councillors~~ **Council** may force the Alcuahtl to reconsider their choice of Auditor-General, but may not force a resignation without proof of wrongdoing.
+
+After Council Act 13.8:
+
+> The ~~Head of State may assign an Ololtic the Auditor-General portfolio~~ **Alcuahtl assigns the role of Auditor-General to an individual Councillor**. This duty cannot be delegated. The Auditor-General is responsible for monitoring the supply of government resources (primarily liquid assets and XP). They must account for all transactions within reason, and follow-up and report on any discrepancies. The Auditor-General must ideally not be **a Councillor** heavily involved in production or expenditure (I.e XP production or defense). **The other Councillors may force the Alcuahtl to reconsider their choice of Auditor-General, but may not force a resignation without proof of wrongdoing.**
+
+After Council Act 13.3:
+
+> The ~~Alcuahtl assigns the role of Auditor-General to an individual Councillor~~ **Head of State may assign an Ololtic the Auditor-General portfolio**. This duty cannot be delegated. The Auditor-General is responsible for monitoring the supply of government resources (primarily liquid assets and XP). They must account for all transactions within reason, and follow-up and report on any discrepancies. The Auditor-General must ideally not be ~~a Councillor~~ heavily involved in production or expenditure (I.e XP production or defense). ~~The other Councillors may force the Alcuahtl to reconsider their choice of Auditor-General, but may not force a resignation without proof of wrongdoing.~~
+
+Original Text:
+
+> The Alcuahtl assigns the role of Auditor-General to an individual Councillor. This duty cannot be delegated. The Auditor-General is responsible for monitoring the supply of government resources (primarily liquid assets and XP). They must account for all transactions within reason, and follow-up and report on any discrepancies. The Auditor-General must ideally not be a Councillor heavily involved in production or expenditure (I.e XP production or defense). The other Councillors may force the Alcuahtl to reconsider their choice of Auditor-General, but may not force a resignation without proof of wrongdoing.
+
+</details>
+
 ### Council Act 9.3
 
 > Councillors are to make the effort to meet in game when possible during Council meetings.
 
 ### Council Act 9.4
 
-> ~~Amend [Council Act 5.1](#council-act-5-1):~~
+> Amend [Council Act 5.1](#council-act-5-1):
 > ::: details
 > ~~Property is usage-based, on a first-come, first-served basis - you own what you have built on.~~ **All undeveloped and derelict property is owned by the Government. Plots/land are to be distributed solely by Government members, for free or a fee as deemed necessary. Property transactions between private parties must have prior approval from the Government.**
 > :::
@@ -251,7 +456,7 @@ _(Repealed via [Council Act 13.3](#council-act-13-3))_
 
 > ~~Amend [Council Act 1.4](#council-act-1-4):~~
 > ::: details
-> ~~A protectorate is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Citizens of protectorates are considered Yoahtlan residends and ineligible to run for council or vote. A protectorate is required to hold regular elections to elect a Governor to act as the representative of the Yoahtlan State. A governor is considered to be a citizen of Yoahtl and may cast votes on behalf of one-third of the protectorate’s citizens. Protectorates are required to contribute men and materiel during war-time.~~ **The Alcuahtl may appoint a governor to administer the protectorate at their discretion. A vassal is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Vassals retain their own governing and legal structure, exempting them from article Article V of the Charter. They must submit to Yoahtlan law in cases involving Yoahtlan citizens, and must adhere to Yoahtlan foreign policy. Vassals are required to contribute men and materiel during war-time. Any group of players wishing to form a town may submit papers of incorporation to the Council of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure, rights to their land in the event of them going inactive, and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to vote for the Council and choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code and can vote for the Council. They also cannot form foreign relations. Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion.**
+> ~~A protectorate is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Citizens of protectorates are considered Yoahtlan residends and ineligible to run for council or vote. A protectorate is required to hold regular elections to elect a Governor to act as the representative of the Yoahtlan State. A governor is considered to be a citizen of Yoahtl and may cast votes on behalf of one-third of the protectorate’s citizens. Protectorates are required to contribute men and materiel during war-time. The Alcuahtl may appoint a governor to administer the protectorate at their discretion. A vassal is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Vassals retain their own governing and legal structure, exempting them from article Article V of the Charter. They must submit to Yoahtlan law in cases involving Yoahtlan citizens, and must adhere to Yoahtlan foreign policy. Vassals are required to contribute men and materiel during war-time.~~ **Any group of players wishing to form a town may submit papers of incorporation to the Council of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure, rights to their land in the event of them going inactive, and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to vote for the Council and choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code and can vote for the Council. They also cannot form foreign relations. Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion.**
 > :::
 
 (Superceded via [Ololtic Proposal 8](/government/ololtic-proposals#proposal-eight-passed))
@@ -264,7 +469,24 @@ _(Repealed via [Council Act 13.3](#council-act-13-3))_
 
 ### Council Act 10.1
 
+> During an election or referendum, no vote counts will be announced until the end of the voting period.
+
+TODO: Notify government of legal update!
+
+_(Amended via [Council Act 13.3](#council-act-13-3))_
+
+<details>
+<summary>Version History</summary>
+
+After Council Act 13.3:
+
+> During ~~a Council~~ **an** election **or referendum**, no vote counts will be announced until the end of the voting period.
+
+Original Text:
+
 > During a Council election, no vote counts will be announced until the end of the voting period.
+
+</details>
 
 ### Council Act 10.2
 
@@ -332,7 +554,9 @@ _(Repealed via [Council Act 24.3](#council-act-24-3))_
 ### Council Act 13.3
 
 > In preparation for the Second Charter:
-> ~~Repeal Council Acts [1.7](#council-act-1-7), [4.1](#council-act-4-1), [5.8](#council-act-5-8), [6.5](#council-act-6-5), [7.1](#council-act-7-1), [8.1](#council-act-8-1), [9.1](#council-act-9-1), and [10.2](#council-act-10-2).~~
+>
+> Repeal Council Acts ~~[1.7](#council-act-1-7), [4.1](#council-act-4-1), [5.8](#council-act-5-8), [6.5](#council-act-6-5),~~ [7.1](#council-act-7-1), ~~[8.1](#council-act-8-1), [9.1](#council-act-9-1), and [10.2](#council-act-10-2).~~
+>
 > ~~Amend [Council Act 1.4](#council-act-1-4):~~
 > ::: details
 > Any group of players wishing to form a town may submit papers of incorporation to the ~~Council~~ **Ololtic** of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure, rights to their land in the event of them going inactive, and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to ~~vote for the Council and~~ choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code ~~and can vote for the Council~~. They also cannot form foreign relations. Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion.
@@ -350,7 +574,63 @@ _(Repealed via [Council Act 24.3](#council-act-24-3))_
 > During ~~a Council~~ **an** election **or referendum**, no vote counts will be announced until the end of the voting period.
 > :::
 
-_(Amended via [Council Act 13.8](#council-act-13-8); Amended via [Council Act 15.2](#council-act-15-2))_
+_(Superceded via [Council Act 13.8](#council-act-13-8); Superceded via [Council Act 15.2](#council-act-15-2))_
+
+TODO: Make a note of the 7.1 vs 9.1 issue?
+
+<details>
+<summary>Version History</summary>
+
+After Council Act 15.2 (superceded portions removed for clarity):
+
+> In preparation for the Second Charter:
+>
+> Repeal Council Act [7.1](#council-act-7-1).
+>
+> Amend [Council Act 10.1](#council-act-10-1):
+> ::: details
+> During ~~a Council~~ **an** election **or referendum**, no vote counts will be announced until the end of the voting period.
+> :::
+
+After Council Act 13.8 (superceded portions removed for clarity):
+
+> In preparation for the Second Charter:
+>
+> Repeal Council Act [7.1](#council-act-7-1).
+>
+> Amend [Council Act 1.4](#council-act-1-4):
+> ::: details
+> Any group of players wishing to form a town may submit papers of incorporation to the ~~Council~~ **Ololtic** of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure, rights to their land in the event of them going inactive, and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to ~~vote for the Council and~~ choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code ~~and can vote for the Council~~. They also cannot form foreign relations. Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion.
+> :::
+> Amend [Council Act 10.1](#council-act-10-1):
+> ::: details
+> During ~~a Council~~ **an** election **or referendum**, no vote counts will be announced until the end of the voting period.
+> :::
+
+Original Text:
+
+> In preparation for the Second Charter:
+>
+> Repeal Council Acts [1.7](#council-act-1-7), [4.1](#council-act-4-1), [5.8](#council-act-5-8), [6.5](#council-act-6-5), [7.1](#council-act-7-1), [8.1](#council-act-8-1), [9.1](#council-act-9-1), and [10.2](#council-act-10-2).
+>
+> Amend [Council Act 1.4](#council-act-1-4):
+> ::: details
+> Any group of players wishing to form a town may submit papers of incorporation to the ~~Council~~ **Ololtic** of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure, rights to their land in the event of them going inactive, and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to ~~vote for the Council and~~ choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code ~~and can vote for the Council~~. They also cannot form foreign relations. Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion.
+> :::
+> Amend [Council Act 6.2](#council-act-6-2):
+> ::: details
+> ~~The Alcuahtl assigns dereliction duty to an individual councillor. This duty cannot be delegated. The longest-inactive players are the first available for eviction and dereliction. The Derelictor and Alcuahtl have discretion over the need to derelict, but but cannot abuse the power. The other two councillors may force the Alcuahtl to reconsider their choice of derelictor, but may not force a resignation without proof of wrongdoing.~~ **The Head of State may assign an Ololtic the Dereliction portfolio. This duty cannot be delegated. The longest-inactive players are the first available for eviction and dereliction. The Dereliction Officer has discretion over the need to derelict, but but cannot abuse the power. The Alcuahtl or Ololtic may overrule the Dereliction Officer in extreme cases.**
+> :::
+> Amend [Council Act 9.2](#council-act-9-2):
+> ::: details
+> The ~~Alcuahtl assigns the role of Auditor-General to an individual Councillor~~ **Head of State may assign an Ololtic the Auditor-General portfolio**. This duty cannot be delegated. The Auditor-General is responsible for monitoring the supply of government resources (primarily liquid assets and XP). They must account for all transactions within reason, and follow-up and report on any discrepancies. The Auditor-General must ideally not be ~~a Councillor~~ heavily involved in production or expenditure (I.e XP production or defense). ~~The other Councillors may force the Alcuahtl to reconsider their choice of Auditor-General, but may not force a resignation without proof of wrongdoing.~~
+> :::
+> Amend [Council Act 10.1](#council-act-10-1):
+> ::: details
+> During ~~a Council~~ **an** election **or referendum**, no vote counts will be announced until the end of the voting period.
+> :::
+
+</details>
 
 ### Council Act 13.4
 
@@ -366,12 +646,17 @@ _(Repealed via [Council Act 13.8](#council-act-13-8))_
 
 ### Council Act 13.6
 
-> Promulgate the [Second Charter](/constitution/secound-charter).
-> Repeal [Council Act 4.0](#council-act-4-0)'s approval of the First Charter.
+> ~~Promulgate the [Second Charter](/constitution/secound-charter).~~
+>
+> ~~Repeal [Council Act 4.0](#council-act-4-0)'s approval of the First Charter.~~
+
+_(Repealed via [Council Act 13.8](#council-act-13-8))_
 
 ### Council Act 13.7
 
 > Adopt the [Yoahtl Code of Legal Procedure (December 2018)](https://drive.google.com/file/d/1cYiYVHAeP6hj3DMdXAwflmoOcXhn4b2Z/view) as the official procedure under Article V Section 2 of the Second Charter.
+
+_Note: The link has changed, the Code of Court Procedure can now be found [here](/judiciary/code-of-court.html) and may have been updated by the High Justice since this Act was passed._
 
 ### Council Act 13.8
 
@@ -381,7 +666,7 @@ _(Repealed via [Council Act 13.8](#council-act-13-8))_
 > Repeal [Council Act 13.6](#council-act-13-6).
 > Amend [Council Act 4.0](#council-act-4-0):
 > ::: details
-> Approve the First Third Charter.
+> Approve the ~~First~~ **Third** Charter.
 > Repeal Council Acts [1.1](#council-act-1-1), [1.2](#council-act-1-2), and [1.5](#council-act-1-5).
 > :::
 > Amend Council Act 4.1:
@@ -428,12 +713,14 @@ _(Superceded via [Ololtic Proposal 25](/government/ololtic-proposals#proposal-tw
 
 > Amend [Council Act 6.2](#council-act-6-2):
 > ::: details
-> The Alcuahtl assigns dereliction duty to an individual councillor. This duty cannot be delegated. The longest-inactive players are the first available for eviction and dereliction. The Derelictor and Alcuahtl have discretion over the need to derelict, but cannot abuse the power. The ~~other two councillors~~ **Council** may force the Alcuahtl to reconsider their choice of derelictor, but may not force a resignation without proof of wrongdoing.
+> The Alcuahtl assigns dereliction duty to an individual councillor. This duty cannot be delegated. The longest-inactive players are the first available for eviction and dereliction. The Derelictor and Alcuahtl have discretion over the need to derelict, ~~but~~ but cannot abuse the power. The ~~other two councillors~~ **Council** may force the Alcuahtl to reconsider their choice of derelictor, but may not force a resignation without proof of wrongdoing.
 > :::
-> Amend [Council Act 9.2](#council-act-9-2):
+> ~~Amend [Council Act 9.2](#council-act-9-2):~~
 > ::: details
 > The Alcuahtl assigns the role of Auditor-General to an individual Councillor. This duty cannot be delegated. The Auditor-General is responsible for monitoring the supply of government resources (primarily liquid assets and XP). They must account for all transactions within reason, and follow-up and report on any discrepancies. The Auditor-General must ideally not be a Councillor heavily involved in production or expenditure (I.e XP production or defense). The ~~other Councillors~~ **Council** may force the Alcuahtl to reconsider their choice of Auditor-General, but may not force a resignation without proof of wrongdoing.
 > :::
+
+_(Partly superceded via [Council Act 24.4](#council-act-24-4))_
 
 ### Council Act 15.7
 
@@ -456,13 +743,19 @@ _(Partly superceded via [Council Act 24.2](#council-act-24-2))_
 
 > Amend the Charter to remove term limits from the position of Alcuahtl.
 
+_Note: Council Acts 15.9 to 15.12 are not recorded as amendments, but are present in the charter._
+
 ### Council Act 15.10
 
-> Amend the Charter to allow the High Justice to be a Councillor.
+> ~~Amend the Charter to allow the High Justice to be a Councillor.~~
+
+_(Superceded via [[Proposal] Fix the language in and clarify several parts of the Charter](/government/ololtic-proposals#proposal-fix-the-language-in-and-clarify-several-parts-of-the-charter))_
 
 ### Council Act 15.11
 
-> The High Justice can only preside on appeals.
+> The High Justice can ~~only~~ preside on appeals.
+
+_(Partly superceded via [Council Act 24.5](#council-act-24-5))_
 
 ### Council Act 15.12
 
@@ -562,13 +855,24 @@ _(Superceded via [Ololtic Proposal 27](/government/ololtic-proposals#proposal-tw
 
 ## Decisions of the Fifteenth Council - August 21st, 2020 to October 21st, 2020
 
-## Decisions of the First Council of the New Era - June 12th, 2021 to August 11th
+_(No Acts passed)_
+
+## Decisions of the First Council of the New Era - June 12th, 2021 to August 11th, 2021
 
 ### Council Act 21.1
 
 > Reaffirm that the High Justice does not have the same access and powers of government as the council, as listed in the charter.
 
 _(Amended via [Council Act 21.3](#council-act-21-3))_
+
+<details>
+<summary>Version History</summary>
+
+Original Text:
+
+> Reaffirm that the High Justice does not have the same access and powers of government as the council, as listed in the charter. Expressing this, #council-chambers, is made private to government. Future conversations between the high justice and government occur in #judge-chambers.
+
+</details>
 
 ### Council Act 21.2
 
@@ -582,13 +886,15 @@ _(Amended via [Council Act 21.3](#council-act-21-3))_
 > Reaffirm that the High Justice does not have the same access and powers of government as the council, as listed in the charter. ~~Expressing this, #council-chambers, is made private to government. Future conversations between the high justice and government occur in #judge-chambers.~~
 > :::
 
+TODO: Amended?
+
 ### Council Act 21.4
 
 > Give the following land: [https://imgur.com/a/a0Dy8Gc](https://imgur.com/a/a0Dy8Gc) to Nro'Meagh in exchange for the land of New Israel: [https://imgur.com/a/lLUOeJe](https://imgur.com/a/lLUOeJe)
 
 _(Retired via [Council Act 24.2](#council-act-24-2))_
 
-## Decisions of the Second Council of the New Era - August 12th, 2021 to October 11th 2021
+## Decisions of the Second Council of the New Era - August 12th, 2021 to October 11th, 2021
 
 ### Council Act 22.1
 
@@ -603,6 +909,8 @@ _(Retired via [Council Act 24.2](#council-act-24-2))_
 > Belgravia granted land as a non-autonomous town. Yergo appointed as the main government liaison with Belgravia, and is to be their chief adviser/supervisor.
 
 _(Retired via [Council Act 24.2](#council-act-24-2))_
+
+TODO: Retired laws should be strikethroughed?
 
 ## Decisions of the Third Council of the New Era - October 12th, 2021 to December 13th, 2021
 
@@ -643,6 +951,8 @@ Schedule 3: Recount [[Proposal] Clarify the legislative powers of the Council (R
 > Repeal [Council Act 13.2](#council-act-13-2).
 > It's the law that ratified the "Yoahtl Crimes Act (October 2018)", however the link is broken and nobody seems to have a backup. Since it cannot be found it should not be considered valid law.
 
+TODO: Isn't there also a law ratifying the "YCA (**December** 2018)"?
+
 ### Council Act 24.4
 
 > Amend [Council Act 9.2](#council-act-9-2):
@@ -653,6 +963,10 @@ Schedule 3: Recount [[Proposal] Clarify the legislative powers of the Council (R
 ### Council Act 24.5
 
 > Allow leave for the High Justice to preside over cases when either the Government is being sued; or when the Government is suing others.
+
+TODO: Redo council numbering
+
+_NOTE: Routine Council duties (eg. confirming new Alcuahtls, territory changes, treaties, military duties, trade deals, derelictions, censuses, and other non-Act decisions) should not be recorded here in the future. Only Acts, or "Executive decisions that regard matters of law", should be recorded here. Treaties are recorded [insert link here] here._ (TODO) (Should they be recorded elsewhere?)
 
 ### Council Act 25.1
 
