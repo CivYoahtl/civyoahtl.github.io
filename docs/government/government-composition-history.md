@@ -490,8 +490,7 @@ There was an emergency election due to war, thus the early end date
 - WackyAki
 - VilyanZ (Resigned 4/6/2025), Matt4fun9 (from 4/8/2025)
 
-
-## Forty-First Council (5/12/2025 - 7/16/2025)
+## Forty-First Council (5/12/2025 - 7/12/2025)
 
 **Alcuahtl**: WackyAki
 
@@ -503,8 +502,7 @@ There was an emergency election due to war, thus the early end date
 
 6/19/2025: MechanicalRift no longer general, made "Master of Emeralds" (from 5/28/2025)
 
-
-## Forty-First Council (7/16/2025 - Now)
+## Forty-Second Council (7/12/2025 - 9/8/2025)
 
 **Alcuahtl**: WackyAki
 
@@ -512,3 +510,46 @@ There was an emergency election due to war, thus the early end date
 - WackyAki
 - Yergo
 - MechanicalRift
+
+## Forty-Third Council (9/8/2025 - 11/7/2025)
+
+**Alcuahtl**: MechanicalRift
+
+- MechanicalRift
+- BoatCat
+- Maz
+- NukinMouse
+- Quauhtli_Mia
+
+## Forty-Fourth Council (11/7/2025 - 1/8/2026)
+
+**Alcuahtl**: MechanicalRift
+
+- BoatCat
+- MechanicalRift
+- x1025
+- Matt4fun9
+
+11/7/2025: x1025 appointed as General
+
+11/29/2025: Chieftain role abolished and given to the Ololtic at large (see [[Proposal] Republic Act](/government/ololtic-proposals#proposal-republic-act)); x1025 no longer Chieftain (formally accepted 1/3/2026)
+
+## Forty-Fifth Council (1/8/2026 - 3/7/2026)
+
+**Alcuahtl**: MechanicalRift
+
+- BoatCat
+- MechanicalRift
+- 1Stev0
+- x1025
+- Matt4fun9
+
+## Forty-Sixth Council (3/7/2026 - Now)
+
+**Alcuahtl**: MechanicalRift
+
+- 1Stev0
+- MechanicalRift
+- Matt4fun9
+- ant
+- Dant
