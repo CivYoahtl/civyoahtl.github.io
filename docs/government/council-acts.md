@@ -155,12 +155,20 @@ Original Text:
 
 ### Council Act 5.1
 
-> All undeveloped and derelict property is owned by the Government. Plots/land are to be distributed solely by Government members, for free or a fee as deemed necessary. Property transactions between private parties must have prior approval from the Government.
+> All undeveloped and derelict property/land within Yoahtl proper is owned by the government. When transferring ownership of plots/land between the government and another party a majority vote of the council is required to approve the transfer. Transferences of plots/land between two private parties must also be approved similarly.
 
-_(Amended via [Council Act 9.4](#council-act-9-4))_
+> Construction on government owned land requires approval of the government, whether ownership of the land is being transferred or not.
+
+_(Amended via [Council Act 9.4](#council-act-9-4); Merged with [Council Act 5.2](#council-act-5-2) via [[Proposal] Amendment to Council Acts 5.1 & 5.2](/government/ololtic-proposals#proposal-amendment-to-council-acts-5-1-5-2))_
 
 <details>
 <summary>Version History</summary>
+
+After \[Proposal\] Amendment to Council Acts 5.1 & 5.2:
+
+> All undeveloped and derelict property/land within Yoahtl proper is owned by the government. When transferring ownership of plots/land between the government and another party a majority vote of the council is required to approve the transfer. Transferences of plots/land between two private parties must also be approved similarly.
+
+> Construction on government owned land requires approval of the government, whether ownership of the land is being transferred or not.
 
 After Council Act 9.4:
 
@@ -174,9 +182,9 @@ Original Text:
 
 ### Council Act 5.2
 
-> Construction outside the city walls requires pre-approval from a Government member. This rule does not apply to non-autonomous towns.
+> ~~Construction outside the city walls requires pre-approval from a Government member. This rule does not apply to non-autonomous towns.~~
 
-_(Amended via [Council Act 15.8](#council-act-15-8))_
+_(Amended via [Council Act 15.8](#council-act-15-8); Merged with [Council Act 5.1](#council-act-5-1) via [[Proposal] Amendment to Council Acts 5.1 & 5.2](/government/ololtic-proposals#proposal-amendment-to-council-acts-5-1-5-2))_
 
 <details>
 <summary>Version History</summary>
