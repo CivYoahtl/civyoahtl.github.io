@@ -11,25 +11,29 @@ import {
 
 const members = [
   {
-    avatar: 'https://cdn.discordapp.com/avatars/168800441126092800/9a7499056a75efea8e3abc433faf291b?size=1024',
-    name: "Aki",
+    avatar: 'https://cdn.discordapp.com/guilds/278045721742147586/users/168818172781264897/avatars/a_313bbb73d711f29ed8a78d2b63b532ce.webp?size=1024',
+    name: "MechanicalRift",
     title: 'Alcuahtl, Councillor',
   },
   {
-    avatar: 'https://cdn.discordapp.com/avatars/270360642496626690/f1fbb74aae06664f9f26e015bfbbbe68?size=1024',
-    name: 'x1025',
-    title: 'Chieftain, Councillor',
-    links: []
+    avatar: 'https://cdn.discordapp.com/avatars/565974620243755010/dba32173e5fbcfe7391b6e9163c48399.webp?size=1024',
+    name: 'LeafChalice',
+    title: 'Councillor'
   },
   {
-    avatar: 'https://cdn.discordapp.com/avatars/199409362781863936/97f2fdfd3755238e8d2ca1282a0d4112?size=1024',
-    name: "Yergo",
+    avatar: 'https://cdn.discordapp.com/avatars/896387305374375987/33d9b66ad68747efe0a2e9a39a79c011.webp?size=1024',
+    name: "1Stev0",
     title: 'Councillor',
   },
   {
-    avatar: 'https://cdn.discordapp.com/avatars/168818172781264897/a3cdc309389db167bd69c05778c790dd?size=1024',
-    name: "MechanicalRift",
+    avatar: 'https://cdn.discordapp.com/avatars/695983093022064762/34e19766c655237ee048dcb1457e2bee.webp?size=1024',
+    name: "Pikaboos",
     title: 'Councillor',
+  },
+  {
+    avatar: 'https://cdn.discordapp.com/avatars/1268295797540388926/c800a2c92194b5f84db52af00754650e.webp?size=1024',
+    name: "Ant",
+    title: 'Councillor'
   },
   {
     avatar: 'https://cdn.discordapp.com/avatars/314198862560493569/75c0774c2784fc9ad5fb3d4d0a7eb80a?size=1024',
