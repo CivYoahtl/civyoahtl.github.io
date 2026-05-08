@@ -787,11 +787,11 @@ Proposer: Princess Bow, Seconded By: Yergo, Date: 12th December 2021
 
 **Proposal Passed**: 15 Ayes, 0 Nays, 0 Abstentions
 
-## [Proposal] Designate 18th December a national holiday
+## [Proposal] CivClassics Day
 
 Proposer: Yergo, Seconded By: Princess Bow, Date: 19th December 2021
 
-> CivClassics Day Designate [18th December] a national holiday in Yoahtl
+> Designate [18th December] a national holiday in Yoahtl
 
 **Proposal Passed**: 13 Ayes, 0 Nays, 0 Abstentions
 
@@ -1650,14 +1650,15 @@ Proposer: Solitaire, Seconded by: x1025, Date: June 2nd, 2024
 Proposer: Solitaire, Seconded by: MechanicalRift, Date: June 7th, 2024
 
 > I'm reproposing this proposal from a little bit ago as I believe it'd be a good change to make. As it means that there has to be at least 24 hours for discussion before seconding and voting begins. Whereas atm someone can just second a proposal immediately and begin voting before any discussion occurs.
-Last time it was voted on it failed due to being 1 vote short of the 2/3rd ayes needed for a charter amendment.
 
-> Amending Article 4 Section 3a
-> "Should, after a period of discussion of any length during which the specifics of the law are discussed and revisions suggested, a different citizen "second" the proposal, it enters a 48-hour period where it is voted on, during which discussion may continue."
+> Last time it was voted on it failed due to being 1 vote short of the 2/3rd ayes needed for a charter amendment.
 
-> Change to:
+> > Amending Article 4 Section 3a
+> > "Should, after a period of discussion of any length during which the specifics of the law are discussed and revisions suggested, a different citizen "second" the proposal, it enters a 48-hour period where it is voted on, during which discussion may continue."
 
-> "After a period of discussion of a minimum of 24 hours during which the specifics of the law are discussed and revisions are suggested, a different member of the Ololtic can "second" the proposal. It enters a 48-hour period where it is voted on, during which discussion may continue."
+> > Change to:
+
+> > "After a period of discussion of a minimum of 24 hours during which the specifics of the law are discussed and revisions are suggested, a different member of the Ololtic can "second" the proposal. It enters a 48-hour period where it is voted on, during which discussion may continue."
 
 **Proposal Passes:** 13 Ayes, 1 Nay, 0 Abstentions
 
@@ -1778,13 +1779,13 @@ Proposer: MechanicalRift, Seconded by: VilyanZ, Date: February 16th, 2025
 
 Proposer: NeoTide, Seconded by: MechanicalRift, Date: April 13th, 2025
 
-Da_duck_tv is a member of the ololtic and was a mayor of the town Kobylinski. I am requesting that the ololtic vote Duck out of his ololtic status, which is a requirement for it being removed legally. Duck is a controversial figure in Yoahtl for many reasons that I will go into throughout this proposal.
+> Da_duck_tv is a member of the ololtic and was a mayor of the town Kobylinski. I am requesting that the ololtic vote Duck out of his ololtic status, which is a requirement for it being removed legally. Duck is a controversial figure in Yoahtl for many reasons that I will go into throughout this proposal.
 
-Duck is a confrontational individual to many in text chats and in vc, taking on a persona which has made myself and a couple of my friends uncomfortable. He has been part of a campaign to defame and depose a group of Yoahtlans who have been loyal to the nation for many years, a group you probably know as "Faunamart" or "Ceres". I'm sure you all are tired of this pseudo-faction war that's been happening for the past couple months, but this proposal is an easy way to say no to the drama. Attempts were made to come to an long-term understanding with Duck by Ceres members, and despite the apparent positive engagements, the gains were disregarded the next day when Duck threatened to secede.
+> Duck is a confrontational individual to many in text chats and in vc, taking on a persona which has made myself and a couple of my friends uncomfortable. He has been part of a campaign to defame and depose a group of Yoahtlans who have been loyal to the nation for many years, a group you probably know as "Faunamart" or "Ceres". I'm sure you all are tired of this pseudo-faction war that's been happening for the past couple months, but this proposal is an easy way to say no to the drama. Attempts were made to come to an long-term understanding with Duck by Ceres members, and despite the apparent positive engagements, the gains were disregarded the next day when Duck threatened to secede.
 
-Duck is part of the group consisting of some Kobylinski members who left the nation to form Cocoa Beach, in which he is the leader and is supported by Exyria/LOTUS. He maintains farms and miliary infrastructure in Yoahtl, which I personally viewed as a threat which we recently tried to negate. His association with LOTUS nations goes further, for example his aspirations to secede Kobylinski from Yoahtl into an independent nation, with the explicitly support/defense of LOTUS as he himself admitted. The mere discussion of a LOTUS aligned coup of land 300m from our main vault is an insane proposition for a true Yoahtlan to make. Every action afterwards from him has been divisive and inconsistent with values that every Ololtic member should have.
+> Duck is part of the group consisting of some Kobylinski members who left the nation to form Cocoa Beach, in which he is the leader and is supported by Exyria/LOTUS. He maintains farms and miliary infrastructure in Yoahtl, which I personally viewed as a threat which we recently tried to negate. His association with LOTUS nations goes further, for example his aspirations to secede Kobylinski from Yoahtl into an independent nation, with the explicitly support/defense of LOTUS as he himself admitted. The mere discussion of a LOTUS aligned coup of land 300m from our main vault is an insane proposition for a true Yoahtlan to make. Every action afterwards from him has been divisive and inconsistent with values that every Ololtic member should have.
 
-Should this proposal pass, I give my word that I will do my best to remedy any loss of access to farms owned by Duck through limited access allowance.
+> Should this proposal pass, I give my word that I will do my best to remedy any loss of access to farms owned by Duck through limited access allowance.
 
 **Proposal Passes:** 13 Ayes, 0 Nays, 1 Abstention
 
@@ -1793,11 +1794,11 @@ Should this proposal pass, I give my word that I will do my best to remedy any l
 
 Proposer: NeoTide, Seconded by: MechanicalRift, Date: April 13th, 2025
 
-Wandrumdum (referred to as Wandrum onward) is a member of the ololtic and a resident of Kobylinski. I am requesting that the ololtic vote Wandrum out of her ololtic status, which is a requirement for it being removed legally. Wandrum should be removed for the reasons listed below:
+> Wandrumdum (referred to as Wandrum onward) is a member of the ololtic and a resident of Kobylinski. I am requesting that the ololtic vote Wandrum out of her ololtic status, which is a requirement for it being removed legally. Wandrum should be removed for the reasons listed below:
 
-In the schism that resulted from pushback on council acts that were made in Wandrum's time as councilor, a lot of mistrust and malice grew between Wandrum and members of Yoahtl, primarily for myself and other members of Ceres/Faunamart. This has resulted in a large amount of discord-specific arguments and fights that are making people tired. This proposal would give a quick end to the drama.
+> In the schism that resulted from pushback on council acts that were made in Wandrum's time as councilor, a lot of mistrust and malice grew between Wandrum and members of Yoahtl, primarily for myself and other members of Ceres/Faunamart. This has resulted in a large amount of discord-specific arguments and fights that are making people tired. This proposal would give a quick end to the drama.
 
-Wandrum joined Exyria after her council term ended and displayed her dissatisfaction with Yoahtl in a way that was insulting to myself. This is fine in itself, but it isn't exemplary of a citizen of Yoahtl who impacts our democracy. Wandrum directly inflicted damages onto Yoahtl when she refused to assist in the dereliction of a building which she was in charge of removing, and admitted to doing it for the purpose of being petty. This lead to many hours of Yergo acid blocking the building, and no amount of pleading made her any more sympathetic to our cause. Wandrum also took her skills which she gained in Yoahtl running the XP exchange and made a competing exchange in Exilus City. This is fine in itself, but again it isn't exemplary of a member of the ololtic. Members of Yoahtl who are specifically sources of conflict for Wandrum have been refused any amount of reconciliation. She will not be satisfied until Yoahtl is divided and less powerful.
+> Wandrum joined Exyria after her council term ended and displayed her dissatisfaction with Yoahtl in a way that was insulting to myself. This is fine in itself, but it isn't exemplary of a citizen of Yoahtl who impacts our democracy. Wandrum directly inflicted damages onto Yoahtl when she refused to assist in the dereliction of a building which she was in charge of removing, and admitted to doing it for the purpose of being petty. This lead to many hours of Yergo acid blocking the building, and no amount of pleading made her any more sympathetic to our cause. Wandrum also took her skills which she gained in Yoahtl running the XP exchange and made a competing exchange in Exilus City. This is fine in itself, but again it isn't exemplary of a member of the ololtic. Members of Yoahtl who are specifically sources of conflict for Wandrum have been refused any amount of reconciliation. She will not be satisfied until Yoahtl is divided and less powerful.
 
 **Proposal Passes:** 12 Ayes, 1 Nay, 1 Abstention
 
@@ -1816,3 +1817,64 @@ Proposer: BunnyInRed, Seconded by: Stashman1780, Date: June 26th, 2025
 > I propose that every two months, opposite election cycle, a randomly chosen member of the Ololtic is sacrificed before the pigeon statue, using an unenchanted bow and arrows, to ensure that we have bountiful harvests. If the person randomly selected is unavailable for an extended period of time, a new person will be selected. No, this is not a joke proposal.
 
 **Proposal Passes:** 10 Ayes, 2 Nays, 0 Abstentions
+
+## [Proposal] delete hue-mil text channel
+
+<details>
+<summary>Details</summary>
+
+Proposer: NeoTide, Seconded by: MechanicalRift, Date: August 7th, 2025
+
+> we should delete <#1103155635899596850> (hue-mil) text channel in the yoahtl discord and instead send everything in <#1126913166547374290> (defense-team) text channel. people should be sending any information that requires opsec to councilors for discussion in #council-chambers and send everything else to defense team where all of our allies in the discord are present. too many people are engaged in back room intelligence gathering and too much compromising information is floated around for what's supposed to be coordination of defensive infrastructure and active combat related information. it is often the go-to place to discuss things for trusted members and it keeps activity away from ololtic who might benefit from being included. i dont think all of the discussion there necessitates this divide. we haven't suffered a leak in a long time, so people are less aware of the abnormal nature of the amount of secure info that gets passed around in there.
+
+**Proposal Fails:** 1 Aye, 7 Nays, 2 Abstentions
+
+</details>
+
+## [Proposal] Currency Exchanges Reform
+
+Proposer: MechanicalRift, Seconded by: Stashman1780, Date: October 6th, 2025
+
+> Change the Nationalising Currency Exchange Proposal from this
+> > Only the government can create/own/run exchanges that effectively convert between any of the following "currencies",
+> > - emeralds (or xp)
+> > -diamonds
+> > - iron
+> > - netherite (or debris)
+> > - essence
+
+> To
+
+> > 1.  Exchanges that effectively convert between these following "currencies" must be profit free: emeralds (or xp), diamonds, iron, netherite (or debris), essence
+>
+> > 2.  Exchanges for Meteorite require government approval.
+
+**Proposal Passes:** 12 Ayes, 1 Nay, 0 Abstentions
+
+## [Proposal] Republic Act
+
+Proposer: Flameoguide, Seconded by: Simalimei, Date: November 27th, 2025
+
+> Whereas,
+> Yoahtl has moved beyond the need for a singular cultural or spiritual leader in a nation that derives its direction from its community.
+
+> Therefore, be it resolved by us, the Ololtic:
+> 1. The title of Chieftain is hereby abolished.
+> 2. The government of Yoahtl shall make no official recognition toward or designation of any person as Chieftain.
+
+**Proposal Passes:** 15 Ayes, 1 Nay, 6 Abstentions
+
+_Note: This proposal was also approved and accepted by the Chieftain._
+
+## [Proposal] 2 High Justices Proposal
+
+<details>
+<summary>Details</summary>
+
+Proposer: 1Stev0, Seconded by: Grimmore and Nukinmouse, Date: April 14th, 2026
+
+> We should have TWO high justices and we should force husky to be the seconds one but husky just does nothing and like husky has experience
+
+**Proposal fails:** 5 Ayes, 12 Nays, 0 Abstentions
+
+</details>
