@@ -356,6 +356,8 @@ _(Superceded via [Council Act 10.5](#council-act-10-5))_
 
 _(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 13.8](#council-act-13-8); Amended via [Ololtic Proposal 30](/government/ololtic-proposals#proposal-thirty-passed))_
 
+_Note: See [Council Act 9.1](#council-act-9-1) for a note about recordkeeping issues surrounding Council Acts 7.1, 9.1, and 13.8._
+
 <details>
 <summary>Version History</summary>
 
@@ -363,13 +365,15 @@ After Ololtic Proposal 30:
 
 > Allow recall elections to be advanced by petition of the Ololtic. If the petition receives more than 50% of the submitted votes from the pervious election, and the Chief Justice finds no evidence of collusion or bad faith, and that the given reason is valid, then a new election will be held. Such petitions ought not to be started by other government officials.
 
-Restored via Council Act 13.8.
+After being restored via Council Act 13.8 (see note):
+
+> ~~Amend the charter to add Article III Section 6:~~ Allow recall elections to be advanced by petition of the citizenry. If more than half the total of the previous voters submit a petition for a new election for a council seat and the council finds no evidence of collusion or bad faith then a new election will be held. All petitions must have a reason for recalling the elected official and cannot be initiated or signed by the Alcuahtl, his deputy, or other councillors.
 
 Repealed via Council Act 13.3.
 
 Original Text:
 
-> Allow recall elections to be advanced by petition of the citizenry. If more than half the total of the previous voters submit a petition for a new election for a council seat and the council finds no evidence of collusion or bad faith then a new election will be held. All petitions must have a reason for recalling the elected official and cannot be initiated or signed by the Alcuahtl, his deputy, or other councillors.
+> Amend the charter to add Article III Section 6: Allow recall elections to be advanced by petition of the citizenry. If more than half the total of the previous voters submit a petition for a new election for a council seat and the council finds no evidence of collusion or bad faith then a new election will be held. All petitions must have a reason for recalling the elected official and cannot be initiated or signed by the Alcuahtl, his deputy, or other councillors.
 
 </details>
 
@@ -412,7 +416,31 @@ _(Repealed via [Council Act 15.7](#council-act-15-7))_
 
 > ~~Amend the charter to add Article III Section 6: Allow recall elections to be advanced by petition of the citizenry. If more than half the total of the previous voters submit a petition for a new election for a council seat and the council finds no evidence of collusion or bad faith then a new election will be held. All petitions must have a reason for recalling the elected official and cannot be initiated or signed by the alcuahtl, his deputy, or other councillors.~~
 
-_(Repealed via [Council Act 13.3](#council-act-13-3))_
+_(Repealed via [Council Act 13.3](#council-act-13-3); Accidentally overwritten with a copy of [Council Act 7.1](#council-act-7-1) and confused with it in [Council Act 13.8](#council-act-13-8))_
+
+<details>
+<summary>Note on Recordkeeping Issues</summary>
+
+_Note: There are two recordkeeping issues regarding Council Acts 7.1, 9.1, and 13.8. The first is that 9.1 was accidentally overwritten with an old copy of 7.1. This was the case for so long before being fixed that the original text of 9.1 is considered lost and void despite now being rediscovered, and the new text has been kept. (By Yoahtlan tradition, a law that is actively followed and acknowledged as accurate takes precedent, even if it is later discovered to be technically inaccurate. This also makes any lost laws void; see [[Proposal] Re-add Ololtic-Law Supremacy (Reattempt)](/government/ololtic-proposals#proposal-re-add-ololtic-law-supremacy-reattempt) for an example of this in practice). The second issue is that Council Act 13.8 claims to restore 9.1, but 7.1 was recorded as actually restored. Again, since 7.1 was the one treated as restored in practice (including legally by [Ololtic Proposal 30](/government/ololtic-proposals#proposal-thirty-passed)), it is the one that is legally considered to be restored rather than 9.1 (their text was nearly identical at this point anyways). - Feathercrown_
+
+</details>
+
+<details>
+<summary>Version History</summary>
+
+Considered repealed (see note) after being accidentally overwritten with an old copy of Council Act 7.1:
+
+> Amend the charter to add Article III Section 6: Allow recall elections to be advanced by petition of the citizenry. If more than half the total of the previous voters submit a petition for a new election for a council seat and the council finds no evidence of collusion or bad faith then a new election will be held. All petitions must have a reason for recalling the elected official and cannot be initiated or signed by the alcuahtl, his deputy, or other councillors.
+
+Restored via Council Act 13.8 (invalidated and not recorded as such, see note).
+
+Repealed via Council Act 13.3.
+
+Original Text:
+
+> Amend the Charter to allow the Council, with a unanimous vote and approval from the Alcuahtl, to appoint a replacement Councillor in lieu of holding a by-election.
+
+</details>
 
 ### Council Act 9.2
 
@@ -582,6 +610,8 @@ _(Repealed via [Council Act 24.3](#council-act-24-3))_
 
 _(Superceded via [Council Act 13.8](#council-act-13-8); Superceded via [Council Act 15.2](#council-act-15-2))_
 
+_Note: See [Council Act 9.1](#council-act-9-1) for a note about recordkeeping issues surrounding Council Acts 7.1, 9.1, and 13.8 that affects this act._
+
 <details>
 <summary>Version History</summary>
 
@@ -680,6 +710,8 @@ _Note: The link has changed, the Code of Court Procedure can now be found [here]
 > Amend the Third Charter to include the High Justice changes from the Second Council and the citizenship voting for new citizens as new articles.
 
 _(Partly superceded via [Council Act 15.6](#council-act-15-6))_
+
+_Note: See [Council Act 9.1](#council-act-9-1) for a note about recordkeeping issues surrounding Council Acts 7.1, 9.1, and 13.8._
 
 ## Decisions of the Eighth Council - February 14th, 2019 to June 14th, 2019
 
@@ -974,14 +1006,22 @@ Schedule 3: Recount [[Proposal] Clarify the legislative powers of the Council (R
 
 TODO: Version histories with only one entry should just have "Original Text" in the summary?
 
-TODO: Notify government of legal update to 10.1 (+make a note?)!
-
-TODO: 7.1 vs 9.1 (+make a note?)
-
-TODO: Is 7.1 actually restored? Sort out conflation with 9.1-- was 13.8 supposed to keep 9.1 repealed instead of 7.1?
-
 TODO: Redo council numbering
 
 _NOTE: Routine Council duties (eg. confirming new Alcuahtls, territory changes, treaties, military duties, trade deals, derelictions, censuses, and other non-Act decisions) should not be recorded here in the future. Only Acts, or "Executive decisions that regard matters of law", should be recorded here. Treaties are recorded [insert link here] here._ (TODO) (Should they be recorded elsewhere?)
 
 TODO: Why does the Council declare mistrials? The HJ should be able to as well per 15.12!
+
+7.1/9.1 timeline:
+
+7.1 written
+
+9.1 written
+
+7.1 accidentally overwritten by 9.1
+
+13.3 repeals 7.1 and 9.1
+
+13.8 restores 9.1, but not 7.1 (on Council Acts page, 7.1 (with 9.1's text) is restored erroneously)
+
+OP30 modifies 7.1 or 9.1 (unclear which one, referenced by text only)
