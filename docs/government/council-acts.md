@@ -610,7 +610,7 @@ _(Repealed via [Council Act 24.3](#council-act-24-3))_
 
 _(Superceded via [Council Act 13.8](#council-act-13-8); Superceded via [Council Act 15.2](#council-act-15-2))_
 
-_Note: See [Council Act 9.1](#council-act-9-1) for a note about recordkeeping issues surrounding Council Acts 7.1, 9.1, and 13.8 that affects this act._
+_Note: See [Council Act 9.1](#council-act-9-1) for a note about recordkeeping issues surrounding Council Acts 7.1, 9.1, and 13.8 that affect this act._
 
 <details>
 <summary>Version History</summary>
@@ -1004,24 +1004,4 @@ Schedule 3: Recount [[Proposal] Clarify the legislative powers of the Council (R
 
 ---
 
-TODO: Version histories with only one entry should just have "Original Text" in the summary?
-
-TODO: Redo council numbering
-
-_NOTE: Routine Council duties (eg. confirming new Alcuahtls, territory changes, treaties, military duties, trade deals, derelictions, censuses, and other non-Act decisions) should not be recorded here in the future. Only Acts, or "Executive decisions that regard matters of law", should be recorded here. Treaties are recorded [insert link here] here._ (TODO) (Should they be recorded elsewhere?)
-
-TODO: Why does the Council declare mistrials? The HJ should be able to as well per 15.12!
-
-7.1/9.1 timeline:
-
-7.1 written
-
-9.1 written
-
-7.1 accidentally overwritten by 9.1
-
-13.3 repeals 7.1 and 9.1
-
-13.8 restores 9.1, but not 7.1 (on Council Acts page, 7.1 (with 9.1's text) is restored erroneously)
-
-OP30 modifies 7.1 or 9.1 (unclear which one, referenced by text only)
+_Note: Routine Council duties (eg. Alcuahtl confirmations, territory changes, treaties, military duties, trade deals, derelictions, censuses, and other non-Act decisions) should not be recorded here in the future, even if they involve a Council vote. Only Acts, or "Executive decisions that regard matters of law", should be recorded here. Treaties are recorded [here](/constitution/treaties) instead, and the rest are not currently directly recorded._
