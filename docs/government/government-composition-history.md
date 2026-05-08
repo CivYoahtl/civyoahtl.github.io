@@ -544,7 +544,7 @@ There was an emergency election due to war, thus the early end date
 - x1025
 - Matt4fun9
 
-## Forty-Sixth Council (3/7/2026 - Now)
+## Forty-Sixth Council (3/7/2026 - 5/7/2026)
 
 **Alcuahtl**: MechanicalRift
 
@@ -553,3 +553,14 @@ There was an emergency election due to war, thus the early end date
 - Matt4fun9
 - ant
 - Dant
+
+
+## Forty-Seventh Council (5/7/2026 - Now)
+
+**Alcuahtl**: MechanicalRift
+
+- MechanicalRift
+- 1Stev0
+- Matt4fun9
+- Pikaboo
+- ant
