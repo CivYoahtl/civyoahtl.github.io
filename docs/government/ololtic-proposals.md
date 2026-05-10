@@ -1878,3 +1878,11 @@ Proposer: 1Stev0, Seconded by: Grimmore and Nukinmouse, Date: April 14th, 2026
 **Proposal fails:** 5 Ayes, 12 Nays, 0 Abstentions
 
 </details>
+
+## [Proposal] DO YOUR HOMEWORK ACT
+
+Proposer: MechanicalRift, Seconded by: Grimmore, Date: May 7th, 2026
+
+> If you have something due that night and you refuse to your homework. A member of the Ololtic may pearl you
+
+**Proposal Passes:** 16 Ayes, 6 Nays, 1 Abstention
