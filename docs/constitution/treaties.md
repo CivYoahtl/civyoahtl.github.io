@@ -98,6 +98,13 @@ Yoahtl signed the [Rivia and Yoahtl Non-Aggression Pact](/storage/treaties/RIV_Y
 
 - Signed August 9th, 2023
 
+## Treaty of Siccufrigus 
+Yoahtl agreed to an implicit treaty with Okx for the creation of a new autonomous town known as the “Autonomous Territory of Siccufrigus.”
+![image](/storage/treaties/treaty-of-siccufrigus.png)
+
+The [full Siccufrigan treaty](/storage/treaties/Siccufrigan-Yoahtl-Treaty.pdf). ([Original document](https://docs.google.com/document/d/1RSxMpdSDEDMRlRZRgkzMs90lKBxJF_YzNXVLkBPss5s/edit#))
+-Signed August 31st, 2023
+
 ## Yoahtl and Gang Shi Non-Aggression Pact
 
 Yoahtl signed the [Yoahtl and Gang Shi Non-Aggression Pact](/storage/treaties/Yoahtl-Gang-Shi-NAP.pdf) treaty, ensuring peace between our two nations. _([Google doc version](https://docs.google.com/document/d/1EMo9_HJOKTCKZNtb9t85htzn9-awVBSvmhMit9af3DQ/edit))_

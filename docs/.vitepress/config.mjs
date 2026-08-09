@@ -128,33 +128,45 @@ export default withPwa(
       sidebar: {
         "/constitution/": [
           {
-            text: "Constitution",
+            text: "Constitutions",
             items: [
-              { text: "The Third Charter", link: "/constitution/charter" },
-              { text: "Treaties", link: "/constitution/treaties" },
+              { text: "The Fourth Charter (TBD)", link: "/constitution/charter" },
+              { text: "The Third Charter (Current)", link: "/constitution/charter" },
+              { text: "The Second Charter", link: "/constitution/secound-charter" },
+              { text: "The First Charter (Revised)", link: "/constitution/first-charter-revised" },
+              { text: "The First Charter", link: "/constitution/first-charter" },
+              { text: "Articles of Governance", link: "/constitution/articles-of-governance" },
             ],
           },
           {
-            text: "Historical",
+            text: "Foreign Affairs",
             items: [
-              {
-                text: "Articles of Governance",
-                link: "/constitution/articles-of-governance",
-              },
-              {
-                text: "The First Charter",
-                link: "/constitution/first-charter",
-              },
-              {
-                text: "The First Charter (Revised)",
-                link: "/constitution/first-charter-revised",
-              },
-              {
-                text: "The Second Charter",
-                link: "/constitution/secound-charter",
-              },
+              { text: "Treaties", link: "/constitution/treaties" },
+              { text: "Alliances", link: "/constitution/alliances" },
+              { text: "Historical", link: "/constitution/historical" },
             ],
           },
+          // {
+          //   text: "Historical",
+          //   items: [
+          //     {
+          //       text: "Articles of Governance",
+          //       link: "/constitution/articles-of-governance",
+          //     },
+          //     {
+          //       text: "The First Charter",
+          //       link: "/constitution/first-charter",
+          //     },
+          //     {
+          //       text: "The First Charter (Revised)",
+          //       link: "/constitution/first-charter-revised",
+          //     },
+          //     {
+          //       text: "The Second Charter",
+          //       link: "/constitution/secound-charter",
+          //     },
+          //   ],
+          // },
         ],
         "/government/": [
           {
